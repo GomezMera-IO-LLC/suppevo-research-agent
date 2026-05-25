@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "pubmed": {
+      "command": "uvx",
+      "args": ["suppevo-pubmed-mcp@latest"],
+      "env": {
+        "NCBI_API_KEY": ""
+      },
+      "disabled": false,
+      "autoApprove": [
+        "search_pubmed",
+        "fetch_article",
+        "fetch_abstract",
+        "verify_citation",
+        "search_by_title"
+      ]
+    },
+    "suppevo": {
+      "command": "uvx",
+      "args": ["suppevo-data-mcp@latest"],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

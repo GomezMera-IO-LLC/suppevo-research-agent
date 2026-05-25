@@ -1,0 +1,28 @@
+{
+  "name": "suppevo-research-agent",
+  "displayName": "Suppevo Biomedical Research Agent",
+  "version": "1.0.0",
+  "description": "Biomedical research power for identifying biomarkers, ingredients, and evidence links with PubMed verification and DSHEA compliance.",
+  "keywords": [
+    "biomedical",
+    "research",
+    "biomarkers",
+    "ingredients",
+    "evidence",
+    "pubmed",
+    "supplements",
+    "DSHEA",
+    "FDA",
+    "compliance",
+    "citations",
+    "nutrition",
+    "dietary supplements",
+    "structure-function claims"
+  ],
+  "author": "GomezMera IO LLC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GomezMera-IO-LLC/suppevo-research-agent"
+  }
+}
