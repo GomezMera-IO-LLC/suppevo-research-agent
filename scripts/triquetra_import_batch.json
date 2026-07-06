@@ -1,0 +1,571 @@
+[
+  {
+    "name": "Flora Biome™ Live Probiotic",
+    "category": "digestion",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "1 tablespoon (15 mL)",
+    "servings_per_container": 16,
+    "description": "3-in-1 liquid probiotic with fermented herbal prebiotics from 18 medicinal herbs, live probiotic cultures, and naturally occurring postbiotics from fermentation for comprehensive gut and microbiome support.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/flora-biome-liquid-probiotic-viral-on-tiktok.jpg?v=1773248242",
+    "dosage": "Take 1 tablespoon daily. Can be mixed with water or juice.",
+    "website": "https://triquetrahealth.com/products/flora-biome-organic",
+    "ingredients": [
+      {
+        "name": "Proprietary Probiotic & Prebiotic Blend (18 Fermented Herbs)",
+        "amount": "15",
+        "unit": "mL"
+      },
+      {
+        "name": "Lactobacillus acidophilus",
+        "amount": null,
+        "unit": "CFU"
+      },
+      {
+        "name": "Lactobacillus rhamnosus",
+        "amount": null,
+        "unit": "CFU"
+      },
+      {
+        "name": "Bifidobacterium bifidum",
+        "amount": null,
+        "unit": "CFU"
+      }
+    ]
+  },
+  {
+    "name": "GLP-Activate: Hunger & Metabolism Support",
+    "category": "weight",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "2 capsules",
+    "servings_per_container": 30,
+    "description": "Natural GLP-1 pathway support supplement with clinically studied ingredients for appetite control, metabolic function, and healthy weight management.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/glp-activate-natural-glp-1-support-metabolic-appetite-supplement.jpg?v=1773261592",
+    "dosage": "Take 2 capsules daily before meals.",
+    "website": "https://triquetrahealth.com/products/glp-activate",
+    "ingredients": [
+      {
+        "name": "Berberine HCl",
+        "amount": "500",
+        "unit": "mg"
+      },
+      {
+        "name": "Green Tea Extract (EGCG)",
+        "amount": "250",
+        "unit": "mg"
+      },
+      {
+        "name": "Organic Ceylon Cinnamon",
+        "amount": "200",
+        "unit": "mg"
+      },
+      {
+        "name": "Aloe Vera Extract",
+        "amount": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "Curcumin C3 Complex®",
+        "amount": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "Taurine",
+        "amount": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "AXIVITE® Phenylcapsaicin",
+        "amount": "3",
+        "unit": "mg"
+      },
+      {
+        "name": "Boron (as Boron Glycinate)",
+        "amount": "3",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "GLP-Pre: GLP-1 Prebiotic Fiber Complex",
+    "category": "digestion",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "powder",
+    "serving_size": "1 scoop (7g)",
+    "servings_per_container": 30,
+    "description": "GLP-1 prebiotic fiber complex with resistant starch, XOS, and mushroom beta glucans supporting natural GLP-1 pathways, gut microbiome balance and metabolic wellness.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/glp-pre-prebiotic-fiber-complex-natural-glp-1-support-powder.jpg?v=1773247393",
+    "dosage": "Mix 1 scoop with 8-12 oz of water daily.",
+    "website": "https://triquetrahealth.com/products/glp-pre-glp-1-prebiotic-fiber-complex",
+    "ingredients": [
+      {
+        "name": "Resistant Starch (Green Banana)",
+        "amount": "3000",
+        "unit": "mg"
+      },
+      {
+        "name": "XOS (Xylooligosaccharides)",
+        "amount": "2000",
+        "unit": "mg"
+      },
+      {
+        "name": "Mushroom Beta Glucans",
+        "amount": "500",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "AK-Postbio: Akkermansia Probiotic 30 Billion TFU",
+    "category": "digestion",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "1 capsule",
+    "servings_per_container": 30,
+    "description": "Max strength pasteurized Akkermansia muciniphila probiotic at clinically validated dose with patented strain. Superior pasteurized form for highest absorption. Supports gut health, natural metabolism, and GLP-1 production.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/ak-postbio-akkermansia-probiotic-30-billion-tfu-gut-health.jpg?v=1773247261",
+    "dosage": "Take 1 capsule daily.",
+    "website": "https://triquetrahealth.com/products/ak-postbio-akkermansia-1",
+    "ingredients": [
+      {
+        "name": "Akkermansia muciniphila (pasteurized)",
+        "amount": "30",
+        "unit": "billion TFU"
+      }
+    ]
+  },
+  {
+    "name": "CranEaze Urinary Tract Support",
+    "category": "general",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "2 capsules",
+    "servings_per_container": 30,
+    "description": "Urinary tract support with clinically validated 36 mg soluble PAC from 100% cranberry juice extract plus 1000 mg D-Mannose. Uses soluble PAC proven to be up to 300% more effective than whole-plant PAC.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/craneaze-cranberry-extract-urinary-tract-health-36mg-pac-d-mannose.jpg?v=1773248842",
+    "dosage": "Take 2 capsules daily with water.",
+    "website": "https://triquetrahealth.com/products/craneaze-urinary-tract-support",
+    "ingredients": [
+      {
+        "name": "Cranberry Juice Extract (36 mg Soluble PAC)",
+        "amount": "500",
+        "unit": "mg"
+      },
+      {
+        "name": "D-Mannose",
+        "amount": "1000",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin C (as Ascorbic Acid)",
+        "amount": "60",
+        "unit": "mg",
+        "daily_value_percent": 67
+      }
+    ]
+  },
+  {
+    "name": "Ashwa-70™ Ashwagandha Extract",
+    "category": "stress",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "1 capsule",
+    "servings_per_container": 60,
+    "description": "Max potency ashwagandha extract with 35% withanolide concentration providing 70 mg withanolides per capsule. Contains 21 bioactive withanolides with BioPerine® for 13x higher bioavailability. Supports stress adaptation, sleep quality, athletic performance, and testosterone.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/AshwaMainImage.jpg?v=1762198157",
+    "dosage": "Take 1 capsule daily with food.",
+    "website": "https://triquetrahealth.com/products/ashwa-70-ashwagandha-extract",
+    "ingredients": [
+      {
+        "name": "Ashwagandha Root Extract (35% withanolides, 70mg)",
+        "amount": "200",
+        "unit": "mg"
+      },
+      {
+        "name": "BioPerine® Black Pepper Extract",
+        "amount": "5",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "L-Methylfolate (15 mg) Plus Methyl-B12 Liquid",
+    "category": "energy",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "1 mL",
+    "servings_per_container": 30,
+    "description": "High-dose 15mg L-Methylfolate (5-MTHF) active folate with Methyl B12 sublingual liquid drops for methylation, brain, mood, heart, and nerve support.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/l-methylfolate-15mg-liquid-drops-5-mthf-methyl-b12-purityaward.jpg?v=1773681916",
+    "dosage": "Take 1 mL (approx. 1 dropper) daily, sublingually or in water.",
+    "website": "https://triquetrahealth.com/products/l-methylfolate-15-mg-plus-methyl-b12-1",
+    "ingredients": [
+      {
+        "name": "L-Methylfolate (as (6S)-5-Methyltetrahydrofolic Acid)",
+        "amount": "15",
+        "unit": "mg",
+        "daily_value_percent": 3750
+      },
+      {
+        "name": "Vitamin B12 (as Methylcobalamin)",
+        "amount": "1000",
+        "unit": "mcg",
+        "daily_value_percent": 41667
+      }
+    ]
+  },
+  {
+    "name": "L-Methylfolate (15 mg) Plus Methyl B12 Capsules",
+    "category": "energy",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "1 capsule",
+    "servings_per_container": 60,
+    "description": "High-dose 15mg L-Methylfolate (5-MTHF) capsules with Methyl B12 for methylation, brain, mood, heart and nerve support. Bioactive folate form for those with MTHFR variants.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/l-methylfolate-15mg-capsules-5-mthf-methyl-b12-methylation.jpg?v=1773681854",
+    "dosage": "Take 1 capsule daily with or without food.",
+    "website": "https://triquetrahealth.com/products/l-methylfolate-15-mg-plus-methyl-b12",
+    "ingredients": [
+      {
+        "name": "L-Methylfolate (as (6S)-5-Methyltetrahydrofolic Acid)",
+        "amount": "15",
+        "unit": "mg",
+        "daily_value_percent": 3750
+      },
+      {
+        "name": "Vitamin B12 (as Methylcobalamin)",
+        "amount": "1000",
+        "unit": "mcg",
+        "daily_value_percent": 41667
+      }
+    ]
+  },
+  {
+    "name": "L-Methylfolate (1mg) Plus Methyl-B12",
+    "category": "energy",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "1 mL",
+    "servings_per_container": 30,
+    "description": "1mg L-Methylfolate (5-MTHF) sublingual liquid drops with Methyl B12 for daily methylation support. Bioactive folate form ideal for maintenance dosing.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/l-methylfolate-1mg-liquid-drops-5-mthf-methyl-b12.jpg?v=1773681976",
+    "dosage": "Take 1 mL (approx. 1 dropper) daily, sublingually or in water.",
+    "website": "https://triquetrahealth.com/products/l-methylfolate-1mg-plus-methyl-b12",
+    "ingredients": [
+      {
+        "name": "L-Methylfolate (as (6S)-5-Methyltetrahydrofolic Acid)",
+        "amount": "1",
+        "unit": "mg",
+        "daily_value_percent": 250
+      },
+      {
+        "name": "Vitamin B12 (as Methylcobalamin)",
+        "amount": "1000",
+        "unit": "mcg",
+        "daily_value_percent": 41667
+      }
+    ]
+  },
+  {
+    "name": "BioBeet Beetroot Extract",
+    "category": "heart",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "2 capsules",
+    "servings_per_container": 30,
+    "description": "Concentrated beetroot extract capsules supporting nitric oxide production, cardiovascular health, and exercise performance.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/biobeet-beetroot-extract-nitric-oxide-cardiovascular.jpg?v=1773248332",
+    "dosage": "Take 2 capsules daily.",
+    "website": "https://triquetrahealth.com/products/biobeet-beetroot-extract",
+    "ingredients": [
+      {
+        "name": "Organic Beetroot Extract",
+        "amount": "1000",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "Femositol Capsules - Inositol Complex",
+    "category": "general",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "3 capsules",
+    "servings_per_container": 30,
+    "description": "Inositol complex combining Myo-Inositol and D-Chiro-Inositol in the ideal 40:1 ratio for hormonal balance, reproductive health, and metabolic support.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/femositol-inositol-complex-myo-dchiro-40-1-ratio.jpg?v=1773248404",
+    "dosage": "Take 3 capsules daily with food.",
+    "website": "https://triquetrahealth.com/products/femositol-capsules-inositol-complex",
+    "ingredients": [
+      {
+        "name": "Myo-Inositol",
+        "amount": "2000",
+        "unit": "mg"
+      },
+      {
+        "name": "D-Chiro-Inositol",
+        "amount": "50",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate (as L-Methylfolate)",
+        "amount": "400",
+        "unit": "mcg",
+        "daily_value_percent": 100
+      }
+    ]
+  },
+  {
+    "name": "BioActive B12 Liquid: Vitamin B12 Plus L-Methylfolate",
+    "category": "energy",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "1 mL",
+    "servings_per_container": 30,
+    "description": "Bioactive vitamin B12 (as Methylcobalamin and Adenosylcobalamin) with L-Methylfolate in sublingual liquid form for superior absorption and energy support.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/bioactive-b12-liquid-methylcobalamin-methylfolate.jpg?v=1773248448",
+    "dosage": "Take 1 mL daily sublingually.",
+    "website": "https://triquetrahealth.com/products/bioactive-b12-vitamin-b12-plus-l-methylfolate-1",
+    "ingredients": [
+      {
+        "name": "Vitamin B12 (as Methylcobalamin & Adenosylcobalamin)",
+        "amount": "5000",
+        "unit": "mcg",
+        "daily_value_percent": 208333
+      },
+      {
+        "name": "L-Methylfolate (as (6S)-5-MTHF)",
+        "amount": "400",
+        "unit": "mcg",
+        "daily_value_percent": 100
+      }
+    ]
+  },
+  {
+    "name": "Nasomin Nasal Cleanse",
+    "category": "immunity",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "2 sprays per nostril",
+    "servings_per_container": 100,
+    "description": "Nasal iodine spray for natural nasal cleanse and nasal hygiene support. Helps maintain clean nasal passages and supports immunity and sinus health year-round.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/nasomin-nasal-iodine-spray-natural-cleanse.jpg?v=1773249226",
+    "dosage": "Spray 2 times in each nostril as needed.",
+    "website": "https://triquetrahealth.com/products/nasomin-nasal-antiseptic",
+    "ingredients": [
+      {
+        "name": "Povidone-Iodine",
+        "amount": "0.5",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "Quercetin Complete",
+    "category": "immunity",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "2 capsules",
+    "servings_per_container": 30,
+    "description": "Complete quercetin formula with enhanced absorption for immune support, respiratory health, and antioxidant protection.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/quercetin-complete-immune-support-antioxidant.jpg?v=1773249308",
+    "dosage": "Take 2 capsules daily with food.",
+    "website": "https://triquetrahealth.com/products/quercetin-complete",
+    "ingredients": [
+      {
+        "name": "Quercetin (as Quercetin Phytosome)",
+        "amount": "500",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin C",
+        "amount": "250",
+        "unit": "mg"
+      },
+      {
+        "name": "Bromelain",
+        "amount": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc (as Zinc Picolinate)",
+        "amount": "15",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "Plant-D3 Organic Vitamin D3 Liquid Concentrate",
+    "category": "immunity",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "1 drop",
+    "servings_per_container": 900,
+    "description": "Organic plant-based Vitamin D3 liquid concentrate from lichen. Vegan-friendly D3 in high-concentration drops with MCT oil for optimal absorption.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/plant-d3-organic-vitamin-d3-liquid-concentrate-vegan.jpg?v=1773249390",
+    "dosage": "Take 1 drop daily with food.",
+    "website": "https://triquetrahealth.com/products/plant-d3-organic-vitamin-d3-liquid-concentrate",
+    "ingredients": [
+      {
+        "name": "Vitamin D3 (as Cholecalciferol from Lichen)",
+        "amount": "5000",
+        "unit": "IU",
+        "daily_value_percent": 1250
+      }
+    ]
+  },
+  {
+    "name": "Total Selenium - 200 mcg, Plant-Based Selenium",
+    "category": "immunity",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "1 capsule",
+    "servings_per_container": 60,
+    "description": "Plant-based selenium supplement providing 200 mcg per capsule for thyroid support, immune function, and antioxidant defense.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/total-selenium-200mcg-plant-based-thyroid-immune.jpg?v=1773249564",
+    "dosage": "Take 1 capsule daily with food.",
+    "website": "https://triquetrahealth.com/products/total-selenium-200-mcg-plant-based-selenium",
+    "ingredients": [
+      {
+        "name": "Selenium (from Organic Mustard Seed Extract)",
+        "amount": "200",
+        "unit": "mcg",
+        "daily_value_percent": 364
+      }
+    ]
+  },
+  {
+    "name": "SoActive Berberine",
+    "category": "weight",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "1 capsule",
+    "servings_per_container": 60,
+    "description": "Enhanced absorption berberine supplement for metabolic health, blood sugar support, and cardiovascular wellness.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/soactive-berberine-enhanced-absorption-metabolic-support.jpg?v=1773249664",
+    "dosage": "Take 1 capsule 1-2 times daily with meals.",
+    "website": "https://triquetrahealth.com/products/soactive-berberine",
+    "ingredients": [
+      {
+        "name": "Berberine HCl (SoActive enhanced absorption)",
+        "amount": "500",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "Creatine Reserve™ Dual Pathway Creatine Complex",
+    "category": "sports",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "6 capsules",
+    "servings_per_container": 30,
+    "description": "Dual pathway creatine complex combining multiple forms for comprehensive muscle support, strength, recovery, and cognitive performance.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/creatine-reserve-dual-pathway-creatine-complex.jpg?v=1773248502",
+    "dosage": "Take 6 capsules daily. Can be split into 2 doses of 3 capsules.",
+    "website": "https://triquetrahealth.com/products/creatine-reserve",
+    "ingredients": [
+      {
+        "name": "Creatine Monohydrate",
+        "amount": "3000",
+        "unit": "mg"
+      },
+      {
+        "name": "Creatine HCl",
+        "amount": "1500",
+        "unit": "mg"
+      },
+      {
+        "name": "BioPerine® Black Pepper Extract",
+        "amount": "5",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "name": "Kids Methylfolate Plus B12 Cofactor",
+    "category": "kids",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "0.5 mL",
+    "servings_per_container": 60,
+    "description": "L-Methylfolate with Methyl B12 sublingual liquid for children. Supports brain development, mood, and behavior with adjustable dosing for kids.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/kids-l-methylfolate-liquid-5-mthf-methyl-b12-brain-development.jpg?v=1773249143",
+    "dosage": "0.5 mL daily for children. Adjust as directed by healthcare provider.",
+    "website": "https://triquetrahealth.com/products/kids-methylfolate-plus-b12-cofactor",
+    "ingredients": [
+      {
+        "name": "L-Methylfolate (as (6S)-5-MTHF)",
+        "amount": "400",
+        "unit": "mcg",
+        "daily_value_percent": 100
+      },
+      {
+        "name": "Vitamin B12 (as Methylcobalamin)",
+        "amount": "250",
+        "unit": "mcg"
+      }
+    ]
+  },
+  {
+    "name": "Ionic Zinc Liquid Supplement",
+    "category": "immunity",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "liquid",
+    "serving_size": "1 mL (approx. 20 drops)",
+    "servings_per_container": 60,
+    "description": "Highly bioavailable ionic zinc liquid supplement for immune support, skin health, and enzymatic function.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/ionic-zinc-liquid-supplement-immune-support.jpg?v=1773249788",
+    "dosage": "Take 1 mL (20 drops) daily in water or juice.",
+    "website": "https://triquetrahealth.com/products/ionic-zinc",
+    "ingredients": [
+      {
+        "name": "Zinc (as Zinc Sulfate)",
+        "amount": "15",
+        "unit": "mg",
+        "daily_value_percent": 136
+      }
+    ]
+  },
+  {
+    "name": "Siberian Rhodiola (Rhodiola Rosea Extract)",
+    "category": "stress",
+    "brand": "Triquetra Health",
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "form": "capsule",
+    "serving_size": "1 capsule",
+    "servings_per_container": 60,
+    "description": "Siberian Rhodiola Rosea adaptogenic extract for stress resilience, mental clarity, physical endurance, and mood support.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/siberian-rhodiola-rosea-extract-adaptogen-stress-support.jpg?v=1773249876",
+    "dosage": "Take 1 capsule daily, preferably in the morning.",
+    "website": "https://triquetrahealth.com/products/siberian-rhodiola-rhodiola-rosea-extract",
+    "ingredients": [
+      {
+        "name": "Rhodiola Rosea Root Extract (3% Rosavins, 1% Salidroside)",
+        "amount": "500",
+        "unit": "mg"
+      }
+    ]
+  }
+]

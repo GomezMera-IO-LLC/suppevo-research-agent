@@ -1,0 +1,41 @@
+{
+  "session_summary": {
+    "pages_processed": "All pages completed (has_more=false)",
+    "products_enriched_this_session": 47,
+    "deletion_candidates_this_session": 19,
+    "total_deletion_candidates": 89,
+    "running_total_with_images": "982 (prior) + 47 (this session) = 1029",
+    "note": "Enrichment COMPLETE. All remaining pages processed. has_more=false confirmed."
+  },
+  "next_cursor": null,
+  "has_more": false,
+  "new_deletion_candidates": [
+    {"id":"eb5b99c8-dd6a-4c0b-9bc5-d29f358b373d","name":"Bai Shao Yao Sugar Free","upc":"617503484253"},
+    {"id":"ec7913fe-d250-4dd1-a6f1-49d558c202b8","name":"Anxiety Remedy Alcohol Free","upc":"0606595867525"},
+    {"id":"edbdce69-ca7b-4fba-a277-56e1de350fe3","name":"California Poppy and St John's Wort Alcohol Free","upc":"0606595874189"},
+    {"id":"edc65634-3b15-4fb5-873b-c035cba52282","name":"Juniper Juniperus monosperma Alcohol Free","upc":"7429524717707"},
+    {"id":"eed8bc87-84f2-47b3-8182-68271bb854d6","name":"Anxiety Care Alcohol Free","upc":"0606595867433"},
+    {"id":"efb8a589-3425-467a-83f6-b19e5072937c","name":"California Poppy and Kava Kava Alcohol Free","upc":"0606595874004"},
+    {"id":"f07f8fce-3819-4e91-ab5f-66e60f6f4cd0","name":"Chinese Quince Chaenomeles speciosa Alcohol Free","upc":"606595922255"},
+    {"id":"f13098f3-6dad-419b-89f2-bac1062486a3","name":"Eastern Red Cedar Alcohol Free","upc":"0617503382122"},
+    {"id":"f1d3575b-a8a5-46b1-ae4e-e5242d71f24d","name":"Siberian Cocklebur Sugar Free","upc":"617503353108"},
+    {"id":"f1fbfa31-ecee-4215-90fe-445d8abace53","name":"Muira Puama","upc":"7429524327333"},
+    {"id":"f29accce-9b12-4748-8205-f50b2364d695","name":"California Poppy and Lavender Sugar Free","upc":"0606595873557"},
+    {"id":"f2f84379-1355-467e-968c-392b340ad472","name":"Dong Chong Xia Cao","upc":"617503485137"},
+    {"id":"f5ae6920-fdf8-496a-9352-41662b6a4bf9","name":"Grains of Paradise","upc":"7429523498430"},
+    {"id":"f6e4e99d-83a4-4ad6-b64d-9bfac76f2ad8","name":"Ban Xia Fa Alcohol Free","upc":"7429523567563"},
+    {"id":"f7c092da-abff-4326-b09a-9b7bbc8fde2d","name":"Boldo and Fringe Alcohol Free","upc":"0606595869147"},
+    {"id":"f7ef5e4a-2740-43e4-9aae-387dc3d15340","name":"Pygeum Alcohol Free","upc":"7429524434444"},
+    {"id":"f800e843-4465-4a0b-b48c-740f5c2465a5","name":"Turkey Tail Mushroom Alcohol Free","upc":"0606595854389"},
+    {"id":"fa0bc94c-99f6-4b34-b24f-2748eda9a3d2","name":"Bai Zhi Sugar Free","upc":"7429523366395"},
+    {"id":"fa3ce780-6b6d-45c3-ba87-e071be98606e","name":"Wolly Fern Alcohol Free","upc":"617503516893"},
+    {"id":"fc958abf-cdfa-40fe-99b7-5e51514db465","name":"Chinese Knotweed Sugar Free","upc":"7429523980973"},
+    {"id":"fcaca522-98dd-4bbe-83d3-a5f8c9a0c500","name":"Anxiety Relief Sugar Free","upc":"0606595867617"},
+    {"id":"fcecee3a-0311-422d-bfb1-3327d642f9e2","name":"Small Flower Willow Sugar Free","upc":"0617503376800"},
+    {"id":"fd26b421-ad70-4510-ab1f-ae804a63aa1a","name":"Muira Puama and Catuaba Alcohol Free","upc":"606595910962"},
+    {"id":"fd88d2e2-1e61-4287-ae18-27d8c538f02d","name":"Grains of Paradise Alcohol Free","upc":"7429523598529"},
+    {"id":"fe19de8d-1d85-49bc-8195-e1d94e766db9","name":"Immune Support Alcohol Free","upc":"606595906460"},
+    {"id":"fed2a8ca-265c-4a09-80ef-21d667ee3e41","name":"Buckwheat Polygonum fagopyrum Sugar Free","upc":"7429523474496"},
+    {"id":"ff8df20e-3952-4578-b6ee-940129a829fa","name":"Juniper Juniperus monosperma","upc":"7429524617618"}
+  ]
+}

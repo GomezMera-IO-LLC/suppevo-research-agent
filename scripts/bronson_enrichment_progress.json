@@ -1,0 +1,112 @@
+{
+  "brand": "Bronson",
+  "brand_id": "7e39becd-3e2c-4a5a-bc7d-a8c2a122ca67",
+  "enrichment_date": "2026-07-01",
+  "brand_enrichment": {
+    "status": "completed",
+    "fields_updated": [
+      "headquarters (Long Island, New York, United States)",
+      "city (Long Island)",
+      "state (New York)",
+      "brand_type (independent)",
+      "known_for (Vitamins, Minerals, USDA Organic Supplements, Physician-Recommended, cGMP Certified, Science-Backed Formulas)",
+      "badges (cGMP Certified, FDA Registered Facility, USDA Organic (Select Products), Made in USA, Physician Recommended)",
+      "parent_company (Bronson Laboratories)",
+      "website_platform (Shopify)"
+    ]
+  },
+  "product_enrichment": {
+    "status": "completed",
+    "total_products_in_database": 160,
+    "products_enriched_this_session": 88,
+    "fields_commonly_updated": [
+      "description",
+      "dosage",
+      "form",
+      "serving_size",
+      "servings_per_container",
+      "category (corrected where wrong)",
+      "ingredients (with amounts, units, daily_value_percent)"
+    ],
+    "completeness_improvements": {
+      "before": "Most products at 77% (some at 69-73%)",
+      "after": "32 products at 96% (with images), remaining at 86% (missing only images)"
+    }
+  },
+  "ingredient_linking": {
+    "status": "completed",
+    "unlinked_remaining": 0
+  },
+  "image_uploads": {
+    "status": "in_progress",
+    "completed": 72,
+    "note": "62 had images before this session, 10 new uploaded via Shopify products.json API batch",
+    "products_with_images_prior": 62,
+    "batch_uploaded_this_session": [
+      "DHEA 25 mg (1118cb96)",
+      "Magnesium Glycinate 200 MG (50bd7e1d)",
+      "Magnesium Citrate with Vitamin B6 (5cad3da4)",
+      "Bronson D-Mannose 500 MG (d20014d9)",
+      "Tart Cherry Extract plus Celery Seed (26323bbe)",
+      "Vitamin C 500 mg (726dbe7f)",
+      "Vitamin D3 10,000 IU 250 mcg (abe114e3)",
+      "Vitamin C 1000 mg Buffered with Calcium Ascorbate (08a48511)",
+      "Certified Organic Vitamin D3 2000 IU (79ae543f)",
+      "Copper Glycinate 3 MG (08e930c5)"
+    ],
+    "additional_matches_ready_for_next_batch": [
+      "Magnesium Glycinate Extra Strength 400 mg (1c43e3da) → Shopify: 'Magnesium Glycinate Extra Strength'",
+      "Vitamin D3 5000 IU (1f8c1042) → Shopify: 'Vitamin D3 5,000 IU (125 MCG), 360 Tablets'",
+      "Berberine 500 mg (17295de0) → Shopify: 'Berberine'",
+      "Vitamin C 1000 mg Sustained Release (77019bab) → Shopify: 'Vitamin C Ascorbic Acid Sustained Release - 1,000 mg'",
+      "Certified Organic Vitamin D3 10,000 IU (0f95a8d5) → Shopify: 'Vitamin D3 - 10,000 IU'",
+      "Vitamin B12 2500 mcg Cherry Flavor (188d1c53) → Shopify: 'Vitamin B12 Sublingual Quick Release - 2,500 mcg - Cherry'"
+    ],
+    "workflow": {
+      "step_1": "Discover image URL from Bronson collection pages (bronsonvitamins.com/collections/*)",
+      "step_2": "curl -sL <shopify_cdn_url> -o /tmp/bronson_<name>.jpg",
+      "step_3": "upload_product_image(product_id, 'main.jpg') -> presigned S3 URL",
+      "step_4": "curl -s -o /dev/null -w '%{http_code}' -X PUT -H 'Content-Type: image/jpeg' --data-binary @/tmp/bronson_<name>.jpg <presigned_url>",
+      "parallel_optimization": "Get 5 presigned URLs in parallel, upload sequentially in one curl command"
+    },
+    "collections_crawled": [
+      "/collections/all",
+      "/collections/best-sellers",
+      "/collections/vitamins-supplements",
+      "/collections/minerals",
+      "/collections/vitamin-c-supplements",
+      "/collections/vitamin-b-supplements",
+      "/collections/vitamin-d-supplements",
+      "/collections/vitamin-e-supplements",
+      "/collections/coq10-supplements",
+      "/collections/herbs-herbal-extracts",
+      "/collections/antioxidants",
+      "/collections/melatonin-sleep-supplements",
+      "/collections/dhea-supplements",
+      "/collections/fiber",
+      "/collections/multivitamins",
+      "/collections/beauty-supplements",
+      "/collections/immune-support-supplements",
+      "/collections/joint-health",
+      "/collections/liver-support",
+      "/collections/mood-support-formulas",
+      "/collections/vein-circulation"
+    ]
+  },
+  "remaining_work": {
+    "images_remaining": "~106 products still need images (178 total - 72 with images = 106 remaining)",
+    "approach_for_remaining": "Use /products.json?limit=250&page=1 API to match product names. Many Shopify titles differ from Suppevo names (e.g. dosage format differences, extra descriptors). Need better fuzzy matching or manual mapping for remaining.",
+    "next_batch_ready": "6 additional matches identified and ready for upload (see additional_matches_ready_for_next_batch)",
+    "asins": "Most products still missing Amazon ASIN numbers"
+  },
+  "session_summary": {
+    "brand_data_completeness": "~95% (missing only contact_email)",
+    "product_data_enrichment": "88 of ~178 products enriched with descriptions, dosage, form, ingredients",
+    "product_images": "72 of 178 products now have images (40%)",
+    "product_completeness_scores": {
+      "96_percent": 72,
+      "86_percent": "~50",
+      "77_percent_or_below": "~56"
+    }
+  }
+}

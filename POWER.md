@@ -66,6 +66,25 @@ biomedical, research, biomarkers, ingredients, evidence, pubmed, supplements, DS
 3. Cross-reference ingredient dosing with PubMed literature
 4. Report effective dose ranges supported by evidence
 
+### Product & Brand Data Collection
+
+1. Create/verify brand entity → `find_brand_by_name` or `create_brand`
+2. Enumerate products from brand website or retail sources
+3. Extract supplement facts (ingredients with amounts, units, %DV)
+4. Check for duplicates → `find_product_by_upc` or search by name+brand
+5. Create products → `bulk_create_products` (max 25/batch)
+6. Upload images → `upload_product_image` presigned URL
+7. Link ingredients → `auto_link_ingredients`
+8. Validate completeness → `public_get_product_completeness`
+9. See `product-collection-workflow.md` steering file for detailed guidance
+
+### Validate Existing Data
+
+1. Run `python scripts/validate_product_data.py` for full datastore audit
+2. Review reports: incomplete products, missing images, duplicates, brand gaps
+3. Use `--generate-tasks` to get prioritized enrichment work items
+4. Fill gaps via `update_product`, `upload_product_image`, `auto_link_ingredients`
+
 ## MCP Servers
 
 This power uses two MCP servers:

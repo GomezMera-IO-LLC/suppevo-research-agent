@@ -1,0 +1,3052 @@
+[
+  {
+    "id": "006b0d5c-c758-497a-b3dd-e67de26739fb",
+    "name": "Echinacea",
+    "name_lower": "echinacea",
+    "upc": "033984038707",
+    "asin": "B0001VW0EM",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-04/SO_038707_F.png",
+    "completeness_score": 92,
+    "category": "immunity"
+  },
+  {
+    "id": "01305e0a-4a57-4ba0-a6c7-b934f8c81555",
+    "name": "Pycnogenol 100 mg",
+    "name_lower": "pycnogenol 100 mg",
+    "upc": "033984023062",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "022b0b29-051f-4ea5-9c5f-89c8d8eb84c5",
+    "name": "Chelated Solamins Multimineral",
+    "name_lower": "chelated solamins multimineral",
+    "upc": "033984591905",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "02ce5306-f0ff-4d32-88bf-2e578deec45b",
+    "name": "Advanced Acidophilus Plus",
+    "name_lower": "advanced acidophilus plus",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "digestion"
+  },
+  {
+    "id": "036ed2d5-4f81-49d8-aed0-586d384b6dd5",
+    "name": "Chelated Magnesium",
+    "name_lower": "chelated magnesium",
+    "upc": "033984007017",
+    "asin": "B0016K0ZQM",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_007000_F.png",
+    "completeness_score": 96,
+    "category": "energy"
+  },
+  {
+    "id": "03846299-163c-4d50-8607-01a0bd392007",
+    "name": "Advanced Acidophilus",
+    "name_lower": "advanced acidophilus",
+    "upc": "033984000193",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "04faf3be-5aff-43cb-b019-d0ffb8828bee",
+    "name": "Selenium 200 mcg",
+    "name_lower": "selenium 200 mcg",
+    "upc": "033984025417",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "061d2156-bcec-4cd6-9326-3e8f9439e43f",
+    "name": "Whey To Go Whey Protein Powder Vanilla",
+    "name_lower": "whey to go whey protein powder vanilla",
+    "upc": "033984671683",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "heart"
+  },
+  {
+    "id": "06649290-d76c-413e-9e36-d089b89a9064",
+    "name": "No. 7",
+    "name_lower": "no. 7",
+    "upc": null,
+    "asin": "B0GL9VP4G5",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_504974_F.png",
+    "completeness_score": 92,
+    "category": "joints"
+  },
+  {
+    "id": "06d504d7-52fa-4662-9646-c91bbd139e11",
+    "name": "Saw Palmetto Berries",
+    "name_lower": "saw palmetto berries",
+    "upc": "033984040236",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "06eb882c-c97f-4d1f-93f4-8ac6a2300cdc",
+    "name": "Korean Ginseng",
+    "name_lower": "korean ginseng",
+    "upc": "033984039605",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "07378f21-b8e2-4147-9284-b3a7a64300d9",
+    "name": "Linseed Oil 1250 mg",
+    "name_lower": "linseed oil 1250 mg",
+    "upc": "033984015708",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "0746902c-fd4d-4573-97d8-fef3e717bd36",
+    "name": "Chewable Vitamin C 500 mg Natural Cran-Raspberry Flavor",
+    "name_lower": "chewable vitamin c 500 mg natural cran-raspberry flavor",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "immunity"
+  },
+  {
+    "id": "0795ef1d-448c-48a8-862e-08db3e7b0a60",
+    "name": "Liquid Vitamin D3 5000 IU Natural Orange Flavor",
+    "name_lower": "liquid vitamin d3 5000 iu natural orange flavor",
+    "upc": null,
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263872.jpg",
+    "completeness_score": 83,
+    "category": "immunity"
+  },
+  {
+    "id": "0803b288-7c0e-4a58-872f-aa34ba731dd0",
+    "name": "Ipriflavone 200 mg",
+    "name_lower": "ipriflavone 200 mg",
+    "upc": "033984014640",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "087b1790-e49c-4b83-b096-928a78bb7da3",
+    "name": "Male Multiple",
+    "name_lower": "male multiple",
+    "upc": "033984017443",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "beauty"
+  },
+  {
+    "id": "09336381-aa9c-4ffa-931f-b86eb543df99",
+    "name": "High-Lignan Flaxseed Oil 1250 mg",
+    "name_lower": "high-lignan flaxseed oil 1250 mg",
+    "upc": "033984013865",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "0955a3c8-bf99-4612-87a0-2c4c900e35cc",
+    "name": "MSM Powder",
+    "name_lower": "msm powder",
+    "upc": "033984017290",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "0a3b0bdd-5252-4e8e-8e7b-6adef6267d2e",
+    "name": "Calcium Lactate",
+    "name_lower": "calcium lactate",
+    "upc": "033984004818",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "0b58aaf7-bb95-4344-8e4f-f79b76299401",
+    "name": "Whole and Complete Pomegranate",
+    "name_lower": "whole and complete pomegranate",
+    "upc": "033984022447",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "0ba89b93-59af-4358-853b-9c2ec33469c3",
+    "name": "U-Cubes Children's Vitamin C Gummies",
+    "name_lower": "u-cubes children's vitamin c gummies",
+    "upc": "033984595989",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "kids"
+  },
+  {
+    "id": "0c78b939-ff28-45c3-bead-cde1c1b5bcb3",
+    "name": "Eleuthero Root Extract",
+    "name_lower": "eleuthero root extract",
+    "upc": "033984041462",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "0d134caa-1b1c-466f-b478-a36fc9e031ac",
+    "name": "Probi 20",
+    "name_lower": "probi 20",
+    "upc": "033984539242",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263873.jpg",
+    "completeness_score": 87,
+    "category": "digestion"
+  },
+  {
+    "id": "0d4a6136-adf7-4556-9ba4-90e0ea32dd4a",
+    "name": "Lyophilized Liver",
+    "name_lower": "lyophilized liver",
+    "upc": "033984025615",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "0e7ce582-5eb4-4425-89e1-78ab4405a525",
+    "name": "Chelated Iron",
+    "name_lower": "chelated iron",
+    "upc": "033984006805",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "0f799f02-998c-4c7e-be2b-03837a7f3097",
+    "name": "Octacosanol 2000 mcg",
+    "name_lower": "octacosanol 2000 mcg",
+    "upc": "033984020467",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "0f7de007-ef7c-47a6-9fe3-e9e97379c164",
+    "name": "Royal Jelly \"500\"",
+    "name_lower": "royal jelly \"500\"",
+    "upc": "033984024304",
+    "asin": "B0001VW3AI",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_024311_F.png",
+    "completeness_score": 92,
+    "category": "energy"
+  },
+  {
+    "id": "138e8cea-a8b8-42a3-af86-ccc660b1e00b",
+    "name": "Calcium Magnesium Citrate",
+    "name_lower": "calcium magnesium citrate",
+    "upc": "033984005105",
+    "asin": "B00020IC3A",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005105_F.png",
+    "completeness_score": 96,
+    "category": "energy"
+  },
+  {
+    "id": "141b6332-798e-4393-8e8e-fc15de274a10",
+    "name": "Ginger Root",
+    "name_lower": "ginger root",
+    "upc": "033984039032",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "14ab58f1-e6bf-4277-b38b-50e7044e1017",
+    "name": "Ubiquinol 100 mg (Reduced CoQ-10)",
+    "name_lower": "ubiquinol 100 mg (reduced coq-10)",
+    "upc": "033984186644",
+    "asin": "B001PYZCZI",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_026414_F.png",
+    "completeness_score": 92,
+    "category": "energy"
+  },
+  {
+    "id": "15e8969a-e390-4bd3-a84f-c37166ba9e20",
+    "name": "No-Flush Niacin (Inositol Hexanicotinate) 500 mg",
+    "name_lower": "no-flush niacin (inositol hexanicotinate) 500 mg",
+    "upc": "033984019119",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "1612f02a-2a4e-4930-8963-68ce520461d7",
+    "name": "Ester-C Plus 500 mg Vitamin C",
+    "name_lower": "ester-c plus 500 mg vitamin c",
+    "upc": "033984006928",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264159.jpg",
+    "completeness_score": 87,
+    "category": "immunity"
+  },
+  {
+    "id": "1671d287-08c0-49a8-bdf2-a55ca360b005",
+    "name": "Herbal Female Complex",
+    "name_lower": "herbal female complex",
+    "upc": null,
+    "asin": "B000WMWYEQ",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041639_F.png",
+    "completeness_score": 84,
+    "category": "immunity"
+  },
+  {
+    "id": "16ec81b3-dc58-46bf-844b-0a8faabd91da",
+    "name": "Sleep & Stress Support",
+    "name_lower": "sleep & stress support",
+    "upc": "033984303201",
+    "asin": "B09BP52J8N",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_303195_F.png",
+    "completeness_score": 96,
+    "category": "sleep"
+  },
+  {
+    "id": "174ccc28-7688-4a33-ac22-b8c2f0faef45",
+    "name": "Full Spectrum Curcumin",
+    "name_lower": "full spectrum curcumin",
+    "upc": "033984595972",
+    "asin": "B00ZB5M5RK",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_595972_F.png",
+    "completeness_score": 92,
+    "category": "joints"
+  },
+  {
+    "id": "1932adcf-619e-481d-a426-90918e5bf60f",
+    "name": "Pro-Bio Beads",
+    "name_lower": "pro-bio beads",
+    "upc": "033984000117",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "1a95b5a8-f0b3-404a-a89e-2bea49035997",
+    "name": "Omega 3 700 mg",
+    "name_lower": "omega 3 700 mg",
+    "upc": "033984020542",
+    "asin": "B00014D09S",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_020511_F.png",
+    "completeness_score": 92,
+    "category": "heart"
+  },
+  {
+    "id": "1a979326-a42e-40a3-8d1e-06ca9d791aee",
+    "name": "Evening Primrose Oil 500 mg",
+    "name_lower": "evening primrose oil 500 mg",
+    "upc": "033984010420",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "1b2de20a-8088-4c7a-bea2-fe589680b01f",
+    "name": "Apple Pectin Powder",
+    "name_lower": "apple pectin powder",
+    "upc": "033984001213",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "digestion"
+  },
+  {
+    "id": "1b4e2448-26eb-45bb-9365-6f4cb0a37c88",
+    "name": "Solovite",
+    "name_lower": "solovite",
+    "upc": "033984026230",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "1b4ff8b3-3c19-44ab-b8a0-c7eede9913cd",
+    "name": "Aloe Vera",
+    "name_lower": "aloe vera",
+    "upc": "033984037380",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "1b5965da-db59-4252-a086-8ab66bd47eb9",
+    "name": "U-Cubes Children's Multi-Vitamin and Mineral Gummies",
+    "name_lower": "u-cubes children's multi-vitamin and mineral gummies",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "prenatal"
+  },
+  {
+    "id": "1be99e00-ae55-496d-beff-b6f4ab7ad2cd",
+    "name": "B-Complex \"50\"",
+    "name_lower": "b-complex \"50\"",
+    "upc": "033984011229",
+    "asin": "B00024D6CS",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009277-SG.B-COMPLEX-50.100.CAP_.png",
+    "completeness_score": 92,
+    "category": "beauty"
+  },
+  {
+    "id": "1c2f3d99-057b-4eb7-9e2e-cf4841e94857",
+    "name": "Skin, Nails & Hair",
+    "name_lower": "skin, nails & hair",
+    "upc": "033984011618",
+    "asin": "B000GJN8KY",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009405-SG.SKIN-NAILS-HAIR.60.TAB_.png",
+    "completeness_score": 88,
+    "category": "beauty"
+  },
+  {
+    "id": "1c38ba50-351c-4696-b0c9-fc0a9599b369",
+    "name": "Vitamin B12 500 mcg",
+    "name_lower": "vitamin b12 500 mcg",
+    "upc": "033984032200",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "1d5e815f-3a94-4eaa-806b-9823ac80eaae",
+    "name": "Policosanol 20 mg",
+    "name_lower": "policosanol 20 mg",
+    "upc": "033984022515",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "1f298e4b-8bc9-43d8-900f-c8dbbac866be",
+    "name": "Vegetarian CoQ-10 100 mg",
+    "name_lower": "vegetarian coq-10 100 mg",
+    "upc": "033984009066",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "1fbf7bc7-436b-46ab-b807-88c5be783bab",
+    "name": "Chlorella",
+    "name_lower": "chlorella",
+    "upc": "033984038189",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "20085ff4-5aa1-400a-b42d-85d0dc4d757d",
+    "name": "Naturally Sourced Cranberry with Vitamin C",
+    "name_lower": "naturally sourced cranberry with vitamin c",
+    "upc": "033984009554",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "205c51cf-32e7-41f8-91f9-50aa4c2c7ede",
+    "name": "U-Cubes Children's Calcium with D3 Gummies Strawberry",
+    "name_lower": "u-cubes children's calcium with d3 gummies strawberry",
+    "upc": "033984576070",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "kids"
+  },
+  {
+    "id": "20de7593-d470-4ab2-ad7a-d724bb6baece",
+    "name": "Vitamin C 1000 mg with Rose Hips",
+    "name_lower": "vitamin c 1000 mg with rose hips",
+    "upc": "033984024014",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "20f9ddfb-211f-42a1-8511-8f61d498f6af",
+    "name": "Nattokinase Complex",
+    "name_lower": "nattokinase complex",
+    "upc": "033984017993",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "heart"
+  },
+  {
+    "id": "20fcb271-33b9-44b2-815d-86ef44ef1235",
+    "name": "Flavo-Zinc Lozenge Natural Lemon Lime Flavored",
+    "name_lower": "flavo-zinc lozenge natural lemon lime flavored",
+    "upc": "033984010642",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "22abdad0-4fa2-46f1-9f9b-113d2269fd4d",
+    "name": "Ester-C Plus 1000 mg Vitamin C",
+    "name_lower": "ester-c plus 1000 mg vitamin c",
+    "upc": "033984006942",
+    "asin": "B0001VUMBK",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-07/100009259-Ester-C-Plus-1000-MG_60-TAB.png",
+    "completeness_score": 96,
+    "category": "immunity"
+  },
+  {
+    "id": "2348f5f8-452b-420b-9214-9d0a93740eae",
+    "name": "Eleuthero 520 mg",
+    "name_lower": "eleuthero 520 mg",
+    "upc": "033984012813",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "2372b72d-205c-42fa-a5f1-0f9b1094de9f",
+    "name": "Super Potency Biotin 5000 mcg",
+    "name_lower": "super potency biotin 5000 mcg",
+    "upc": "033984003149",
+    "asin": "B00F41G1TY",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_003132_F.png",
+    "completeness_score": 88,
+    "category": "beauty"
+  },
+  {
+    "id": "24c44501-85ff-4586-a0ba-3fc5191272f5",
+    "name": "Vitamin C 1000 mg",
+    "name_lower": "vitamin c 1000 mg",
+    "upc": "033984032804",
+    "asin": "B000Z8WY3I",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_032750_F.png",
+    "completeness_score": 92,
+    "category": "immunity"
+  },
+  {
+    "id": "25182e7d-8d71-4982-8cd8-e74b321c308c",
+    "name": "Saw Palmetto Berry Extract",
+    "name_lower": "saw palmetto berry extract",
+    "upc": "033984041332",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "252d6484-ad8b-4a0a-aef6-5fe848d98e4b",
+    "name": "Liquid Vitamin D3 125 mcg (5000 IU) Natural Orange Flavor",
+    "name_lower": "liquid vitamin d3 125 mcg (5000 iu) natural orange flavor",
+    "upc": null,
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264171.jpg",
+    "completeness_score": 83,
+    "category": "immunity"
+  },
+  {
+    "id": "272d3e48-250a-4661-9826-29cfc86f7d54",
+    "name": "Vitamin D3 (Cholecalciferol) 10 mcg (400 IU)",
+    "name_lower": "vitamin d3 (cholecalciferol) 10 mcg (400 iu)",
+    "upc": "033984033214",
+    "asin": "B00020IAB4",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_033207_F.png",
+    "completeness_score": 96,
+    "category": "immunity"
+  },
+  {
+    "id": "27bee6eb-d1e8-4664-acff-0ebc71c2fce4",
+    "name": "Whey To Go Strawberry",
+    "name_lower": "whey to go strawberry",
+    "upc": "033984328747",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "heart"
+  },
+  {
+    "id": "283ab004-5849-45d6-be0a-e597a9e5aeb1",
+    "name": "Apple Cider Vinegar Gummies 1000 mg Raspberry Pomegranate Flavored",
+    "name_lower": "apple cider vinegar gummies 1000 mg raspberry pomegranate flavored",
+    "upc": "033984007109",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263870.jpg",
+    "completeness_score": 87,
+    "category": "energy"
+  },
+  {
+    "id": "296a136f-c68f-4442-81df-296d826efcb0",
+    "name": "Ubiguinol 100 mg",
+    "name_lower": "ubiguinol 100 mg",
+    "upc": "033984005389",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264118.jpg",
+    "completeness_score": 87,
+    "category": "energy"
+  },
+  {
+    "id": "2a850ddc-f192-4778-a1f9-d7aa5869ac12",
+    "name": "Chewable Vitamin C 500 mg Natural Juicy Orange Flavor",
+    "name_lower": "chewable vitamin c 500 mg natural juicy orange flavor",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "immunity"
+  },
+  {
+    "id": "2bb178a0-a85b-405b-a79f-c671f4d2e13d",
+    "name": "Advanced Multi-Billion Dophilus",
+    "name_lower": "advanced multi-billion dophilus",
+    "upc": null,
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264116.jpg",
+    "completeness_score": 83,
+    "category": "energy"
+  },
+  {
+    "id": "2d59aa42-6fda-4ffb-b534-036e11e1faf1",
+    "name": "Whey To Go Chocolate Flavor",
+    "name_lower": "whey to go chocolate flavor",
+    "upc": "033984036734",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264070.jpg",
+    "completeness_score": 87,
+    "category": "heart"
+  },
+  {
+    "id": "2e03d7ff-694e-4f9a-a611-51550ae3eec3",
+    "name": "Milk Thistle",
+    "name_lower": "milk thistle",
+    "upc": "033984039735",
+    "asin": "B000Z92S4M",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_039728_F.png",
+    "completeness_score": 92,
+    "category": "immunity"
+  },
+  {
+    "id": "2ec75dfc-4e6a-4a45-a1c4-44857acf0c16",
+    "name": "Vitamins Only",
+    "name_lower": "vitamins only",
+    "upc": "033984028135",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "2ff3a711-99cb-4633-bc4a-1e304eb650a8",
+    "name": "Vitamin B6 250 mg",
+    "name_lower": "vitamin b6 250 mg",
+    "upc": "033984031258",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "3023650d-9560-49e0-a9e4-be525f244741",
+    "name": "Ester-C Plus Immune Complex",
+    "name_lower": "ester-c plus immune complex",
+    "upc": "033984006836",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263867.jpg",
+    "completeness_score": 87,
+    "category": "beauty"
+  },
+  {
+    "id": "30e44f0e-7003-4df1-84af-1d82cc04d292",
+    "name": "Echinacea Herb Extract",
+    "name_lower": "echinacea herb extract",
+    "upc": "033984041226",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "329ec27b-6972-4ed3-a7dc-31a67b302adf",
+    "name": "Gotu Kola",
+    "name_lower": "gotu kola",
+    "upc": "033984039292",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "334f101d-3e83-46d8-b41a-7cd56ced64b0",
+    "name": "L-Cysteine 500 mg",
+    "name_lower": "l-cysteine 500 mg",
+    "upc": "033984009622",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "energy"
+  },
+  {
+    "id": "3413b05b-21ba-4d0f-b0c6-7295651b859b",
+    "name": "Phosphatidyl Serine 200 mg",
+    "name_lower": "phosphatidyl serine 200 mg",
+    "upc": "033984022089",
+    "asin": "B00331VVGK",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_022089_F.png",
+    "completeness_score": 92,
+    "category": "brain"
+  },
+  {
+    "id": "34d9f630-a907-4fcf-ba0c-48c7056ef239",
+    "name": "Beta-Pepsin",
+    "name_lower": "beta-pepsin",
+    "upc": "033984002418",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "3533e990-0027-4cb4-8c40-7d840559c7da",
+    "name": "Formula VM-75",
+    "name_lower": "formula vm-75",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "beauty"
+  },
+  {
+    "id": "353d0b2c-3c0c-4880-b1bc-62c83a43f665",
+    "name": "Horse Chestnut Seed Extract",
+    "name_lower": "horse chestnut seed extract",
+    "upc": "033984041271",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "3555ffeb-a3dd-40b0-b3a5-b395a0ac31ba",
+    "name": "Whey To Go Whey Protein Powder Chocolate",
+    "name_lower": "whey to go whey protein powder chocolate",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 65,
+    "category": "heart"
+  },
+  {
+    "id": "357904db-b15c-4a02-91d6-30163a7b68d1",
+    "name": "St. John's Wort Herb Extract",
+    "name_lower": "st. john's wort herb extract",
+    "upc": "033984041493",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "37bd0592-e3a5-44fb-8f48-80c2cf0c3934",
+    "name": "MaxEPA 1000 mg Omega 3 Fish Oil",
+    "name_lower": "maxepa 1000 mg omega 3 fish oil",
+    "upc": "033984017603",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "heart"
+  },
+  {
+    "id": "3899879c-b9f1-462f-bc49-238107aac0e8",
+    "name": "Ester-C plus 500 mg Vitamin C",
+    "name_lower": "ester-c plus 500 mg vitamin c",
+    "upc": "033984010383",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "immunity"
+  },
+  {
+    "id": "38c2ca96-efcc-4054-bd42-84e94583b4c3",
+    "name": "Liquid Calcium Magnesium Citrate with Vitamin D3 Natural Strawberry Flavor",
+    "name_lower": "liquid calcium magnesium citrate with vitamin d3 natural strawberry flavor",
+    "upc": "033984358331",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "3968633f-11c7-4e18-be96-9ac969dbd31f",
+    "name": "Oceanic Silica",
+    "name_lower": "oceanic silica",
+    "upc": "033984025714",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "3a69ec4f-9089-4d02-9ec5-00170159ddf2",
+    "name": "Megasorb CoQ-10 100 mg",
+    "name_lower": "megasorb coq-10 100 mg",
+    "upc": "033984009523",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "digestion"
+  },
+  {
+    "id": "3aa75d08-9b11-4cd4-91bf-6453f5821845",
+    "name": "Blueberry Leaf Extract",
+    "name_lower": "blueberry leaf extract",
+    "upc": "033984041127",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "3b17bfd3-e2da-465b-bbc5-9bf990a00091",
+    "name": "Selenium 100 mcg",
+    "name_lower": "selenium 100 mcg",
+    "upc": "033984025202",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "3c35a809-63e5-4d98-91e9-2c8e3ee67033",
+    "name": "Herbal Liver Complex",
+    "name_lower": "herbal liver complex",
+    "upc": "033984041721",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "3c4e586b-e256-4537-85f1-94e5ccddbecd",
+    "name": "Triple Action Sleep",
+    "name_lower": "triple action sleep",
+    "upc": "033984006560",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "sleep"
+  },
+  {
+    "id": "3d179f71-a602-4335-827d-0db8cf2a834e",
+    "name": "Ester-C Effervescent 1000 mg Natural Orange Flavor",
+    "name_lower": "ester-c effervescent 1000 mg natural orange flavor",
+    "upc": "033984526402",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "prenatal"
+  },
+  {
+    "id": "3d31c1a7-0612-465c-9b4d-6ba077df981c",
+    "name": "Liquid Melatonin 10 mg Natural Black Cherry Flavor",
+    "name_lower": "liquid melatonin 10 mg natural black cherry flavor",
+    "upc": "033984503809",
+    "asin": "B0064BUP0Y",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_503809_F.png",
+    "completeness_score": 96,
+    "category": "sleep"
+  },
+  {
+    "id": "3d6519dc-1f28-4f49-97df-d457bd9cc5b8",
+    "name": "1300 mg Omega 3-6-9 Fish, Flax, Borage",
+    "name_lower": "1300 mg omega 3-6-9 fish, flax, borage",
+    "upc": "033984020283",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "40486a2b-bd7b-4603-9f36-089ad6782233",
+    "name": "L-Lysine 500 mg",
+    "name_lower": "l-lysine 500 mg",
+    "upc": "033984016811",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "40788f00-f508-4cc8-94b9-532305059cf8",
+    "name": "Alpha Lipoic Acid 60 mg",
+    "name_lower": "alpha lipoic acid 60 mg",
+    "upc": "033984000568",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "422e61ad-dda0-4725-8cb1-045d025fc59c",
+    "name": "U-Cubes Children's Calcium with D3 Gummies",
+    "name_lower": "u-cubes children's calcium with d3 gummies",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "kids"
+  },
+  {
+    "id": "43052936-3396-4c45-8fac-7e8d3e750a12",
+    "name": "Iron-Free Multiple",
+    "name_lower": "iron-free multiple",
+    "upc": "033984014725",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "43ba5eea-9b64-458c-9493-9c7a5f068149",
+    "name": "Resveratrol 250 mg with Red Wine Extract",
+    "name_lower": "resveratrol 250 mg with red wine extract",
+    "upc": "033984024847",
+    "asin": "B002ON9ZQG",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_023369_F.png",
+    "completeness_score": 92,
+    "category": "energy"
+  },
+  {
+    "id": "454d3824-0a4a-4f1c-9908-5a233c23ed31",
+    "name": "L-Carnitine 250 mg",
+    "name_lower": "l-carnitine 250 mg",
+    "upc": "033984005648",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "46242f48-8010-4d08-9e78-7a50763f7b44",
+    "name": "ABC Dophilus Powder",
+    "name_lower": "abc dophilus powder",
+    "upc": "033984000100",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "46f0dd6d-a9fe-4ce8-ad0d-4c554c9f2278",
+    "name": "L-Arginine 500 mg",
+    "name_lower": "l-arginine 500 mg",
+    "upc": "033984001428",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "4721109a-cbca-4567-af85-13800ef5f823",
+    "name": "Advanced Glucosamine Complex",
+    "name_lower": "advanced glucosamine complex",
+    "upc": "033984000513",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "48a909bf-b7d0-4436-8e2a-411953bcfe49",
+    "name": "Extra Strength Glucosamine Chondroitin MSM with Ester-C",
+    "name_lower": "extra strength glucosamine chondroitin msm with ester-c",
+    "upc": "033984012721",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "48bb0da2-eb1a-422c-950e-767e78563f78",
+    "name": "Earth Source Food Fermented Koji Iron 27 mg",
+    "name_lower": "earth source food fermented koji iron 27 mg",
+    "upc": null,
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264084.jpg",
+    "completeness_score": 83,
+    "category": "energy"
+  },
+  {
+    "id": "49146793-0700-4606-950b-6e0a8bd1c998",
+    "name": "Ester-C Effervescent 1000 mg Natural Raspberry Flavor",
+    "name_lower": "ester-c effervescent 1000 mg natural raspberry flavor",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 65,
+    "category": "prenatal"
+  },
+  {
+    "id": "49ecd35c-c210-43ac-9eb7-8c7b86b27693",
+    "name": "Glucosamine Sulfate 1000 mg",
+    "name_lower": "glucosamine sulfate 1000 mg",
+    "upc": "033984013131",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "4a124ddf-262a-4e8c-9bea-8d5e2e68ef29",
+    "name": "Triple Strength Glucosamine Chondroitin MSM",
+    "name_lower": "triple strength glucosamine chondroitin msm",
+    "upc": "033984013186",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "4e65d10e-bf78-464d-8674-f780582d5eb3",
+    "name": "L-Theanine 150 mg",
+    "name_lower": "l-theanine 150 mg",
+    "upc": "033984027060",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "stress"
+  },
+  {
+    "id": "4f8345eb-478f-40ca-9578-c49a3e73ab76",
+    "name": "Chewable D-Ribose Natural Orange Flavor",
+    "name_lower": "chewable d-ribose natural orange flavor",
+    "upc": "033984009899",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "digestion"
+  },
+  {
+    "id": "4fd63f7e-6bfb-4a15-8664-5a174cc7814f",
+    "name": "Formula VM-2000",
+    "name_lower": "formula vm-2000",
+    "upc": "033984592032",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "50b96694-d92b-4642-a375-bd5a7d5f3b5c",
+    "name": "Calcium Citrate with Vitamin D3",
+    "name_lower": "calcium citrate with vitamin d3",
+    "upc": "033984004320",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "510ea067-8d39-48f0-b62d-087f6e3972d9",
+    "name": "Formula V VM-75",
+    "name_lower": "formula v vm-75",
+    "upc": "033984011823",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "518c91f6-ebd1-4e39-a375-9026045c854d",
+    "name": "Naturally Sourced Dry E 268 mg (400 IU)",
+    "name_lower": "naturally sourced dry e 268 mg (400 iu)",
+    "upc": "033984034006",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "51e59a13-846d-4890-86ec-4b12eef407db",
+    "name": "Megasorb CoQ-10 30 mg",
+    "name_lower": "megasorb coq-10 30 mg",
+    "upc": "033984009455",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "525df9eb-222e-49e2-977d-627b4f39d4b4",
+    "name": "Minnows Omega 3 Mini Bursts Tutti Frutti Sorbert",
+    "name_lower": "minnows omega 3 mini bursts tutti frutti sorbert",
+    "upc": "033984513167",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "5278066d-7f5d-41fb-8628-ec1f5dfaafb5",
+    "name": "Herbal Digestive Complex",
+    "name_lower": "herbal digestive complex",
+    "upc": "033984041608",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "5299f86e-014e-418c-a11a-296b02f93b79",
+    "name": "Full Spectrum Curcumin Sleep Ease",
+    "name_lower": "full spectrum curcumin sleep ease",
+    "upc": "033984657199",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "sleep"
+  },
+  {
+    "id": "56cc14cd-d414-479d-8d51-e3d775fed5d0",
+    "name": "Flaxseed Oil 1250 mg",
+    "name_lower": "flaxseed oil 1250 mg",
+    "upc": "033984010710",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "56fb5cdf-ced7-4df4-a0f8-48e839f8b9c0",
+    "name": "Menopause Relief",
+    "name_lower": "menopause relief",
+    "upc": "033984005891",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264117.jpg",
+    "completeness_score": 87,
+    "category": "immunity"
+  },
+  {
+    "id": "5739e369-546f-4b37-91df-ad23b2051ea9",
+    "name": "Bromelain 500 mg",
+    "name_lower": "bromelain 500 mg",
+    "upc": "033984004047",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "58ce6f7a-4408-48fe-830e-4349df5e6d21",
+    "name": "Calcium Magnesium plus Boron",
+    "name_lower": "calcium magnesium plus boron",
+    "upc": "033984005150",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "5905914c-e705-4fa9-9900-af153a99ac6a",
+    "name": "Millers Bran 500 mg",
+    "name_lower": "millers bran 500 mg",
+    "upc": "033984003613",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "5990c1f5-b1db-44e6-8f63-3438d6f1111e",
+    "name": "Earth Source Organic Flaxseed Oil",
+    "name_lower": "earth source organic flaxseed oil",
+    "upc": "033984011328",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "5a2b6c29-d057-4999-b2c6-7d90ee92eddc",
+    "name": "Carnitine Complex",
+    "name_lower": "carnitine complex",
+    "upc": "033984005587",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "5a389bf8-e11b-4805-9932-3773819634a1",
+    "name": "Spirulina 750 mg",
+    "name_lower": "spirulina 750 mg",
+    "upc": "033984026612",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "5b471d6a-9e42-472e-8a88-868da4a33044",
+    "name": "Seleno-6 200 mcg",
+    "name_lower": "seleno-6 200 mcg",
+    "upc": "033984025561",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "5b837067-5f4c-4555-aa37-5e07e96c2b40",
+    "name": "Alpha-Lipoic Acid 60 mg",
+    "name_lower": "alpha-lipoic acid 60 mg",
+    "upc": "033984000551",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "5d4eca6d-a6d0-4b52-ad7c-584957d6f358",
+    "name": "Earth Source Organic Cold-Milled Flax",
+    "name_lower": "earth source organic cold-milled flax",
+    "upc": "033984008908",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "5d636df4-8f02-4e94-bdf8-9b96a6f141c1",
+    "name": "Glucosamine MSM Complex",
+    "name_lower": "glucosamine msm complex",
+    "upc": "033984013155",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/268018.jpg",
+    "completeness_score": 87,
+    "category": "joints"
+  },
+  {
+    "id": "5f226a53-e5f8-4c38-8b1c-858d2eff4431",
+    "name": "Skin, Nails & Hair",
+    "name_lower": "skin, nails & hair",
+    "upc": "033984717350",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "5f3e36c0-749b-406b-9c03-1f3dccf9ac3c",
+    "name": "Ginkgo Biloba Leaf Extract",
+    "name_lower": "ginkgo biloba leaf extract",
+    "upc": "033984041325",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "brain"
+  },
+  {
+    "id": "5fa11fc6-bfcd-4f8b-86a1-73e9ef893901",
+    "name": "Psyllium Seed Husks Powder",
+    "name_lower": "psyllium seed husks powder",
+    "upc": "033984023109",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "61421f49-86e2-4357-8936-a6b15ff54128",
+    "name": "SAMe (S-Adenosyl-L-Methionine) 200 mg",
+    "name_lower": "same (s-adenosyl-l-methionine) 200 mg",
+    "upc": "033984024885",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "61e90582-e2dc-4fb9-ad5b-6c28c06be8de",
+    "name": "Folate 1,333 MCG DFE (Folic Acid 800 mcg)",
+    "name_lower": "folate 1,333 mcg dfe (folic acid 800 mcg)",
+    "upc": "033984011014",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "prenatal"
+  },
+  {
+    "id": "623e121f-eaf9-4ed6-8af9-83450f271447",
+    "name": "Omega 3 Fish Oil Concentrate",
+    "name_lower": "omega 3 fish oil concentrate",
+    "upc": "033984016996",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "641255c2-f9e5-437c-995d-53d6982dca22",
+    "name": "Chelated Magnesium Calcium 2:1",
+    "name_lower": "chelated magnesium calcium 2:1",
+    "upc": "033984017078",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "644f707f-f65e-44ec-8879-6abc68e07c50",
+    "name": "Earth Source Flaxseed Oil",
+    "name_lower": "earth source flaxseed oil",
+    "upc": "033984011311",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "652b372a-c815-455f-b2b8-6db583cd0055",
+    "name": "American Ginseng Root Extract",
+    "name_lower": "american ginseng root extract",
+    "upc": "033984041080",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "6708047a-f88b-4d17-9c03-c978a5382983",
+    "name": "Vitamin C 1500 mg with Rose Hips",
+    "name_lower": "vitamin c 1500 mg with rose hips",
+    "upc": "033984024205",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "67479ad9-67ec-426e-a21a-4b9b3157b6c4",
+    "name": "Sytrinol 150 mg",
+    "name_lower": "sytrinol 150 mg",
+    "upc": "033984026834",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "688f9427-0b72-465a-a9ca-d6ba19d0c644",
+    "name": "Reduced L-Glutathione 250 mg",
+    "name_lower": "reduced l-glutathione 250 mg",
+    "upc": "033984013513",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "6a65a558-4fd8-499e-ada5-ffa64ef27238",
+    "name": "Whey To Go Chocolate",
+    "name_lower": "whey to go chocolate",
+    "upc": "033984036727",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "heart"
+  },
+  {
+    "id": "6d498502-1647-463d-95f3-41a2c3d0ef47",
+    "name": "Antioxidant Factors",
+    "name_lower": "antioxidant factors",
+    "upc": "033984001176",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "6e722456-048c-4837-90cb-950fd61d14c4",
+    "name": "Iron-Free Formula VM-75",
+    "name_lower": "iron-free formula vm-75",
+    "upc": "033984011748",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "6ee77a59-bdcd-4919-afbe-a5ecde229f2b",
+    "name": "Female Multiple",
+    "name_lower": "female multiple",
+    "upc": "033984591998",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "6f1e04d9-f086-4aa6-8a57-62143f5daee7",
+    "name": "Whey To Go Protein Powder Vanilla Flavor",
+    "name_lower": "whey to go protein powder vanilla flavor",
+    "upc": "033984036680",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264073.jpg",
+    "completeness_score": 87,
+    "category": "heart"
+  },
+  {
+    "id": "6f964498-619f-4b4f-bf97-3f998f5bf6a0",
+    "name": "L-Threonine 500 mg",
+    "name_lower": "l-threonine 500 mg",
+    "upc": "033984027107",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "701dd5be-56d2-4671-a856-9c35fb11a5d5",
+    "name": "Brewer's Yeast Powder Unflavored",
+    "name_lower": "brewer's yeast powder unflavored",
+    "upc": "033984003804",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "7036b37c-8345-487a-a83a-2985021ac14c",
+    "name": "Eyebright",
+    "name_lower": "eyebright",
+    "upc": "033984038783",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "7102ecec-8243-48f5-8fec-a58b27e90bb2",
+    "name": "Magnesium Citrate",
+    "name_lower": "magnesium citrate",
+    "upc": "033984717114",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "71e353cc-ce4b-43cc-866e-0bdbc77ee86e",
+    "name": "Chelated Calcium Magnesium 1:1",
+    "name_lower": "chelated calcium magnesium 1:1",
+    "upc": "033984005051",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "72e58a9e-5636-4013-b26d-2db8fea75855",
+    "name": "Omnium",
+    "name_lower": "omnium",
+    "upc": "033984020672",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "735e8180-0fb4-4751-a493-f2f7415ec7f8",
+    "name": "Collagen Hyaluronic Acid Complex",
+    "name_lower": "collagen hyaluronic acid complex",
+    "upc": "033984014176",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263912.jpg",
+    "completeness_score": 87,
+    "category": "joints"
+  },
+  {
+    "id": "73c0d9c3-e55a-492b-b071-a6217609152d",
+    "name": "Triple Strength Glucosamin Chondroitin MSM",
+    "name_lower": "triple strength glucosamin chondroitin msm",
+    "upc": "033984013193",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "74aec4e7-6377-4bd9-b5f2-b985dc5dfd57",
+    "name": "L-Cystine 500 mg",
+    "name_lower": "l-cystine 500 mg",
+    "upc": "033984009813",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "754f8691-103c-46ad-9266-12bd87cd6b59",
+    "name": "Super Concentrated Isoflavones",
+    "name_lower": "super concentrated isoflavones",
+    "upc": "033984014596",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "76299934-03fc-49cc-a97f-a58539d69b5c",
+    "name": "Advanced Pro-Bio Beads",
+    "name_lower": "advanced pro-bio beads",
+    "upc": "033984329683",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "78656aaf-d344-425e-b683-2bdc881d2446",
+    "name": "Seleno-6 50 mcg",
+    "name_lower": "seleno-6 50 mcg",
+    "upc": "033984025455",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "798051aa-6c96-4349-9d59-ed42490eb5f6",
+    "name": "Gotu Kola Extract",
+    "name_lower": "gotu kola extract",
+    "upc": "033984041653",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "79ca521b-d0ce-4b3b-a662-d225c561127e",
+    "name": "Peak ATP 150 mg",
+    "name_lower": "peak atp 150 mg",
+    "upc": "033984001930",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "79d01ae4-f23f-4f23-af33-d9de6a9e2bfe",
+    "name": "Whey To Go Whey Protein Powder Strawberry",
+    "name_lower": "whey to go whey protein powder strawberry",
+    "upc": "033984671676",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "heart"
+  },
+  {
+    "id": "79ef70cb-69ae-4248-9b67-0e261399f05e",
+    "name": "B-Complex with Vitamin C Stress Formula",
+    "name_lower": "b-complex with vitamin c stress formula",
+    "upc": "033984002012",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "stress"
+  },
+  {
+    "id": "7b77dad0-38b0-41ed-aa48-76233b6469f6",
+    "name": "Rutin 500 mg",
+    "name_lower": "rutin 500 mg",
+    "upc": "033984024618",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "7c4996d5-18db-4111-add4-350f92409122",
+    "name": "Omega-3 740 mg",
+    "name_lower": "omega-3 740 mg",
+    "upc": "033984005495",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264157.jpg",
+    "completeness_score": 87,
+    "category": "heart"
+  },
+  {
+    "id": "7c7a23e8-9c41-428c-9282-1bb418287c82",
+    "name": "Extra Strength Glucosamine Chondroitin Complex",
+    "name_lower": "extra strength glucosamine chondroitin complex",
+    "upc": "033984012967",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "7d388fb0-413c-4c30-94c0-e33fb8be2aac",
+    "name": "Lipotropic Factors",
+    "name_lower": "lipotropic factors",
+    "upc": "033984015814",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "7da35e8b-70d6-4d26-abc2-65e2119cf326",
+    "name": "Grape Seed Extract 100 mg",
+    "name_lower": "grape seed extract 100 mg",
+    "upc": "033984013551",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "7dc6ad11-f03d-48a1-84ba-52ec01282f57",
+    "name": "Choline 350 mg",
+    "name_lower": "choline 350 mg",
+    "upc": "033984008304",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "7e81b2ba-d178-4801-910a-03e0daaaf90c",
+    "name": "Ultimate B+C Complex",
+    "name_lower": "ultimate b+c complex",
+    "upc": "033984027725",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "7ec8efb0-4f40-46e3-9c65-47231b3ea150",
+    "name": "Advanced Acetyl-L-Carnitine",
+    "name_lower": "advanced acetyl-l-carnitine",
+    "upc": "033984005594",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "7fbe02ef-eb5c-4128-ad8a-ec95a1d55d25",
+    "name": "Gelatin",
+    "name_lower": "gelatin",
+    "upc": "033984012417",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "80c91e15-8af1-4b60-b389-4598994dbd6e",
+    "name": "Valerian Root",
+    "name_lower": "valerian root",
+    "upc": "033984040601",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "sleep"
+  },
+  {
+    "id": "8128fee2-5fc4-4e9c-a068-33cc5014dd69",
+    "name": "Goldenseal",
+    "name_lower": "goldenseal",
+    "upc": "033984039193",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "8268ec14-fb0e-4265-9450-675c8fdce7a9",
+    "name": "Probi 30",
+    "name_lower": "probi 30",
+    "upc": "033984539259",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264172.jpg",
+    "completeness_score": 87,
+    "category": "digestion"
+  },
+  {
+    "id": "828c563b-54c4-4f2e-a29b-52b187e3e836",
+    "name": "L-Tyrosine 500 mg",
+    "name_lower": "l-tyrosine 500 mg",
+    "upc": "033984027626",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "8407066b-e172-4f86-b65e-950a4168d974",
+    "name": "MSM (Methylsulfonylmethane) 500 mg",
+    "name_lower": "msm (methylsulfonylmethane) 500 mg",
+    "upc": "033984017320",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "85507306-3345-4f62-83de-31258e5ef5ea",
+    "name": "Peak ATP with Alpha Lipoic Acid",
+    "name_lower": "peak atp with alpha lipoic acid",
+    "upc": "033984001947",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "85788406-c58f-4cdd-8c4e-500288a02210",
+    "name": "MaxGar Garlic",
+    "name_lower": "maxgar garlic",
+    "upc": "033984017573",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "85c339a2-5604-4a50-be87-b8539784ffa0",
+    "name": "Advanced Calcium Complex",
+    "name_lower": "advanced calcium complex",
+    "upc": "033984000285",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "86efe4c1-0527-4721-9a59-a5f6326c796f",
+    "name": "Advanced 40+ Acidophilus",
+    "name_lower": "advanced 40+ acidophilus",
+    "upc": null,
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264115.jpg",
+    "completeness_score": 83,
+    "category": "digestion"
+  },
+  {
+    "id": "8700b6af-92fb-4c19-90fb-726804b6bb44",
+    "name": "Homocysteine Modulators",
+    "name_lower": "homocysteine modulators",
+    "upc": "033984014114",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "877d18f3-cd0c-4a1c-8b09-9eecbbb25b29",
+    "name": "Yeast-Free Chromium",
+    "name_lower": "yeast-free chromium",
+    "upc": "033984013650",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "884cd673-9b9d-47a9-b87e-11b7fcb32816",
+    "name": "Super Concentrated Acai Extract",
+    "name_lower": "super concentrated acai extract",
+    "upc": "033984000643",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "8949d282-c175-4f50-9ff2-36c7bed27355",
+    "name": "Vegan CoQ-10 200 mg",
+    "name_lower": "vegan coq-10 200 mg",
+    "upc": "033984009493",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "8a99871f-fadb-4bc9-836f-60257a590e95",
+    "name": "Shark Liver Oil Complex 500 mg",
+    "name_lower": "shark liver oil complex 500 mg",
+    "upc": "033984025660",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "8b29672e-6db4-4ab2-bffb-29e220f95276",
+    "name": "Red Clover Flower And Leaf Extract",
+    "name_lower": "red clover flower and leaf extract",
+    "upc": "033984041424",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "8b36e769-547d-4887-81c5-5f465b913684",
+    "name": "Celadrin Glucosamine Complex",
+    "name_lower": "celadrin glucosamine complex",
+    "upc": "033984005693",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "8b8871ab-6435-44b7-aade-52f954568e7f",
+    "name": "Vegetarian CoQ-10 30 mg",
+    "name_lower": "vegetarian coq-10 30 mg",
+    "upc": "033984009332",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "8d75b083-b23b-462d-a5c4-c3dc652ddcde",
+    "name": "Selenium 50 mcg",
+    "name_lower": "selenium 50 mcg",
+    "upc": "033984025011",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "8db715ef-c0bf-43a5-87ba-5174523462c4",
+    "name": "L-Glutamic Acid 500 mg",
+    "name_lower": "l-glutamic acid 500 mg",
+    "upc": "033984013018",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "923504f2-8090-4854-88ed-6bd9ed3bc594",
+    "name": "L-Glutathione 50 mg",
+    "name_lower": "l-glutathione 50 mg",
+    "upc": "033984013414",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "9315ec69-f238-4910-b792-c8fa6e857eea",
+    "name": "Vegetal Silica",
+    "name_lower": "vegetal silica",
+    "upc": "033984040694",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "933571a8-1549-4b4d-aad2-1eade3b3898b",
+    "name": "Pure Shark Cartilage 750 mg",
+    "name_lower": "pure shark cartilage 750 mg",
+    "upc": "033984026018",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "93404a7a-b270-43fb-a899-e938c2f03410",
+    "name": "Whey To Go Protein Powder Unflavored",
+    "name_lower": "whey to go protein powder unflavored",
+    "upc": "033984300934",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263871.jpg",
+    "completeness_score": 87,
+    "category": "heart"
+  },
+  {
+    "id": "937841d4-f824-45e5-b9c0-b07b7a98e67b",
+    "name": "PM Phytogen Complex",
+    "name_lower": "pm phytogen complex",
+    "upc": "033984023130",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "94339593-c1cb-4276-af76-8928029c69cc",
+    "name": "Wheat Germ Oil 1130 mg",
+    "name_lower": "wheat germ oil 1130 mg",
+    "upc": "033984036604",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "9564333a-66aa-4c02-b6fe-c98fa1fc0d8f",
+    "name": "Garlic Powder 500 mg",
+    "name_lower": "garlic powder 500 mg",
+    "upc": "033984011977",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "965cc2ae-f454-48f5-a881-cbed034720aa",
+    "name": "NAC 600 mg",
+    "name_lower": "nac 600 mg",
+    "upc": "033984328723",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "97d2ecc7-0a23-47ae-bdf5-b350c6feeb8b",
+    "name": "CoQ-10 100 mg",
+    "name_lower": "coq-10 100 mg",
+    "upc": "033984009080",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "97ee6733-e9ce-4695-8756-2764e7bc16bd",
+    "name": "Acai Extract",
+    "name_lower": "acai extract",
+    "upc": "033984000483",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "98291101-0c12-4c5c-a581-a69b86cec377",
+    "name": "Borage Oil Natural Orange Flavor",
+    "name_lower": "borage oil natural orange flavor",
+    "upc": "033984000650",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "987fe8e4-6d16-4322-9942-bd29aa16271f",
+    "name": "AC-11",
+    "name_lower": "ac-11",
+    "upc": "033984000445",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "98870777-69bd-4316-aefe-90c3dc7cc3d8",
+    "name": "Multi-Acidophilus Powder",
+    "name_lower": "multi-acidophilus powder",
+    "upc": "033984017863",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "digestion"
+  },
+  {
+    "id": "9b1f888a-f0ba-4753-8ba6-e6cd38ed6c77",
+    "name": "Omnium Iron-Free",
+    "name_lower": "omnium iron-free",
+    "upc": "033984020719",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "9b8b077d-1e30-44c8-80b7-68e2997eaffe",
+    "name": "Lit'l Squirts Chewable DHA Yummy Natural Fruit Punch Flavor",
+    "name_lower": "lit'l squirts chewable dha yummy natural fruit punch flavor",
+    "upc": "033984008144",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "9c579126-30f9-4f51-b6c7-13d997679c91",
+    "name": "Naturally Sourced Vitamin E 268 mg (400 IU) D-Alpha Tocopherol",
+    "name_lower": "naturally sourced vitamin e 268 mg (400 iu) d-alpha tocopherol",
+    "upc": "033984035225",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "9e17558b-7ab0-4878-a73a-d0ce93110689",
+    "name": "L-Carnitine 500 mg",
+    "name_lower": "l-carnitine 500 mg",
+    "upc": "033984005716",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "9e396e2a-9e04-40b7-aece-6feb65adef17",
+    "name": "Calcium \"600\" from Oyster Shell with Vitamin D3",
+    "name_lower": "calcium \"600\" from oyster shell with vitamin d3",
+    "upc": "033984004177",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "9e6dee97-5535-4ffa-90e7-e98e712bfa97",
+    "name": "Liquid Calcium Magnesium Citrate with Vitamin D3 Natural Blueberry Flavor",
+    "name_lower": "liquid calcium magnesium citrate with vitamin d3 natural blueberry flavor",
+    "upc": "033984358317",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "a03c4b33-717b-42ab-a019-616e565ead36",
+    "name": "Choline/Inositol 500 mg/500 mg",
+    "name_lower": "choline/inositol 500 mg/500 mg",
+    "upc": "033984008502",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "a12d9a07-772b-40af-befc-a4bc5ccd939d",
+    "name": "Tonalin 1300 mg CLA",
+    "name_lower": "tonalin 1300 mg cla",
+    "upc": "033984027145",
+    "asin": "B003KKRVF4",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_027145_F.png",
+    "completeness_score": 92,
+    "category": "weight"
+  },
+  {
+    "id": "a133f370-6b98-4fc4-acc8-60a43cada2aa",
+    "name": "Chinese Green Tea",
+    "name_lower": "chinese green tea",
+    "upc": "033984013759",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "a14483fb-f7c0-4716-ac29-71281dfd926e",
+    "name": "Energy Kicks Natural Pomegranate Flavor",
+    "name_lower": "energy kicks natural pomegranate flavor",
+    "upc": "033984664012",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "energy"
+  },
+  {
+    "id": "a17781c7-3493-490e-8fa5-d530c1bb1ce8",
+    "name": "100% Pure Shark Cartilage",
+    "name_lower": "100% pure shark cartilage",
+    "upc": "033984592087",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "a37253d4-8807-4193-a285-60cd758f9c0d",
+    "name": "Pomegranate Complex",
+    "name_lower": "pomegranate complex",
+    "upc": "033984022454",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "prenatal"
+  },
+  {
+    "id": "a37bfcc6-4a68-4b8b-b174-d89a7158fc9b",
+    "name": "Yucca",
+    "name_lower": "yucca",
+    "upc": "033984041011",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "a3e8e1ac-fd40-4667-9a49-816fd2440be1",
+    "name": "Herbal Complex",
+    "name_lower": "herbal complex",
+    "upc": "033984041691",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "weight"
+  },
+  {
+    "id": "a3f93934-1af8-4ed4-a9ba-30c7c9a18c4a",
+    "name": "Feverfew Leaf Extract",
+    "name_lower": "feverfew leaf extract",
+    "upc": "033984041288",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "a4e50b5b-6efc-45e3-bb14-abce821fcfba",
+    "name": "Korean Ginseng Root Extract",
+    "name_lower": "korean ginseng root extract",
+    "upc": "033984041387",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "a61b6ceb-c402-4d41-9342-3a432e0ae4b3",
+    "name": "Chromium Polynicotinate 200 mcg Yeast-Free",
+    "name_lower": "chromium polynicotinate 200 mcg yeast-free",
+    "upc": "033984508347",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "a852f6dc-a11d-4a7d-b88c-1b53c33693c9",
+    "name": "Antioxidant Free Radical Formula",
+    "name_lower": "antioxidant free radical formula",
+    "upc": "033984001183",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "aa514d44-c567-4ae5-a78c-646d2f8577da",
+    "name": "gPLC Glycine Propionyl L-Carnitine",
+    "name_lower": "gplc glycine propionyl l-carnitine",
+    "upc": "033984013735",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "aad42f93-e131-4429-b455-fb28247cff25",
+    "name": "L-Phenylalanine 500 mg",
+    "name_lower": "l-phenylalanine 500 mg",
+    "upc": "033984022003",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "aad56a8c-061c-42c0-9042-64e2aa83c1d4",
+    "name": "Peak ATP with CoQ-10",
+    "name_lower": "peak atp with coq-10",
+    "upc": "033984001978",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "aba0a138-0eea-46b8-8f4f-292c4b3309b7",
+    "name": "Achiote Leaf 500 mg",
+    "name_lower": "achiote leaf 500 mg",
+    "upc": "033984001121",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "accee4ef-1916-4eff-ae65-a87f01d1c932",
+    "name": "Sublingual Liquid B-12 2000 mcg with B-Complex",
+    "name_lower": "sublingual liquid b-12 2000 mcg with b-complex",
+    "upc": "033984015951",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "beauty"
+  },
+  {
+    "id": "ad40c6dd-0f94-489d-a6c2-c7a887e37dd8",
+    "name": "L-Methionine 500 mg",
+    "name_lower": "l-methionine 500 mg",
+    "upc": "033984017696",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "ae7c9ce9-2e0b-4150-a9e3-de0f54d20556",
+    "name": "Super GLA 300 mg",
+    "name_lower": "super gla 300 mg",
+    "upc": "033984026759",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "af796bfb-8dbb-479d-8775-a6d8df8626b4",
+    "name": "Bee Pollen 500 mg",
+    "name_lower": "bee pollen 500 mg",
+    "upc": "033984022409",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "energy"
+  },
+  {
+    "id": "b212d648-c5d9-492f-b563-80b805a82428",
+    "name": "L-Theanine Complex",
+    "name_lower": "l-theanine complex",
+    "upc": "033984027053",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "sleep"
+  },
+  {
+    "id": "b2b573b9-3072-4be1-a894-8ff9cb34f70d",
+    "name": "Sublingual Methylcobalamin 1000 mcg",
+    "name_lower": "sublingual methylcobalamin 1000 mcg",
+    "upc": "033984019515",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "b5235603-f967-4934-ac80-6cae7d7cce1b",
+    "name": "American Ginseng Root",
+    "name_lower": "american ginseng root",
+    "upc": "033984012868",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "b5c37b5a-4b93-4a94-b14c-96cdf6bfdd44",
+    "name": "Alpha Lipoic Acid 300 mg",
+    "name_lower": "alpha lipoic acid 300 mg",
+    "upc": "033984000537",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "b9e456be-719a-41fd-adee-39765ec42b69",
+    "name": "Digestive Aid",
+    "name_lower": "digestive aid",
+    "upc": "033984010017",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "ba13146a-518a-4159-93eb-8acacbc43922",
+    "name": "Chewable DHA Natural Fruit Flavor",
+    "name_lower": "chewable dha natural fruit flavor",
+    "upc": "033984008182",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "babdd095-55c7-4ecb-a627-a041ef1a1355",
+    "name": "Herbal Male Complex",
+    "name_lower": "herbal male complex",
+    "upc": "033984041752",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "bb2fee76-3347-4778-867f-ad6ccc2d9da7",
+    "name": "Cranberry plus Ester-C",
+    "name_lower": "cranberry plus ester-c",
+    "upc": "033984314054",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263841.jpg",
+    "completeness_score": 87,
+    "category": "immunity"
+  },
+  {
+    "id": "bcebcba4-4082-4953-b0d6-ab54e8854bbc",
+    "name": "Flavo-Zinc Lemon Lime Flavor",
+    "name_lower": "flavo-zinc lemon lime flavor",
+    "upc": "033984010659",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "bdcea0d3-ad66-40c0-a5ac-1e7109e702bf",
+    "name": "Advanced Antioxidant Formula",
+    "name_lower": "advanced antioxidant formula",
+    "upc": "033984010352",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "brain"
+  },
+  {
+    "id": "be4d6eab-026c-4b4e-949a-c3de65ce7b2d",
+    "name": "Multi II Vegetable Capsules",
+    "name_lower": "multi ii vegetable capsules",
+    "upc": "033984017757",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "beauty"
+  },
+  {
+    "id": "be69240d-c441-49ed-8ebe-bc220a5a3f27",
+    "name": "Naturvite",
+    "name_lower": "naturvite",
+    "upc": "033984018433",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "bef00778-4ae3-471f-ad7a-1b19de71b491",
+    "name": "Prenatal Nutrients",
+    "name_lower": "prenatal nutrients",
+    "upc": "033984022720",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "beauty"
+  },
+  {
+    "id": "bf0d70a3-6b9e-4c7a-abda-1eff8d621851",
+    "name": "Natural Liquid Vitamin E",
+    "name_lower": "natural liquid vitamin e",
+    "upc": "033984016002",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "bf6917b7-37f8-492a-a1db-df9e4b36789e",
+    "name": "Calcium Magnesium plus Zinc",
+    "name_lower": "calcium magnesium plus zinc",
+    "upc": "033984005211",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "bfbe0806-11d6-4b65-914d-4c8d8777bf32",
+    "name": "Potassium Magnesium Aspartate",
+    "name_lower": "potassium magnesium aspartate",
+    "upc": "033984022676",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "c000ed46-e375-4b8f-b12f-b995fa8dccb1",
+    "name": "Liquid Calcium Magnesium Citrate with Vitamin D3 Natural Orange-Vanilla Flavor",
+    "name_lower": "liquid calcium magnesium citrate with vitamin d3 natural orange-vanilla flavor",
+    "upc": "033984358324",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "c01be363-dd19-4de0-98b7-2fe8c5a5c8c6",
+    "name": "Liquid Vitamin D3 (Cholecalciferol) 125 mcg (5,000 IU) Natural Orange Flavor",
+    "name_lower": "liquid vitamin d3 (cholecalciferol) 125 mcg (5,000 iu) natural orange flavor",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "c1f2c062-1828-4788-a4e7-f1d8b5db2652",
+    "name": "Psyllium Husks Fiber 500 mg",
+    "name_lower": "psyllium husks fiber 500 mg",
+    "upc": "033984023154",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "digestion"
+  },
+  {
+    "id": "c386bdff-2b58-4149-9777-474c4e8978b2",
+    "name": "RNA/DNA 100/100",
+    "name_lower": "rna/dna 100/100",
+    "upc": "033984023215",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "c3d6cac6-2364-4b79-87c5-e66a071fd4da",
+    "name": "Energy Kicks Natural Mixed Berry Flavor",
+    "name_lower": "energy kicks natural mixed berry flavor",
+    "upc": "033984663848",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "energy"
+  },
+  {
+    "id": "c585523f-2a6c-410a-9b75-a27883f8fd41",
+    "name": "Natural Orange Flavor Chewable Vitamin C 500 mg",
+    "name_lower": "natural orange flavor chewable vitamin c 500 mg",
+    "upc": "033984004078",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "immunity"
+  },
+  {
+    "id": "c5a81f74-5960-4b8d-8f2c-bf545dab8731",
+    "name": "Stress & Anxiety Relief",
+    "name_lower": "stress & anxiety relief",
+    "upc": "033984005532",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "stress"
+  },
+  {
+    "id": "c69cea23-6553-4d3a-b913-f0b5ba9655bf",
+    "name": "Bilberry",
+    "name_lower": "bilberry",
+    "upc": "033984037502",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "brain"
+  },
+  {
+    "id": "c6cdb3db-3088-493b-9965-2e10d985eff6",
+    "name": "Ashwagandha Root Extract",
+    "name_lower": "ashwagandha root extract",
+    "upc": "033984041042",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "stress"
+  },
+  {
+    "id": "c6ce5739-0987-4a78-8fa7-976a25a1197d",
+    "name": "Chromium Picolinate (Trivalent) 500 mcg",
+    "name_lower": "chromium picolinate (trivalent) 500 mcg",
+    "upc": "033984008724",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "c815b3a7-488e-43bf-a990-704733fb9d9b",
+    "name": "GTF Trivalent Chromium",
+    "name_lower": "gtf trivalent chromium",
+    "upc": "033984013629",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "c97982bd-9894-410c-8650-a6dc4c0f8da0",
+    "name": "Niacin (Vitamin B3) 100 mg",
+    "name_lower": "niacin (vitamin b3) 100 mg",
+    "upc": "033984018600",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263988.jpg",
+    "completeness_score": 87,
+    "category": "energy"
+  },
+  {
+    "id": "c9ed61d2-2b1c-4f47-8abf-b58492eba7ad",
+    "name": "Zinc Citrate 30 mg",
+    "name_lower": "zinc citrate 30 mg",
+    "upc": "033984036703",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "ca9a1aad-7946-4bb3-a996-a8841ad18798",
+    "name": "Potassium",
+    "name_lower": "potassium",
+    "upc": "033984022607",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/264037.jpg",
+    "completeness_score": 87,
+    "category": "energy"
+  },
+  {
+    "id": "cb470f06-8577-49fb-b2a3-039240a7a5f5",
+    "name": "MSM (Methylsulfonylmethane) 1000 mg",
+    "name_lower": "msm (methylsulfonylmethane) 1000 mg",
+    "upc": "033984017344",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "cb530daa-771d-42e6-acf7-24f6aa92bf1d",
+    "name": "Melatonin 5 mg",
+    "name_lower": "melatonin 5 mg",
+    "upc": "033984019379",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "sleep"
+  },
+  {
+    "id": "cd8055b7-fee3-46f9-a3f1-255890f9c4bf",
+    "name": "Earth Source Multi-Nutrient",
+    "name_lower": "earth source multi-nutrient",
+    "upc": null,
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "cdfc470c-1a42-4c94-93b2-8e80f2532f72",
+    "name": "Resveratrol 100 mg",
+    "name_lower": "resveratrol 100 mg",
+    "upc": "033984023352",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "ce7e1b18-d243-4a78-859a-159d7479f657",
+    "name": "Solovite Iron-Free",
+    "name_lower": "solovite iron-free",
+    "upc": "033984026216",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "beauty"
+  },
+  {
+    "id": "d07c2dd6-0b43-4913-b5b0-2438cfd62c8f",
+    "name": "Megasorb B-Complex \"50\"",
+    "name_lower": "megasorb b-complex \"50\"",
+    "upc": "033984017511",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 69,
+    "category": "beauty"
+  },
+  {
+    "id": "d0b3eba6-7a3d-4de1-b666-24b7a153b502",
+    "name": "Full Spectrum Curcumin Brain Works",
+    "name_lower": "full spectrum curcumin brain works",
+    "upc": "033984657649",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "d2db9af6-578d-4fdb-a4bc-94b5f8d78e66",
+    "name": "Omega-3 \"700\" Coenzyme Q-10 Policosanol",
+    "name_lower": "omega-3 \"700\" coenzyme q-10 policosanol",
+    "upc": "033984020245",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  },
+  {
+    "id": "d402ae33-1ec2-4f12-907e-f027b14ad0b7",
+    "name": "Turmeric Root Extract",
+    "name_lower": "turmeric root extract",
+    "upc": "033984041615",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "d415ff10-058c-4e86-9cc8-4a6f1b4f20c0",
+    "name": "Phosphatidylserine Complex",
+    "name_lower": "phosphatidylserine complex",
+    "upc": "033984028036",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "brain"
+  },
+  {
+    "id": "d65518df-d6cd-444e-b01a-29e7c90f699f",
+    "name": "Bee-Pollen Nuggets",
+    "name_lower": "bee-pollen nuggets",
+    "upc": "033984022201",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "d6c56245-8417-418b-85f2-9e0fd22857f5",
+    "name": "Vitamin B6 50 mg",
+    "name_lower": "vitamin b6 50 mg",
+    "upc": "033984031005",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "d6c6a493-8928-49e6-82da-22905a618c97",
+    "name": "Extra Strength Glucosamine Hyaluronic Acid Chondroitin MSM Shellfish-Free",
+    "name_lower": "extra strength glucosamine hyaluronic acid chondroitin msm shellfish-free",
+    "upc": "033984013179",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "joints"
+  },
+  {
+    "id": "d78a8ad1-a389-4d31-97ed-13fbbb93861c",
+    "name": "Sublingual Methylcobalamin (Vitamon B12) 5000 mcg",
+    "name_lower": "sublingual methylcobalamin (vitamon b12) 5000 mcg",
+    "upc": "033984019591",
+    "asin": "B001LR047K",
+    "imageUrl": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_019584_F.png",
+    "completeness_score": 92,
+    "category": "energy"
+  },
+  {
+    "id": "d9a5c408-e505-4b13-a3a1-82dd9fdcb776",
+    "name": "Liquid Vitamin D3 125 mcg Natural Orange Flavor",
+    "name_lower": "liquid vitamin d3 125 mcg natural orange flavor",
+    "upc": "033984320482",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "d9e1d054-b00a-4175-a8c5-a315bee22eaf",
+    "name": "Glucosamine Hydrochloride 1000 mg (Shellfish-free)",
+    "name_lower": "glucosamine hydrochloride 1000 mg (shellfish-free)",
+    "upc": "033984013124",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "dc6fdfc5-547d-4627-95bd-9ba40a01eb33",
+    "name": "Ubiquinol 100 mg",
+    "name_lower": "ubiquinol 100 mg",
+    "upc": "033984026414",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "dc9e2a5f-b374-4a02-86a3-bcbdafbd825f",
+    "name": "Calcium Magnesium with Vitamin D3",
+    "name_lower": "calcium magnesium with vitamin d3",
+    "upc": "033984005198",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "dca19a7e-b28a-4a92-a719-5546cb0349f4",
+    "name": "Natural Soya Lecithin 300 mg",
+    "name_lower": "natural soya lecithin 300 mg",
+    "upc": "033984015210",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "dd33030f-0303-454b-be67-f875a87955e3",
+    "name": "Vegetarian Multiple",
+    "name_lower": "vegetarian multiple",
+    "upc": "033984027923",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "beauty"
+  },
+  {
+    "id": "dd35696d-b308-4a1f-9a0f-f7baef08028d",
+    "name": "Naturally Sourced Beta-Carotene 7,500 mcg (25,000 IU)",
+    "name_lower": "naturally sourced beta-carotene 7,500 mcg (25,000 iu)",
+    "upc": "033984020320",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263835.jpg",
+    "completeness_score": 87,
+    "category": "energy"
+  },
+  {
+    "id": "de5218dc-0dce-444a-ae47-4525b642330b",
+    "name": "Chondroitin Sulfate 600 mg",
+    "name_lower": "chondroitin sulfate 600 mg",
+    "upc": "033984008649",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "joints"
+  },
+  {
+    "id": "dec1c27b-c6f8-4c81-bf9f-b7bc6a43769a",
+    "name": "Potassium Amino Acid Complex",
+    "name_lower": "potassium amino acid complex",
+    "upc": "033984007611",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "sports"
+  },
+  {
+    "id": "e2b97d3c-69b7-4601-ac8f-923932abd0c7",
+    "name": "Magnesium with Vitamin B6",
+    "name_lower": "magnesium with vitamin b6",
+    "upc": "033984017214",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "e2e771fa-c200-4adc-aa7e-aadbe6ca99af",
+    "name": "All-In-One Plus Grapefruit",
+    "name_lower": "all-in-one plus grapefruit",
+    "upc": "033984000612",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "e2eba663-6679-4c55-b25e-8430122349a6",
+    "name": "Bilberry Ginkgo Eyebright Complex Plus Lutein",
+    "name_lower": "bilberry ginkgo eyebright complex plus lutein",
+    "upc": "033984003163",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "brain"
+  },
+  {
+    "id": "e518d86f-c09c-4948-a67d-833d5c448841",
+    "name": "Eleuthero",
+    "name_lower": "eleuthero",
+    "upc": "033984012608",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "e5ebf938-eb96-4925-b1c3-35b6e5245fb0",
+    "name": "Super Concentrated Isoflavones with Genistein & Daidzein",
+    "name_lower": "super concentrated isoflavones with genistein & daidzein",
+    "upc": "033984014732",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "e6b5e8ce-c396-4437-ac4a-80ebefa4e35b",
+    "name": "North Atlantic Kelp",
+    "name_lower": "north atlantic kelp",
+    "upc": "033984015005",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "e7084b9c-63d2-4d19-b624-42d7ee141e01",
+    "name": "Super Potency Vitamin B 1 (Thiamin) 500 mg",
+    "name_lower": "super potency vitamin b 1 (thiamin) 500 mg",
+    "upc": "033984029804",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "e7680733-1306-4d64-ab78-ba599c4cf4da",
+    "name": "Kangavites Complete Multivitamin & Mineral Natural Bouncin' Berry Flavor",
+    "name_lower": "kangavites complete multivitamin & mineral natural bouncin' berry flavor",
+    "upc": "033984010161",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "beauty"
+  },
+  {
+    "id": "e7cd78b0-c40a-4f41-b745-31d078cba6e4",
+    "name": "South American Purple Corn 550 mg",
+    "name_lower": "south american purple corn 550 mg",
+    "upc": "033984023123",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "immunity"
+  },
+  {
+    "id": "e7f2e785-742e-41c5-b57e-aa70dcf7cd6a",
+    "name": "Niacin (Vitamin B3) 500 mg",
+    "name_lower": "niacin (vitamin b3) 500 mg",
+    "upc": "033984018518",
+    "asin": null,
+    "imageUrl": "https://api.ods.od.nih.gov/dsld/s3/pdf/thumbnails/263987.jpg",
+    "completeness_score": 87,
+    "category": "energy"
+  },
+  {
+    "id": "e9a2e6a6-c4c9-40da-86f3-c7ec40a89cd4",
+    "name": "Cinnamon Alpha Lipoic Acid",
+    "name_lower": "cinnamon alpha lipoic acid",
+    "upc": "033984008786",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "e9c1245a-3c4f-429a-bedf-752fa32cbae2",
+    "name": "Vitamin B12 100 mcg",
+    "name_lower": "vitamin b12 100 mcg",
+    "upc": "033984031807",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "eba8353b-e452-4ed5-9976-31887c622a6b",
+    "name": "EPA/GLA",
+    "name_lower": "epa/gla",
+    "upc": "033984017672",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "heart"
+  },
+  {
+    "id": "ecf55c2f-4d95-4330-addc-b5659e228ff0",
+    "name": "Megasorb Vitamin B12 5000 mcg",
+    "name_lower": "megasorb vitamin b12 5000 mcg",
+    "upc": "033984017450",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "ef17dcc0-352f-4b49-8053-11c04964fb6c",
+    "name": "Cat's Claw Inner Bark Extract",
+    "name_lower": "cat's claw inner bark extract",
+    "upc": "033984041134",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "weight"
+  },
+  {
+    "id": "f068dda2-e587-44ad-8751-9a5ee14427c8",
+    "name": "Rhodiola Root Extract",
+    "name_lower": "rhodiola root extract",
+    "upc": "033984041394",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "stress"
+  },
+  {
+    "id": "f161d58b-7e51-401b-bf85-b189264ed95e",
+    "name": "Taurine 500 mg",
+    "name_lower": "taurine 500 mg",
+    "upc": "033984027022",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "f445adde-d0cf-4d45-bf6e-d5c4e9c3ca0e",
+    "name": "Borage Oil 550 mg Natural Orange Flavor",
+    "name_lower": "borage oil 550 mg natural orange flavor",
+    "upc": "033984000674",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "f7c22137-fba9-4e61-8b16-03e616eb5400",
+    "name": "Creatine Complex",
+    "name_lower": "creatine complex",
+    "upc": "033984010611",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "sports"
+  },
+  {
+    "id": "f92cfb65-6886-443e-b147-32a68edb4daa",
+    "name": "L-Ornithine 500 mg",
+    "name_lower": "l-ornithine 500 mg",
+    "upc": "033984020603",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "fa16a593-f2ca-440d-b61f-f6f41b2c1b5a",
+    "name": "Vitamin D3 5000 IU",
+    "name_lower": "vitamin d3 5000 iu",
+    "upc": "033984033146",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "immunity"
+  },
+  {
+    "id": "faf34a36-2d9c-442e-afe2-35639c428d3d",
+    "name": "Dicalcium Malate",
+    "name_lower": "dicalcium malate",
+    "upc": "033984009875",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 77,
+    "category": "energy"
+  },
+  {
+    "id": "fb2b8f51-9ac8-42f8-8749-38979889f014",
+    "name": "Acetyl L-Carnitine 500 mg",
+    "name_lower": "acetyl l-carnitine 500 mg",
+    "upc": "033984004740",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "fb8b3339-a2ea-4bca-a262-5ef100d64b74",
+    "name": "Alpha Lipoic Acid 200 mg",
+    "name_lower": "alpha lipoic acid 200 mg",
+    "upc": "033984000582",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "energy"
+  },
+  {
+    "id": "fdb26ba6-fb5a-42cf-b5cc-d7c139c658be",
+    "name": "Megasorb CoQ-10 L-Carnitine 50 mg/250 mg",
+    "name_lower": "megasorb coq-10 l-carnitine 50 mg/250 mg",
+    "upc": "033984009530",
+    "asin": null,
+    "imageUrl": null,
+    "completeness_score": 73,
+    "category": "digestion"
+  }
+]

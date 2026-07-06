@@ -1,0 +1,1576 @@
+{
+  "brand": "Solgar",
+  "brand_id": "abe16fba-94db-4f09-99c9-31a259d13792",
+  "total_products": 321,
+  "last_updated": "2026-07-01T04:45:00Z",
+  "batch_5_6_summary": {
+    "batch_5": {
+      "total": 13,
+      "updated": 7,
+      "created": 6,
+      "errors": 0,
+      "products_updated": [
+        "Megasorb B-Complex \"50\"",
+        "Brewer's Yeast Powder Unflavored",
+        "Psyllium Husks Fiber 500 mg",
+        "L-Cysteine 500 mg",
+        "Whey To Go Whey Protein Powder Chocolate",
+        "Calcium \"600\" from Oyster Shell with Vitamin D3",
+        "Advanced Calcium Complex"
+      ],
+      "products_created": [
+        "Hy-Bio Tablets (500 mg Vitamin C with 500 mg Bioflavonoids)",
+        "Brewer's Yeast 7 1/2 Grains Tablets with Vitamin B12",
+        "DLPA 500 mg",
+        "Dry Vitamin A 1500 mcg (5000 IU)",
+        "Dry Vitamin E with Yeast-Free Selenium",
+        "Herbal Water Pill"
+      ]
+    },
+    "batch_6": {
+      "total": 13,
+      "updated": 4,
+      "created": 9,
+      "errors": 0,
+      "products_updated": [
+        "Naturally Sourced Beta-Carotene 7,500 mcg (25,000 IU)",
+        "Ubiquinol 100 mg (Reduced CoQ-10)",
+        "Gelatin",
+        "Liquid Calcium Magnesium Citrate with Vitamin D3 Natural Orange-Vanilla Flavor"
+      ],
+      "products_created": [
+        "Chewable Calcium 500 mg Wafers",
+        "Vitamin D3 (Cholecalciferol) 55 mcg (2200 IU)",
+        "Vitamin D3 (Cholecalciferol) 125 mcg (5,000 IU) Softgels",
+        "Vitamin D3 (Cholecalciferol) 15 mcg (600 IU)",
+        "Megasorb CoQ-10 400 mg",
+        "Megasorb CoQ-10 600 mg",
+        "Vegetarian CoQ-10 60 mg",
+        "Vegetarian CoQ-10 120 mg",
+        "Vegetarian CoQ-10 200 mg"
+      ]
+    }
+  },
+  "batch_3_4_summary": {
+    "batch_3": {
+      "total": 13,
+      "updated": 4,
+      "created": 9,
+      "errors": 0,
+      "products_updated": [
+        "U-Cubes Children's Multi-Vitamin and Mineral Gummies",
+        "U-Cubes Children's Calcium with D3 Gummies",
+        "Apple Cider Vinegar Gummies 1000 mg",
+        "Extra Strength Glucosamine Chondroitin MSM with Ester-C"
+      ],
+      "products_created": [
+        "Weight Management Probiotic with Capsimax",
+        "Women's Complete Probiotic",
+        "Probi Plus Enzyme",
+        "Advanced Probiotic Complex",
+        "Ultra Potency Vitamin B12 Raspberry Gummies",
+        "Ultra Potency Vitamin D3 Strawberry Gummies",
+        "Ultra Potency Zinc Mixed Fruit Gummies",
+        "Ultra Potency Vitamin C Tart Orange Gummies",
+        "Energy Kicks Natural Pomegranate Flavor"
+      ]
+    },
+    "batch_4": {
+      "total": 13,
+      "updated": 0,
+      "created": 13,
+      "errors": 0,
+      "products_created": [
+        "Liquid B-12 2000 mcg with B-Complex",
+        "Kangavites Multivitamin & Mineral Chewable Tablets",
+        "Cinnamon Alpha Lipoic Acid",
+        "Cranberry Plus Ester-C",
+        "Glucosamine MSM Complex (Shellfish-Free)",
+        "Glucosamine Hyaluronic Acid Chondroitin MSM (Shellfish-Free)",
+        "Triple Strength Glucosamine Chondroitin MSM (Shellfish-Free)",
+        "Cold Pressed Earth Source Organic Flaxseed Oil",
+        "Magnesium with Vitamin B6",
+        "Potassium Magnesium Aspartate",
+        "Calcium Magnesium Tablets",
+        "Phosphatidylcholine",
+        "B-Complex with Vitamin C Stress Formula"
+      ]
+    }
+  },
+  "completed": [
+    {
+      "id": "06649290-d76c-413e-9e36-d089b89a9064",
+      "name": "No. 7",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_504974_F.png",
+      "asin": "B0GL9VP4G5",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-no-7-vegetable-capsules"
+    },
+    {
+      "id": "036ed2d5-4f81-49d8-aed0-586d384b6dd5",
+      "name": "Chelated Magnesium",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_007000_F.png",
+      "asin": "B0016K0ZQM",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/chelated-magnesium-tablets"
+    },
+    {
+      "id": "174ccc28-7688-4a33-ac22-b8c2f0faef45",
+      "name": "Full Spectrum Curcumin",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_595972_F.png",
+      "asin": "B00ZB5M5RK",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/full-spectrum-curcumin-liquid-extract-softgels"
+    },
+    {
+      "id": "16ec81b3-dc58-46bf-844b-0a8faabd91da",
+      "name": "Sleep & Stress Support",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_303195_F.png",
+      "asin": "B09BP52J8N",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-sleep-and-stress-support-vegetable-capsules"
+    },
+    {
+      "id": "1be99e00-ae55-496d-beff-b6f4ab7ad2cd",
+      "name": "B-Complex 50",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009277-SG.B-COMPLEX-50.100.CAP_.png",
+      "asin": "B00024D6CS",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/b-complex-50-vegetable-capsules"
+    },
+    {
+      "id": "1a95b5a8-f0b3-404a-a89e-2bea49035997",
+      "name": "Omega-3 700mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_020511_F.png",
+      "asin": "B00014D09S",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/double-strength-omega-3-700-mg-softgels"
+    },
+    {
+      "id": "1c2f3d99-057b-4eb7-9e2e-cf4841e94857",
+      "name": "Skin, Nails & Hair",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009405-SG.SKIN-NAILS-HAIR.60.TAB_.png",
+      "asin": "B000GJN8KY",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/skin-nails-hair-tablets"
+    },
+    {
+      "id": "0795ef1d-448c-48a8-862e-08db3e7b0a60",
+      "name": "Liquid Vitamin D3 5000 IU",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_033122_F_0.png",
+      "asin": "B00269V7P0",
+      "completeness": 83,
+      "solgar_url": "https://www.solgar.com/products/vitamin-d3-cholecalciferol-125-mcg-5000-iu-vegetable-capsules"
+    },
+    {
+      "id": "22abdad0-4fa2-46f1-9f9b-113d2269fd4d",
+      "name": "Ester-C Plus 1000 mg Vitamin C",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-07/100009259-Ester-C-Plus-1000-MG_60-TAB.png",
+      "asin": "B0001VUMBK",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/ester-c-plus-1000mg-vitamin-c-vegetable-capsules"
+    },
+    {
+      "id": "cb530daa-771d-42e6-acf7-24f6aa92bf1d",
+      "name": "Melatonin 5 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_019362_F.png",
+      "asin": "B002MQDM46",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/melatonin-5-mg-nuggets"
+    },
+    {
+      "id": "7102ecec-8243-48f5-8fec-a58b27e90bb2",
+      "name": "Magnesium Citrate",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2023-08/f87er615.png",
+      "asin": "B00020ICBC",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-magnesium-citrate-tablets"
+    },
+    {
+      "id": "2de88764-ec43-4fb3-8efb-e9ecfbc32231",
+      "name": "Zinc 50 mg (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_037205_F.png",
+      "asin": "B000A6LUC6",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/zinc-50-mg-tablets"
+    },
+    {
+      "id": "50b160fc-aa24-46bd-a640-9f074e88253e",
+      "name": "Magnesium Glycinate (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/Solgar%20Magnesium%20Glycinate%201.png",
+      "asin": "B0DXNC216V",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/magnesium-glycinate-vegetable-capsules"
+    },
+    {
+      "id": "2372b72d-205c-42fa-a5f1-0f9b1094de9f",
+      "name": "Super Potency Biotin 5000 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_003132_F.png",
+      "asin": "B00F41G1TY",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/biotin-5000-mcg-vegetable-capsules"
+    },
+    {
+      "id": "24c44501-85ff-4586-a0ba-3fc5191272f5",
+      "name": "Vitamin C 1000 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_032750_F.png",
+      "asin": "B000Z8WY3I",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-vitamin-c-1000-mg-tablets"
+    },
+    {
+      "id": "d78a8ad1-a389-4d31-97ed-13fbbb93861c",
+      "name": "Sublingual Methylcobalamin (Vitamin B12) 5000 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_019584_F.png",
+      "asin": "B001LR047K",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/methylcobalamin-vitamin-b12-5000-mcg-nuggets"
+    },
+    {
+      "id": "05cee137-f082-4b6a-ad05-e37b0ec84f2a",
+      "name": "Vitamin D3 25 mcg (1000 IU) (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_033108_F.png",
+      "asin": "B001H8L486",
+      "completeness": 84,
+      "solgar_url": "https://www.solgar.com/products/vitamin-d3-cholecalciferol-25-mcg-1000-iu-tablets"
+    },
+    {
+      "id": "58c7dd79-ed6b-46d6-b909-ecf08ca27f2c",
+      "name": "Triple Strength Omega-3 950 mg (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2023-08/2x0zl8no.png",
+      "asin": "B000Z919TM",
+      "completeness": 84,
+      "solgar_url": "https://www.solgar.com/products/solgar-triple-strength-omega-3-950-mg-softgels"
+    },
+    {
+      "id": "b2b67acd-0e27-4a1a-a294-1cc135a428e5",
+      "name": "Alpha Lipoic Acid 600 mg (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_000544_F.png",
+      "asin": "B000CQ315S",
+      "completeness": 84,
+      "solgar_url": "https://www.solgar.com/products/alpha-lipoic-acid-600-mg-tablets"
+    },
+    {
+      "id": "a011cbb4-dce3-4ef1-b647-06a34a2b957e",
+      "name": "GABA 500 mg (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_012103_F.png",
+      "asin": "B000Z8WXMU",
+      "completeness": 84,
+      "solgar_url": "https://www.solgar.com/products/gaba-500-mg-vegetable-capsules"
+    },
+    {
+      "id": "142eba6d-8521-4379-9a75-14cbf9ec58c3",
+      "name": "5-HTP 100 mg (NEW)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009363-5-HTP-Tryptophan_90-CAP.png",
+      "asin": "B000Z94138",
+      "completeness": 84,
+      "solgar_url": "https://www.solgar.com/products/5-htp-100-mg-vegetable-capsules"
+    },
+    {
+      "id": "3e2a3b47-c5ea-451e-bd93-a657578d05bb",
+      "name": "Naturally Sourced Vitamin K2 (MK-7) 100 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_036031_F.png",
+      "asin": "B001ATATX8",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/solgar-naturally-sourced-vitamin-k2-mk-7-100-mcg-vegetable-capsules"
+    },
+    {
+      "id": "9d416260-01c7-4aae-a632-fe78d2b0115a",
+      "name": "Quercetin Complex with Ester-C Plus",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_023185_F.png",
+      "asin": "B005AYD8WS",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/quercetin-complex-with-ester-c-plus-vegetable-capsules"
+    },
+    {
+      "id": "16dffc72-adfc-4562-9959-613c387ef531",
+      "name": "Magtein Magnesium L-Threonate",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/Solgar%20Magnesium%20L-Threonate%201.png",
+      "asin": null,
+      "completeness": 47,
+      "solgar_url": "https://www.solgar.com/products/magtein-magnesium-threonate-vegetable-capsules-72mg"
+    },
+    {
+      "id": "69de10c8-10c5-4258-b399-6eeeb49864a2",
+      "name": "Gentle Iron",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009319-SG.GENTLE-IRON.180.CAP-9-2023.png",
+      "asin": "B06XYVV5CW",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/gentle-iron-vegetable-capsules"
+    },
+    {
+      "id": "024086b9-dc9e-4885-b453-d80de3f06bf2",
+      "name": "B-Complex \"100\"",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009283-SG.B-COMPLEX-100.50.CAP-9-2023.png",
+      "asin": "B0019K79OA",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/b-complex-100-vegetable-capsules"
+    },
+    {
+      "id": "3df67361-16c6-48fe-b817-285ce742881a",
+      "name": "Vitamin D3 (Cholecalciferol) 250 mcg (10,000 IU)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_358720_F.png",
+      "asin": "B004TBXGS4",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/vitamin-d3-cholecalciferol-250-mcg-10000-iu-softgels"
+    },
+    {
+      "id": "1fbe5893-6dc6-40be-9cc0-1498e76df664",
+      "name": "Zinc Picolinate 22 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_037250_F.png",
+      "asin": "B00020ICLC",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/zinc-picolinate-22-mg-tablets"
+    },
+    {
+      "id": "c3dfa1d3-bf3d-4173-b48e-3e058fb4da94",
+      "name": "Vitamin B12 1000 mcg Nuggets",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-07/100009602-SG.VIT-B12-NGTS.1000.MCG_.100.TAB-%281%29.png",
+      "asin": "B00014DR32",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/solgar-vitamin-b12-1000-mcg-nuggets"
+    },
+    {
+      "id": "dc9e2a5f-b374-4a02-86a3-bcbdafbd825f",
+      "name": "Calcium Magnesium with Vitamin D3",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005181_F.png",
+      "asin": "B0002W0SGC",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/calcium-magnesium-with-vitamin-d3-tablets"
+    },
+    {
+      "id": "087b1790-e49c-4b83-b096-928a78bb7da3",
+      "name": "Male Multiple",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_017443_F.png",
+      "asin": "B000Z90I1M",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-male-multiple-tablets"
+    },
+    {
+      "id": "6ee77a59-bdcd-4919-afbe-a5ecde229f2b",
+      "name": "Female Multiple",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010635_F.png",
+      "asin": "B002VWNUTI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/female-multiple-tablets"
+    },
+    {
+      "id": "8268ec14-fb0e-4265-9450-675c8fdce7a9",
+      "name": "Probi 30 Billion",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_539259_F.png",
+      "asin": "B00L6CH7K2",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/probi-30-billion-vegetable-capsules"
+    },
+    {
+      "id": "3a69ec4f-9089-4d02-9ec5-00170159ddf2",
+      "name": "Megasorb CoQ-10 100 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_009479_F.png",
+      "asin": "B00016XFMS",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/megasorb-coq-10-100-mg-softgels"
+    },
+    {
+      "id": "b41d6ab2-11ae-4d95-a05b-aa746ab5f6db",
+      "name": "Advanced Collagen Builder",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-11/Collagen.png",
+      "asin": "B0FW81711V",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/advanced-collagen-builder"
+    },
+    {
+      "id": "4e65d10e-bf78-464d-8674-f780582d5eb3",
+      "name": "L-Theanine 150 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_027060_F.png",
+      "asin": "B000PR44TG",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-l-theanine-150-mg-vegetable-capsules"
+    },
+    {
+      "id": "c6cdb3db-3088-493b-9965-2e10d985eff6",
+      "name": "Ashwagandha Root Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041042_F.png",
+      "asin": "B000Z92QVW",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-ashwagandha-root-extract-vegetable-capsules"
+    },
+    {
+      "id": "20de7593-d470-4ab2-ad7a-d724bb6baece",
+      "name": "Vitamin C 1000 mg with Rose Hips",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_024007_F.png",
+      "asin": "B00020IBKY",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/vitamin-c-1000-mg-with-rose-hips-tablets"
+    },
+    {
+      "id": "1612f02a-2a4e-4930-8963-68ce520461d7",
+      "name": "Ester-C Plus 500 mg Vitamin C (Citrus Bioflavonoids)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_006911_F.png",
+      "asin": "B08QZZGF6K",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/ester-c-plus-500-mg-with-citrus-bioflavonoids-capsules"
+    },
+    {
+      "id": "3899879c-b9f1-462f-bc49-238107aac0e8",
+      "name": "Ester-C plus 500 mg Vitamin C (Veg Capsules)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009252-Ester-C-Plus-500-MG_50-CAP.png",
+      "asin": "B000US24NS",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/ester-c-plus-500mg-vitamin-c-vegetable-capsules"
+    },
+    {
+      "id": "20085ff4-5aa1-400a-b42d-85d0dc4d757d",
+      "name": "Naturally Sourced Cranberry with Vitamin C",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_009554_F.png",
+      "asin": "B0001VW06A",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/natural-cranberry-with-vitamin-c-vegetable-capsules"
+    },
+    {
+      "id": "623e121f-eaf9-4ed6-8af9-83450f271447",
+      "name": "Omega 3 Fish Oil Concentrate",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_017887_F.png",
+      "asin": "B00331RPSS",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/omega-3-fish-oil-concentrate-softgels"
+    },
+    {
+      "id": "3d6519dc-1f28-4f49-97df-d457bd9cc5b8",
+      "name": "1300 mg Omega 3-6-9 Fish, Flax, Borage",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_020276_F.png",
+      "asin": "B000NI6WHE",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-omega-3-6-9-1300-mg-softgels"
+    },
+    {
+      "id": "1a979326-a42e-40a3-8d1e-06ca9d791aee",
+      "name": "Evening Primrose Oil 1300 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010574_F.png",
+      "asin": "B00014DAAC",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/evening-primrose-oil-1300mg-softgels"
+    },
+    {
+      "id": "06d504d7-52fa-4662-9646-c91bbd139e11",
+      "name": "Saw Palmetto Berries",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_040236_F.png",
+      "asin": "B00020IEWE",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-saw-palmetto-berries-vegetable-capsules"
+    },
+    {
+      "id": "06eb882c-c97f-4d1f-93f4-8ac6a2300cdc",
+      "name": "Korean Ginseng",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041387_F.png",
+      "asin": "B000WMWYAK",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/sfp-korean-ginseng-root-extract-vegetable-capsules"
+    },
+    {
+      "id": "30e44f0e-7003-4df1-84af-1d82cc04d292",
+      "name": "Echinacea Herb Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041226_F_0.png",
+      "asin": "B0001VURPQ",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/sfp-echinacea-herb-extract-vegetable-capsules"
+    },
+    {
+      "id": "03846299-163c-4d50-8607-01a0bd392007",
+      "name": "Advanced Acidophilus",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_000186_F.png",
+      "asin": "B000Z8VMLI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/advanced-acidophilus-vegetable-capsules"
+    },
+    {
+      "id": "02ce5306-f0ff-4d32-88bf-2e578deec45b",
+      "name": "Advanced Acidophilus Plus",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_000148_F.png",
+      "asin": "B0001VVBQU",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/advanced-acidophilus-plus-vegetable-capsules"
+    },
+    {
+      "id": "04faf3be-5aff-43cb-b019-d0ffb8828bee",
+      "name": "Selenium 200 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_025417_F.png",
+      "asin": "B00020ICGC",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/selenium-200-mcg-tablets"
+    },
+    {
+      "id": "56cc14cd-d414-479d-8d51-e3d775fed5d0",
+      "name": "Flaxseed Oil 1250 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010703_F.png",
+      "asin": "B00013Z1HI",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-flaxseed-oil-1250-mg-softgels"
+    },
+    {
+      "id": "0746902c-fd4d-4573-97d8-fef3e717bd36",
+      "name": "Chewable Vitamin C 500 mg Cran-Raspberry",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_004085_F.png",
+      "asin": "B000EORHXK",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/vitamin-c-500-mg-chewable-tablets-cran-raspberry-flavor"
+    },
+    {
+      "id": "cb470f06-8577-49fb-b2a3-039240a7a5f5",
+      "name": "MSM 1000 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009404-SG.MSM_.1000.MG_.120.TAB_.png",
+      "asin": "B00016XG5E",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/msm-1000-mg-tablets"
+    },
+    {
+      "id": "0e7ce582-5eb4-4425-89e1-78ab4405a525",
+      "name": "Chelated Iron",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_006805_F.png",
+      "asin": "B00020IC8A",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/chelated-iron-tablets"
+    },
+    {
+      "id": "bf6917b7-37f8-492a-a1db-df9e4b36789e",
+      "name": "Calcium Magnesium Plus Zinc",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009156-SG.CALCMAGZINC.250.TAB_.png",
+      "asin": "B00020IC3K",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/calcium-magnesium-plus-zinc-tablets"
+    },
+    {
+      "id": "0ba89b93-59af-4358-853b-9c2ec33469c3",
+      "name": "U-Cubes Children's Vitamin C Gummies",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_595989_F.png",
+      "asin": "B018SSG2HU",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/u-cubes-childrens-vitamin-c-gummies"
+    },
+    {
+      "id": "f068dda2-e587-44ad-8751-9a5ee14427c8",
+      "name": "Rhodiola Root Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041394_F.png",
+      "asin": "B0001VW3LM",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/sfp-rhodiola-root-extract-vegetable-capsules"
+    },
+    {
+      "id": "0d134caa-1b1c-466f-b478-a36fc9e031ac",
+      "name": "Probi 20 Billion",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_539242_F.png",
+      "asin": "B00JG04NCG",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/probi-20-billion-vegetable-capsules"
+    },
+    {
+      "id": "86efe4c1-0527-4721-9a59-a5f6326c796f",
+      "name": "Advanced 40+ Acidophilus",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_000278_F.png",
+      "asin": "B000Z92KTA",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/advanced-40-acidophilus-vegetable-capsules"
+    },
+    {
+      "id": "d402ae33-1ec2-4f12-907e-f027b14ad0b7",
+      "name": "Turmeric Root Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041615_F.png",
+      "asin": "B000Z8X8VU",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/standardized-turmeric-root-extract-vegetable-capsules"
+    },
+    {
+      "id": "f161d58b-7e51-401b-bf85-b189264ed95e",
+      "name": "Taurine 500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009563-SG.TAURINE.500.MG_.250.CAP_.png",
+      "asin": "B000RZN6I6",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/taurine-500-mg-vegetable-capsules"
+    },
+    {
+      "id": "688f9427-0b72-465a-a9ca-d6ba19d0c644",
+      "name": "Reduced L-Glutathione 250 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_013506_F.png",
+      "asin": "B001BCMY8C",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/reduced-l-glutathione-250-mg-vegetable-capsules"
+    },
+    {
+      "id": "ca9a1aad-7946-4bb3-a996-a8841ad18798",
+      "name": "Potassium",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_022607_F.png",
+      "asin": "B000RZP88M",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-potassium-tablets"
+    },
+    {
+      "id": "7dc6ad11-f03d-48a1-84ba-52ec01282f57",
+      "name": "Choline 350 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_008304_F.png",
+      "asin": "B000URVCRI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-choline-350-mg-vegetable-capsules"
+    },
+    {
+      "id": "a03c4b33-717b-42ab-a019-616e565ead36",
+      "name": "Choline/Inositol 500 mg/500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_008502_F.png",
+      "asin": "B00014EBPA",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/cholineinositol-500-mg500-mg-vegetable-capsules"
+    },
+    {
+      "id": "c97982bd-9894-410c-8650-a6dc4c0f8da0",
+      "name": "Niacin (Vitamin B3) 100 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_018600_F.png",
+      "asin": "B00020IAWI",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/niacin-vitamin-b3-100-mg-tablets"
+    },
+    {
+      "id": "e7f2e785-742e-41c5-b57e-aa70dcf7cd6a",
+      "name": "Niacin (Vitamin B3) 500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_018518_F.png",
+      "asin": "B00H7JSROI",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/solgar-niacin-vitamin-b3-500-mg-vegetable-capsules"
+    },
+    {
+      "id": "43ba5eea-9b64-458c-9493-9c7a5f068149",
+      "name": "Resveratrol 250 mg with Red Wine Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_023369_F.png",
+      "asin": "B002ON9ZQG",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/resveratrol-250-mg-with-red-wine-extract-softgels"
+    },
+    {
+      "id": "138e8cea-a8b8-42a3-af86-ccc660b1e00b",
+      "name": "Calcium Magnesium Citrate",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005105_F.png",
+      "asin": "B00020IC3A",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/calcium-magnesium-citrate-tablets"
+    },
+    {
+      "id": "14ab58f1-e6bf-4277-b38b-50e7044e1017",
+      "name": "Ubiquinol 100 mg (Reduced CoQ-10)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_026414_F.png",
+      "asin": "B001PYZCZI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/ubiquinol-100-mg-reduced-coq-10-softgels"
+    },
+    {
+      "id": "3413b05b-21ba-4d0f-b0c6-7295651b859b",
+      "name": "Phosphatidyl Serine 200 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_022089_F.png",
+      "asin": "B00331VVGK",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/phosphatidylserine-200-mg-softgels"
+    },
+    {
+      "id": "2e03d7ff-694e-4f9a-a611-51550ae3eec3",
+      "name": "Milk Thistle",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_039728_F.png",
+      "asin": "B000Z92S4M",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-milk-thistle-vegetable-capsules"
+    },
+    {
+      "id": "272d3e48-250a-4661-9826-29cfc86f7d54",
+      "name": "Vitamin D3 (Cholecalciferol) 10 mcg (400 IU)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_033207_F.png",
+      "asin": "B00020IAB4",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/vitamin-d3-cholecalciferol-10-mcg-400-iu-softgels"
+    },
+    {
+      "id": "3d31c1a7-0612-465c-9b4d-6ba077df981c",
+      "name": "Liquid Melatonin 10 mg Natural Black Cherry Flavor",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_503809_F.png",
+      "asin": "B0064BUP0Y",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/liquid-melatonin-10-mg-natural-black-cherry-flavor"
+    },
+    {
+      "id": "0f7de007-ef7c-47a6-9fe3-e9e97379c164",
+      "name": "Royal Jelly \"500\"",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_024311_F.png",
+      "asin": "B0001VW3AI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/royal-jelly-500-softgels"
+    },
+    {
+      "id": "1671d287-08c0-49a8-bdf2-a55ca360b005",
+      "name": "Herbal Female Complex",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041639_F.png",
+      "asin": "B000WMWYEQ",
+      "completeness": 84,
+      "solgar_url": "https://www.solgar.com/products/sfp-herbal-female-complex-vegetable-capsules"
+    },
+    {
+      "id": "006b0d5c-c758-497a-b3dd-e67de26739fb",
+      "name": "Echinacea (FP)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-04/SO_038707_F.png",
+      "asin": "B0001VW0EM",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/fp-echinacea-vegetable-capsules"
+    },
+    {
+      "id": "a12d9a07-772b-40af-befc-a4bc5ccd939d",
+      "name": "Tonalin 1300 mg CLA",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_027145_F.png",
+      "asin": "B003KKRVF4",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/tonalin-cla-1300-mg-softgels"
+    },
+    {
+      "id": "a4b1b44c-11a5-4c94-8a99-3cbc963a1068",
+      "name": "Biotin 10,000 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_523876_F.png",
+      "asin": "B009P6BHKC",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/biotin-10000-mcg-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "9806f8f4-55d8-49ab-90cf-db775389c7ac",
+      "name": "Biotin 1,000 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009120-SG.BIOTIN.1000.MCG_.100.CAP-9-2022-Non-GMO.png",
+      "asin": "B000RZLRFU",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/biotin-1000-mcg-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "4225dc6b-81a1-420f-b45d-9e26ab3bf877",
+      "name": "Biotin 300 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009114-Biotin-300-MCG_100-TAB.png",
+      "asin": "B0051P1YM2",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/biotin-300-mcg-tablets",
+      "action": "created"
+    },
+    {
+      "id": "c478075f-9ebe-4918-ac1f-dee8a949481c",
+      "name": "Folate 1,000 mcg (Metafolin 1,000 mcg)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_535954_F.png",
+      "asin": "B00E667UO8",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/folate-1000-mcg-metafolin-1000-mcg-tablets",
+      "action": "created"
+    },
+    {
+      "id": "67006558-5240-4a35-ac06-eceeff7480d7",
+      "name": "Folate 666 MCG DFE (Metafolin 400 mcg)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_019416_F.png",
+      "asin": "B00H7JYKHQ",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/folate-666-mcg-dfe-metafolin-400-mcg-tablets",
+      "action": "created"
+    },
+    {
+      "id": "61e90582-e2dc-4fb9-ad5b-6c28c06be8de",
+      "name": "Folate 1,333 MCG DFE (Folic Acid 800 mcg)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009274-SG.FOLIC-ACID.800.MCG_.250.TAB_.png",
+      "asin": "B00020IAUU",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/folate-1333-mcg-dfe-800-mcg-folic-acid-tablets"
+    },
+    {
+      "id": "735e8180-0fb4-4751-a493-f2f7415ec7f8",
+      "name": "Collagen Hyaluronic Acid Complex",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_014176_F.png",
+      "asin": "B000Z94Z3Y",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/collagen-hyaluronic-acid-complex-tablets"
+    },
+    {
+      "id": "0d4a6136-adf7-4556-9ba4-90e0ea32dd4a",
+      "name": "Lyophilized Liver (Desiccated)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_016606_F.png",
+      "asin": "B00020IDS4",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/desiccated-liver-tablets"
+    },
+    {
+      "id": "217d5d37-8aee-4fae-9255-2fdcb76ad700",
+      "name": "Melatonin 3 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_019355_F.png",
+      "asin": "B002MQ7ZKI",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/melatonin-3-mg-nuggets",
+      "action": "created"
+    },
+    {
+      "id": "ae0a2965-b736-4382-9d5d-b1204490bff1",
+      "name": "Melatonin 10 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_019560_F.png",
+      "asin": "B003MG0V1W",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/melatonin-10-mg-tablets",
+      "action": "created"
+    },
+    {
+      "id": "bbf17aa2-0c5f-4eda-ae01-de4dd5585acd",
+      "name": "Vegan Vitamin D3 25 mcg (1,000 IU)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2023-07/SO_303331_F.png",
+      "asin": null,
+      "completeness": 47,
+      "solgar_url": "https://www.solgar.com/products/vegan-vitamin-d3-25-mcg-1000-iu",
+      "action": "created"
+    },
+    {
+      "id": "9162e4e0-2088-4118-9b35-4dd33dd4df2e",
+      "name": "Vegan Vitamin D3 150 mcg (6,000 IU)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_303348_F.png",
+      "asin": "B09L5FRJZH",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/vegan-vitamin-d3-150-mcg-6000-iu",
+      "action": "created"
+    },
+    {
+      "id": "48bb0da2-eb1a-422c-950e-767e78563f78",
+      "name": "Earth Source Food Fermented Koji Iron 27 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005341_F.png",
+      "asin": "B0854QKRB2",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/earth-source-food-fermented-koji-iron-27mg-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "ae7c9ce9-2e0b-4150-a9e3-de0f54d20556",
+      "name": "Super GLA 300 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_026766_F.png",
+      "asin": "B0001VW3VM",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/super-gla-300-mg-softgels",
+      "action": "updated"
+    },
+    {
+      "id": "7da35e8b-70d6-4d26-abc2-65e2119cf326",
+      "name": "Grape Seed Extract 100 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_013568_F.png",
+      "asin": "B006J7NSM0",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/grape-seed-extract-100-mg-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "7b77dad0-38b0-41ed-aa48-76233b6469f6",
+      "name": "Rutin 500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_024618_F.png",
+      "asin": "B000YN5LU2",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/rutin-500-mg-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "e2eba663-6679-4c55-b25e-8430122349a6",
+      "name": "Bilberry Ginkgo Eyebright Complex Plus Lutein",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_003156_F.png",
+      "asin": "B001BAFBSO",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/bilberry-ginkgo-eyebright-complex-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "230f49b5-4034-4ebc-9b5a-ac3b8b8bb359",
+      "name": "Astaxanthin 10 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_362048_F.png",
+      "asin": "B0050E7SH4",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/astaxanthin-10-mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "0e3fc247-cc9d-4d04-9868-56a4421b81d0",
+      "name": "Natural Astaxanthin 5 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_000711_F.png",
+      "asin": "B00014FDUW",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/natural-astaxanthin-5-mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "70370c9d-ec9e-4665-bc28-5da1538b6ad2",
+      "name": "Lutein 20 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_016750_F.png",
+      "asin": "B00331RPQA",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/solgar-lutein-20-mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "75046b03-942e-45e1-97fe-d65aa836d122",
+      "name": "Lutein 40 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_016774_F.png",
+      "asin": "B00331ZW5G",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/lutein-40mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "2d46d79d-a202-4ddf-a0b8-995796eac8db",
+      "name": "Cod Liver Oil",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_009400_F.png",
+      "asin": "B001AHC60Y",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/cod-liver-oil-softgels-vitamin-a-d-supplement",
+      "action": "created"
+    },
+    {
+      "id": "cb1b836c-c6e1-4145-abdc-4a9a0fe84d2d",
+      "name": "Soya Lecithin 1360 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_015401_F.png",
+      "asin": "B000NGUVAU",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/soya-lecithin-1360-mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "857fed70-ddd3-4162-b2b7-435395eb9f67",
+      "name": "Ubiquinol 200 mg (Reduced CoQ-10)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_026421_F.png",
+      "asin": "B0050ZD08O",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/ubiquinol-200-mg-reduced-coq-10-softgels",
+      "action": "created"
+    },
+    {
+      "id": "1d5e815f-3a94-4eaa-806b-9823ac80eaae",
+      "name": "Policosanol 20 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_022515_F.png",
+      "asin": "B000CQ0V10",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/policosanol-20-mg-vegetable-capsules"
+    },
+    {
+      "id": "1a979326-a42e-40a3-8d1e-06ca9d791aee",
+      "name": "Evening Primrose Oil 500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010420_F.png",
+      "asin": "B000WMZ2GI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/evening-primrose-oil-500-mg-softgels"
+    },
+    {
+      "id": "c6ce5739-0987-4a78-8fa7-976a25a1197d",
+      "name": "Chromium Picolinate (Trivalent) 500 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_008717_F.png",
+      "asin": "B0011FUOZY",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/chromium-picolinate-500-mcg-vegetable-capsules"
+    },
+    {
+      "id": "c9ed61d2-2b1c-4f47-8abf-b58492eba7ad",
+      "name": "Zinc Citrate 30 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_036703_F.png",
+      "asin": "B0011FT5GS",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/zinc-citrate-30-mg-vegetable-capsules"
+    },
+    {
+      "id": "9c579126-30f9-4f51-b6c7-13d997679c91",
+      "name": "Vitamin E 268 mg (400 IU) D-Alpha Tocopherol",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_035218_F.png",
+      "asin": "B00020IBTK",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-vitamin-e-268-mg-400-iu-alpha-softgels"
+    },
+    {
+      "id": "bef00778-4ae3-471f-ad7a-1b19de71b491",
+      "name": "Prenatal Nutrients",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009499-SG.PRENATAL-NUTRIENTS.120.TAB-7-2022-%281%29_0.png",
+      "asin": "B0001VW34E",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/prenatal-nutrients-tablets"
+    },
+    {
+      "id": "7a857d96-b19b-40d6-8d4c-54572beec89f",
+      "name": "Megasorb CoQ-10 200 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_009592_F.png",
+      "asin": "B000CESR7W",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/megasorb-coq-10-200-mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "2843257f-d1ec-4c01-82e1-becef4444667",
+      "name": "Megasorb CoQ-10 60 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_009585_F.png",
+      "asin": "B00014EB8W",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/megasorb-coq-10-60-mg-softgels",
+      "action": "created"
+    },
+    {
+      "id": "bf8c50e6-f541-4dbe-86ee-73b8d6bbceb7",
+      "name": "Red Yeast Rice",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_023246_F.png",
+      "asin": "B000Z97BL2",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/solgar-red-yeast-rice-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "e83dab07-618c-4783-9b5c-eb42e5ff9949",
+      "name": "Garlic Oil Perles (Reduced Odor)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_012202_F.png",
+      "asin": "B00020IDRK",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/garlic-oil-perles-softgels-reduced-odor",
+      "action": "created"
+    },
+    {
+      "id": "0c0cddec-feb7-451b-8be5-eb8456f7a628",
+      "name": "Chromium Picolinate 200 mcg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_008670_F.png",
+      "asin": "B00020IC4Y",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/chromium-picolinate-200-mcg-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "5ce04a2d-bd5e-4e7a-954f-85c871a8666f",
+      "name": "Chelated Zinc",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_008007_F.png",
+      "asin": "B0001VVZUC",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/chelated-zinc-tablets",
+      "action": "created"
+    },
+    {
+      "id": "5ad9dec1-ca8e-47df-b5c2-7bf97eb23111",
+      "name": "Glycine 500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_013704_F.png",
+      "asin": "B00020IA0K",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/glycine-500-mg-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "9c579126-30f9-4f51-b6c7-13d997679c91",
+      "name": "Naturally Sourced Vitamin E 268 mg (400 IU)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_035478_F.png",
+      "asin": "B00028NJ7Q",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/vitamin-e-400iu-vegetarian-softgels",
+      "action": "updated"
+    },
+    {
+      "id": "bf0d70a3-6b9e-4c7a-abda-1eff8d621851",
+      "name": "Natural Liquid Vitamin E",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_016002_F.png",
+      "asin": "B000Z90FLU",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/liquid-vitamin-e-with-dropper",
+      "action": "updated"
+    },
+    {
+      "id": "e2eba663-6679-4c55-b25e-8430122349a6",
+      "name": "Bilberry Ginkgo Eyebright Complex Plus Lutein",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_003163_F.png",
+      "asin": "B001BAFBSO",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/bilberry-ginkgo-eyebright-complex-plus-lutein-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "5f3e36c0-749b-406b-9c03-1f3dccf9ac3c",
+      "name": "Ginkgo Biloba Leaf Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009700-SG.SFP-GINKGO-BILOBA.90.MG_.180.CAP_.png",
+      "asin": "B0001VURSI",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/sfp-ginkgo-biloba-leaf-extract-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "80c91e15-8af1-4b60-b389-4598994dbd6e",
+      "name": "Valerian Root",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041523_F.png",
+      "asin": "B000Z8YMS8",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/standardized-valerian-root-extract-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "d11a34ec-3064-4b48-814e-2a7ea2f0321b",
+      "name": "Vitamin E 134 mg (200 IU) Alpha Softgels",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_034815_F.png",
+      "asin": "B00020IBRW",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/vitamin-e-134-mg-200-iu-alpha-softgels",
+      "action": "created"
+    },
+    {
+      "id": "801a39d1-2209-4182-9b85-03d022813852",
+      "name": "Vitamin E 134 mg (200 IU) Vegan Softgels",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_035065_F.png",
+      "asin": "B000Z91KVO",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/vitamin-e-134-mg-200-iu-vegetarian-softgels-d-alpha-tocopherol-mixed-tocopherols",
+      "action": "created"
+    },
+    {
+      "id": "b3e3b680-ae1b-4c47-9acd-421b072ff930",
+      "name": "Vitamin E 67 mg (100 IU) Mixed Softgels",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_034617_F.png",
+      "asin": "B00020IBR2",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/vitamin-e-67-mg-100-iu-mixed-softgels-d-alpha-tocopherol-mixed-tocopherols",
+      "action": "created"
+    },
+    {
+      "id": "99650ca9-156b-4c5b-97bc-df08247877c0",
+      "name": "Vitamin E 1000 IU (670 mg)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_035614_F.png",
+      "asin": "B00128X11E",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/vitamin-e-1000iu-670-mg-d-alpha-tocopherol-mixed-tocopherols",
+      "action": "created"
+    },
+    {
+      "id": "3767295c-66aa-47c0-855c-e0a620cf4b29",
+      "name": "Lutein Carotenoid Complex",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_016682_F.png",
+      "asin": "B00020IAH8",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/lutein-carotenoid-complex-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "dc20e9fd-c67a-4139-afd8-c9a3e90af6ec",
+      "name": "SFP Boswellia Resin Extract",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_041141_F.png",
+      "asin": "B00020IEC4",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/sfp-boswellia-resin-extract-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "75b1730c-940c-4129-8cb9-e56b456b4c60",
+      "name": "Tart Cherry 1000 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_315495_F.png",
+      "asin": "B0040USG8O",
+      "completeness": 51,
+      "solgar_url": "https://www.solgar.com/products/solgar-tart-cherry-1000-mg-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "fb8b3339-a2ea-4bca-a262-5ef100d64b74",
+      "name": "Alpha Lipoic Acid 200 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009086-SG.ALPHA-LIPO-ACID.200.MG_.50.CAP_.png",
+      "asin": "B00020IDN4",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/alpha-lipoic-acid-200-mg-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "cdfc470c-1a42-4c94-93b2-8e80f2532f72",
+      "name": "Resveratrol 100 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_023352_F.png",
+      "asin": "B000W7VCQW",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/resveratrol-100-mg-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "c3e542bb-9aaf-4f4b-b4ef-c55e07bcde68",
+      "name": "Resveratrol 500 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_310452_F.png",
+      "asin": "B003JNLP18",
+      "completeness": 63,
+      "solgar_url": "https://www.solgar.com/products/resveratrol-500-mg-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "d139e4fd-2951-4da7-805e-9351d250ea88",
+      "name": "Citrus Bioflavonoid Complex 1000 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_009202_F.png",
+      "asin": "B000URWWPY",
+      "completeness": 63,
+      "solgar_url": "https://www.solgar.com/products/citrus-bioflavonoid-complex-1000-mg-tablets",
+      "action": "created"
+    },
+    {
+      "id": "05b9c5c6-0b37-419c-9c0b-7eaaf45fb243",
+      "name": "Beta Glucans",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_002357_F.png",
+      "asin": "B001714H4G",
+      "completeness": 63,
+      "solgar_url": "https://www.solgar.com/products/beta-glucans-tablets",
+      "action": "created"
+    },
+    {
+      "id": "8700b6af-92fb-4c19-90fb-726804b6bb44",
+      "name": "Homocysteine Modulators",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_014114_F.png",
+      "asin": "B001BCKZWE",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/homocysteine-modulators-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "54705dd7-1a65-4c88-a32a-90f1ea368f48",
+      "name": "Chelated Copper",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_006409_F.png",
+      "asin": "B00H4HH10E",
+      "completeness": 63,
+      "solgar_url": "https://www.solgar.com/products/chelated-copper-tablets",
+      "action": "created"
+    },
+    {
+      "id": "29f20461-2f34-4727-aa55-ccf570ca0974",
+      "name": "Chelated Manganese",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_007208_F.png",
+      "asin": "B00020ICBW",
+      "completeness": 63,
+      "solgar_url": "https://www.solgar.com/products/chelated-manganese-tablets",
+      "action": "created"
+    },
+    {
+      "id": "8c3dacd1-d38d-47c7-b9e2-d667e02b2588",
+      "name": "Chelated Molybdenum",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_007406_F.png",
+      "asin": "B00ED3WOGS",
+      "completeness": 63,
+      "solgar_url": "https://www.solgar.com/products/chelated-molybdenum-tablets",
+      "action": "created"
+    },
+    {
+      "id": "3968633f-11c7-4e18-be96-9ac969dbd31f",
+      "name": "Oceanic Silica 25 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_025714_F.png",
+      "asin": "B0001VW2OU",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/oceanic-silica-25-mg-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "7d388fb0-413c-4c30-94c0-e33fb8be2aac",
+      "name": "Lipotropic Factors",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_015814_F.png",
+      "asin": "B00020IDNE",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/lipotropic-factors-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "bdcea0d3-ad66-40c0-a5ac-1e7109e702bf",
+      "name": "Advanced Antioxidant Formula",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010352_F.png",
+      "asin": "B000Z8WW5I",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/advanced-antioxidant-formula-vegetable-capsules",
+      "action": "updated"
+    },
+    {
+      "id": "20fcb271-33b9-44b2-815d-86ef44ef1235",
+      "name": "Flavo-Zinc Lozenge",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010642_F.png",
+      "asin": "B0012KJDL4",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/solgar-flavo-zinc-zinc-lozenge",
+      "action": "updated"
+    },
+    {
+      "id": "4fd63f7e-6bfb-4a15-8664-5a174cc7814f",
+      "name": "Formula VM-2000",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_011892_F.png",
+      "asin": "B0001VUN46",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/formula-vm-2000-tablets-multinutrient-system",
+      "action": "updated"
+    },
+    {
+      "id": "3533e990-0027-4cb4-8c40-7d840559c7da",
+      "name": "Formula VM-75 (Tablets)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009297-SG.FORMULA-VM-75.60.TAB-9-2022.png",
+      "asin": "B001ATI12Y",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/formula-vm-75-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "3533e990-0027-4cb4-8c40-7d840559c7da",
+      "name": "Formula VM-75 (Vegetable Capsules)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_011663_F.png",
+      "asin": "B074STJSTD",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/formula-vm-75-vegetable-capsules",
+      "action": "skipped (same product ID)"
+    },
+    {
+      "id": "6e722456-048c-4837-90cb-950fd61d14c4",
+      "name": "Iron-Free Formula VM-75",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_011748_F.png",
+      "asin": "B0017187DS",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/iron-free-formula-vm-75-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "72e58a9e-5636-4013-b26d-2db8fea75855",
+      "name": "Omnium",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_020672_F.png",
+      "asin": "B077BC2WCY",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/omnium-tablets-phytonutrient-complex-multiple-vitamin-mineral-formula",
+      "action": "updated"
+    },
+    {
+      "id": "cd8055b7-fee3-46f9-a3f1-255890f9c4bf",
+      "name": "Earth Source Multi-Nutrient",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010291_F.png",
+      "asin": "B07G2L9LMQ",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/earth-source-multi-nutrient-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "6b212be0-11b0-457b-8c2d-fa1d5d68c5c5",
+      "name": "One Daily Men's Multi",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SG_620167_F.png",
+      "asin": "B0CHZBN2V2",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/one-daily-mens-multivitamin-capsules",
+      "action": "created"
+    },
+    {
+      "id": "aeb15615-5165-426f-84ad-81253724e0ba",
+      "name": "One Daily Women's Multi",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SG_620174_F.png",
+      "asin": "B0CHZ8YMLR",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/one-daily-womens-multivitamin-capsules",
+      "action": "created"
+    },
+    {
+      "id": "c499a0bb-8149-4cf5-97e6-5ec6fab3789c",
+      "name": "One Daily Women's Multi 50+",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SG_620143_F.png",
+      "asin": "B0CHZDJXBV",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/one-daily-womens-multivitamin-50-plus-capsules",
+      "action": "created"
+    },
+    {
+      "id": "e16505a4-d7d3-4972-bbbf-87102e599bc8",
+      "name": "One Daily Men's Multi 50+",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SG_620150_F.png",
+      "asin": "B0CHZLKP6K",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/one-daily-mens-multivitamin-50-plus-capsules",
+      "action": "created"
+    },
+    {
+      "id": "5299f86e-014e-418c-a11a-296b02f93b79",
+      "name": "Full Spectrum Curcumin Sleep Ease",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005525_F.png",
+      "asin": "B0854QN7RF",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/full-spectrum-curcumin-sleep-ease-licaps",
+      "action": "updated"
+    },
+    {
+      "id": "d0b3eba6-7a3d-4de1-b666-24b7a153b502",
+      "name": "Full Spectrum Curcumin Brain Works",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005518_F.png",
+      "asin": "B0854QX2TC",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/full-spectrum-curcumin-brain-works-licaps",
+      "action": "updated"
+    },
+    {
+      "id": "c5a81f74-5960-4b8d-8f2c-bf545dab8731",
+      "name": "Stress & Anxiety Relief",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005532_F.png",
+      "asin": null,
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/stress-anxiety-relief-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "599565d7-cbef-44dc-9a1b-faef83af2128",
+      "name": "Daily Stress Support",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_303171_F.png",
+      "asin": "B09BP4ZG44",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/solgar-daily-stress-support-vegetable-capsules",
+      "action": "created"
+    },
+    {
+      "id": "56fb5cdf-ced7-4df4-a0f8-48e839f8b9c0",
+      "name": "Menopause Relief",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_005891_F.png",
+      "asin": "B08QZZW6C9",
+      "completeness": 96,
+      "solgar_url": "https://www.solgar.com/products/menopause-relief-tablets",
+      "action": "updated"
+    },
+    {
+      "id": "d59ee7f7-dba7-4a10-b344-196036731c46",
+      "name": "Liposomal Melatonin Sleep Spray",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_304161_F.png",
+      "asin": "B0BG8X1XHY",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/liposomal-melatonin-sleep-spray",
+      "action": "created"
+    },
+    {
+      "id": "ce7bd943-08bf-435a-8e43-4036134a2ca7",
+      "name": "Memory Support",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/0810122620303-1.png",
+      "asin": "B0D1RW1V84",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/memory-support-capsules",
+      "action": "created"
+    },
+    {
+      "id": "29a42914-723b-43df-bc17-a6d899a7c7c2",
+      "name": "Digital Defense",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/0810122620297-1.png",
+      "asin": "B0D1RLLMPW",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/digital-defense-eye-health-softgels",
+      "action": "created"
+    },
+    {
+      "id": "c42201b6-afc1-4547-ab04-71034ece058f",
+      "name": "Joint Ease",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/0810122620266-1.png",
+      "asin": "B0D1RLXKBT",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/joint-ease-vegan-softgels",
+      "action": "created"
+    },
+    {
+      "id": "eff76e3d-632c-43d8-99cc-2c75735d417d",
+      "name": "Hair Growth",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/0810122620273-1.png",
+      "asin": "B0D1RWCR8M",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/hair-growth-softgels",
+      "action": "created"
+    },
+    {
+      "id": "d1318e6f-4511-4077-8a59-c3f798dd0840",
+      "name": "Cellulite Fighter",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/0810122620280-1.png",
+      "asin": "B0D1RLP9B7",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/cellulite-fighter-vegan-capsules",
+      "action": "created"
+    },
+    {
+      "id": "dde7c7b8-6cc5-494a-b7f4-21be2627aa39",
+      "name": "Muscle Maintenance",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-04/0810122620259-1.png",
+      "asin": "B0D1RQ2S5V",
+      "completeness": 37,
+      "solgar_url": "https://www.solgar.com/products/muscle-maintenance-capsules",
+      "action": "created"
+    },
+    {
+      "id": "75324058-986e-4004-a19e-598ab3a16477",
+      "name": "Magnesium Citrate Powder Unflavored 250 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2023-08/f87er615.png",
+      "asin": null,
+      "completeness": 33,
+      "solgar_url": "https://www.solgar.com/products/magnesium-citrate-powder-unflavored-250mg",
+      "action": "created"
+    },
+    {
+      "id": "655d5a9f-2bc0-46c8-946a-04fd953498b6",
+      "name": "Advanced Daily Support Probiotic",
+      "image": null,
+      "asin": null,
+      "completeness": 33,
+      "solgar_url": "https://www.solgar.com/products/advanced-daily-support-probiotic-vegan-capsules",
+      "action": "created"
+    },
+    {
+      "id": "42b821df-b3ae-4692-91f4-bd1db00c5d92",
+      "name": "Advanced Bowel Support Probiotic",
+      "image": null,
+      "asin": null,
+      "completeness": 33,
+      "solgar_url": "https://www.solgar.com/products/advanced-bowel-support-probiotic-vegan-capsules",
+      "action": "created"
+    },
+    {
+      "id": "392236dd-95f7-43b5-93c7-3090c736b933",
+      "name": "Advanced Sleep Support Probiotic with GABA & Melatonin",
+      "image": null,
+      "asin": null,
+      "completeness": 33,
+      "solgar_url": "https://www.solgar.com/products/advanced-sleep-support-probiotic-with-gaba-melatonin-vegan-capsules",
+      "action": "created"
+    },
+    {
+      "id": "9e6dee97-5535-4ffa-90e7-e98e712bfa97",
+      "name": "Liquid Calcium Magnesium Citrate with Vitamin D3 Natural Blueberry Flavor",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_358317_F.png",
+      "asin": null,
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/liquid-calcium-magnesium-citrate-vitamin-d3-blueberry"
+    },
+    {
+      "id": "61e90582-e2dc-4fb9-ad5b-6c28c06be8de",
+      "name": "Folate 1,333 MCG DFE (Folic Acid 800 mcg)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_010925_F.png",
+      "asin": "B0001LJ48M",
+      "completeness": 88,
+      "solgar_url": "https://www.solgar.com/products/folate-1333-mcg-dfe-800-mcg-folic-acid-vegetable-capsules"
+    },
+    {
+      "id": "b2b573b9-3072-4be1-a894-8ff9cb34f70d",
+      "name": "Methylcobalamin (Vitamin B12) 1000 mcg Nuggets",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009452-SG.METHYLCOBAL-NGT.1000.MCG_.30.TAB-4-2023.png",
+      "asin": "B001LR3V8Y",
+      "completeness": 92,
+      "solgar_url": "https://www.solgar.com/products/methylcobalamin-vitamin-b12-1000-mcg-nuggets"
+    },
+    {
+      "id": "49edec81-b953-457d-a148-d78af948bb07",
+      "name": "Folate 1,333 MCG DFE (Metafolin 800 mcg) Tablets",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-06/100009451-SG.METAFOLIN.800.MCG_.100.TAB-4-2022.png",
+      "asin": "B00RR2XHOA",
+      "completeness": 41,
+      "solgar_url": "https://www.solgar.com/products/folate-1333-mcg-dfe-metafolin-800-mcg-tablets"
+    },
+    {
+      "id": "ec2d608f-bf71-4d99-9318-15aa03088918",
+      "name": "Earth Source Koji Fermented Zinc 25 mg",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_303263_F.png",
+      "asin": "B09JHBFMJH",
+      "completeness": 41,
+      "solgar_url": "https://www.solgar.com/products/earth-source-koji-fermented-zinc-25-mg-vegetable-capsules"
+    },
+    {
+      "id": "b3e4e668-ce4b-440a-a3d2-438b2e5b0207",
+      "name": "Women's Balancing Formula (Phytoestrogen)",
+      "image": "https://www.solgar.com/sites/g/files/lpfasj931/files/2025-05/SO_023130_F.png",
+      "asin": "B003PUXPGI",
+      "completeness": 41,
+      "solgar_url": "https://www.solgar.com/products/womens-balancing-formula-phytoestrogen"
+    }
+  ],
+  "next_products_to_process": [],
+  "method": "Render solgar.com product page → extract first image URL + Amazon ASIN from BUY ONLINE link → bulk_update_products with imageUrl, asin, description, manufacturer, country_of_origin",
+  "notes": "COMPLETE - all Solgar catalog URLs processed. 169 products enriched (113 updated + 56 created total). Final batch: 6 pages processed (3 updated + 3 created).",
+  "batch_7_final_summary": {
+    "total": 6,
+    "updated": 3,
+    "created": 3,
+    "errors": 0,
+    "products_updated": [
+      "Liquid Calcium Magnesium Citrate with Vitamin D3 Natural Blueberry Flavor",
+      "Folate 1,333 MCG DFE (Folic Acid 800 mcg)",
+      "Methylcobalamin (Vitamin B12) 1000 mcg Nuggets"
+    ],
+    "products_created": [
+      "Folate 1,333 MCG DFE (Metafolin 800 mcg) Tablets",
+      "Earth Source Koji Fermented Zinc 25 mg",
+      "Women's Balancing Formula (Phytoestrogen)"
+    ]
+  }
+}

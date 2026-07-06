@@ -1,0 +1,111 @@
+{
+  "brand_update": {
+    "brand_id": "95cf4996-089e-425b-90da-d0e151b5bf1a",
+    "updates": {
+      "headquarters": "4841 Business Center Way, West Chester Township, OH 45246",
+      "city": "West Chester Township",
+      "state": "OH",
+      "country": "United States",
+      "website": "https://triquetrahealth.com/",
+      "brand_type": "independent",
+      "known_for": [
+        "L-Methylfolate",
+        "GLP-1 support",
+        "Ionic minerals",
+        "Mushroom extracts",
+        "Probiotics"
+      ],
+      "badges": [
+        "3rd Party Tested",
+        "GMP Certified",
+        "Clinically Validated Doses"
+      ],
+      "website_platform": "Shopify",
+      "contact_email": "support@triquetrahealth.com"
+    }
+  },
+  "existing_products_to_update": [
+    {
+      "id": "57ded263-3fc2-4e1d-90c8-161e1a0e6802",
+      "name": "Organic Spirulina Tablet Form",
+      "updates": {
+        "form": "tablet",
+        "serving_size": "6 tablets",
+        "servings_per_container": 60,
+        "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/organic-spirulina-tablets-energy-superfood.jpg?v=1762198063",
+        "description": "Certified organic spirulina in convenient tablet form. Rich in protein, vitamins, and minerals for daily energy and nutrition support.",
+        "dosage": "Take 6 tablets daily with water.",
+        "ingredients": [
+          {
+            "name": "Certified Organic Spirulina",
+            "amount": "3000",
+            "unit": "mg"
+          },
+          {
+            "name": "Protein",
+            "amount": "1.7",
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": "30",
+            "unit": "mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3d4790f-419f-410e-8e82-c060042c9c38",
+      "name": "Organic Spirulina",
+      "updates": {
+        "form": "powder",
+        "serving_size": "1 teaspoon (3g)",
+        "servings_per_container": 60,
+        "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/organic-spirulina-powder-superfood-energy.jpg?v=1762198072",
+        "description": "Certified organic spirulina powder. Nutrient-dense superfood for smoothies and beverages, rich in protein, iron, and B-vitamins.",
+        "dosage": "Mix 1 teaspoon into water, smoothie, or juice daily.",
+        "ingredients": [
+          {
+            "name": "Certified Organic Spirulina",
+            "amount": "3000",
+            "unit": "mg"
+          },
+          {
+            "name": "Protein",
+            "amount": "1.7",
+            "unit": "g"
+          },
+          {
+            "name": "Sodium",
+            "amount": "30",
+            "unit": "mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c985452a-4eec-472d-a34d-2f4704400fa4",
+      "name": "Ionic Magnesium",
+      "updates": {
+        "form": "liquid",
+        "serving_size": "1 mL (approx. 20 drops)",
+        "servings_per_container": 60,
+        "image_url": "https://cdn.shopify.com/s/files/1/0265/0895/1614/files/ionic-magnesium-liquid-supplement-high-absorption.jpg?v=1762198098",
+        "description": "Highly bioavailable ionic magnesium liquid supplement. Easily absorbed liquid form for muscle relaxation, sleep support, and nervous system health.",
+        "dosage": "Take 1 mL (20 drops) daily in water or juice.",
+        "ingredients": [
+          {
+            "name": "Magnesium (as Magnesium Chloride)",
+            "amount": "150",
+            "unit": "mg",
+            "daily_value_percent": 36
+          }
+        ]
+      }
+    }
+  ],
+  "new_products_file": "scripts/triquetra_import_batch.json",
+  "new_products_count": 21,
+  "total_after_import": 24,
+  "remaining_catalog": "~79 more products (will need subsequent batches)"
+}

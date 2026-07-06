@@ -1,0 +1,720 @@
+{
+  "started_at": "2026-06-18T14:25:05.412584",
+  "completed_at": "2026-06-18T14:27:39.200684",
+  "summary": {
+    "total_scanned": 84,
+    "verified_correct": 73,
+    "to_delete": 9,
+    "borderline_review": 2,
+    "errors": 0
+  },
+  "to_delete": [
+    {
+      "evidence_id": "ef6666e1-2717-4b3b-8d7c-54bf3359cbfd",
+      "ingredient_id": "fd0b760e-fea9-4a50-bb74-682a3ae915e3",
+      "ingredient_name": "D-Alpha-Tocopherol",
+      "biomarker": "8-OHdG",
+      "pmid": "17561088",
+      "expected_title": "Vitamin E supplementation and oxidative stress biomarkers: a systematic review",
+      "actual_title": "Vitamin E, antioxidant and nothing more",
+      "similarity": 0.23076923076923078,
+      "error": null
+    },
+    {
+      "evidence_id": "4776109e-7973-431b-bc27-d8d0cc1c53e9",
+      "ingredient_id": "fd0b760e-fea9-4a50-bb74-682a3ae915e3",
+      "ingredient_name": "D-Alpha-Tocopherol",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "11451959",
+      "expected_title": "Vitamin E and oxidative stress in the prevention of atherosclerosis",
+      "actual_title": "Glutamate 170 of human l-3-hydroxyacyl-CoA dehydrogenase is required for proper orientation of the catalytic histidine and structural integrity of the enzyme",
+      "similarity": 0.12,
+      "error": null
+    },
+    {
+      "evidence_id": "f0ba7aeb-9930-437d-9635-5f97af6e6d0a",
+      "ingredient_id": "293ca8ea-0a9d-4c1b-b695-9d87c3084e27",
+      "ingredient_name": "Potassium Iodide",
+      "biomarker": "TSH",
+      "pmid": "24758184",
+      "expected_title": "Iodine supplementation for mildly deficient populations: systematic review",
+      "actual_title": "Cell-specific dysregulation of microRNA expression in obese white adipose tissue",
+      "similarity": 0.0,
+      "error": null
+    },
+    {
+      "evidence_id": "270bf948-9037-4fce-ada6-e5d01de26ba7",
+      "ingredient_id": "293ca8ea-0a9d-4c1b-b695-9d87c3084e27",
+      "ingredient_name": "Potassium Iodide",
+      "biomarker": "Free T3",
+      "pmid": "18062832",
+      "expected_title": "The effect of iodine supplementation on thyroid function in mildly iodine-deficient adults",
+      "actual_title": "Whey protein isolate and glycomacropeptide decrease weight gain and alter body composition in male Wistar rats",
+      "similarity": 0.038461538461538464,
+      "error": null
+    },
+    {
+      "evidence_id": "f19837bc-1dfe-48f6-b858-7f33675122df",
+      "ingredient_id": "df3614ba-3b27-455d-8bc1-94499d36c915",
+      "ingredient_name": "Pyridoxal 5-Phosphate",
+      "biomarker": "Homocysteine",
+      "pmid": "11401930",
+      "expected_title": "Vitamin B6 and cardiovascular disease",
+      "actual_title": "Mobilization of endothelial progenitor cells in patients with acute myocardial infarction",
+      "similarity": 0.0,
+      "error": null
+    },
+    {
+      "evidence_id": "6cdf202e-a764-4ab2-8378-1a7dc89ce8a1",
+      "ingredient_id": "b1de7017-457e-41f9-9b60-405aa6b27dba",
+      "ingredient_name": "Niacin (Vitamin B3)",
+      "biomarker": "Triglycerides",
+      "pmid": "27236255",
+      "expected_title": "Effects of niacin on lipid levels and cardiovascular outcomes: a systematic review and meta-analysis",
+      "actual_title": "Long-Term Population-Based Cerebral Ischemic Event and Cognitive Outcomes of Direct Oral Anticoagulants Compared With Warfarin Among Long-term Anticoagulated Patients for Atrial Fibrillation",
+      "similarity": 0.0625,
+      "error": null
+    },
+    {
+      "evidence_id": "4d11d448-709d-4253-bf9f-89617daa1f53",
+      "ingredient_id": "b1de7017-457e-41f9-9b60-405aa6b27dba",
+      "ingredient_name": "Niacin (Vitamin B3)",
+      "biomarker": "Triglycerides",
+      "pmid": "11137835",
+      "expected_title": "Extended-release niacin for modification of the lipid profile",
+      "actual_title": "Left ventricular midwall function improves with antihypertensive therapy and regression of left ventricular hypertrophy in patients with asymptomatic hypertension",
+      "similarity": 0.043478260869565216,
+      "error": null
+    },
+    {
+      "evidence_id": "815e42a6-001f-46e8-b213-437d4d4d975d",
+      "ingredient_id": "e802ee8d-3a28-4928-b626-1a7ee8cac1da",
+      "ingredient_name": "Magnesium Citrate",
+      "biomarker": "RBC Magnesium",
+      "pmid": "14596323",
+      "expected_title": "Bioavailability of magnesium from different pharmaceutical formulations",
+      "actual_title": "Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study",
+      "similarity": 0.0,
+      "error": null
+    },
+    {
+      "evidence_id": "886955e8-5a07-4778-a90e-b4ce3b709c06",
+      "ingredient_id": "d95e402f-2cf3-4027-a2eb-539d756a8824",
+      "ingredient_name": "Magnesium Oxide",
+      "biomarker": "RBC Magnesium",
+      "pmid": "2407766",
+      "expected_title": "Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study",
+      "actual_title": "Magnesium bioavailability from magnesium citrate and magnesium oxide",
+      "similarity": 0.05555555555555555,
+      "error": null
+    }
+  ],
+  "borderline": [
+    {
+      "evidence_id": "cbf29109-f183-4383-b6c1-f1f751d8d6d6",
+      "ingredient_id": "fceaac5e-8935-49a5-84ca-ae9eff6d6e1c",
+      "ingredient_name": "Probiotic Blend",
+      "biomarker": "Fecal Calprotectin",
+      "pmid": "28653751",
+      "expected_title": "Probiotics for the management of inflammatory bowel disease: a systematic review and meta-analysis",
+      "actual_title": "Systematic review with meta-analysis: the efficacy of probiotics in inflammatory bowel disease",
+      "similarity": 0.3888888888888889
+    },
+    {
+      "evidence_id": "637084ca-56de-402c-aa0b-9ad46282b6f8",
+      "ingredient_id": "df3614ba-3b27-455d-8bc1-94499d36c915",
+      "ingredient_name": "Pyridoxal 5-Phosphate",
+      "biomarker": "Homocysteine",
+      "pmid": "16210710",
+      "expected_title": "Effect of B-vitamin supplementation on plasma homocysteine: a meta-analysis",
+      "actual_title": "Dose-dependent effects of folic acid on blood concentrations of homocysteine: a meta-analysis of the randomized trials",
+      "similarity": 0.2777777777777778
+    }
+  ],
+  "verified": [
+    {
+      "evidence_id": "7e4766e0-3ce7-4b99-a393-894f0d315fba",
+      "ingredient_id": "79330c2f-6ceb-4ce7-a8a6-b6a835ad3171",
+      "ingredient_name": "Alpha Lipoic Acid",
+      "biomarker": "Fasting Glucose",
+      "pmid": "31890685",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "fcd32d6c-c969-4359-beac-a1e6f2f337aa",
+      "ingredient_id": "79330c2f-6ceb-4ce7-a8a6-b6a835ad3171",
+      "ingredient_name": "Alpha Lipoic Acid",
+      "biomarker": "HbA1c",
+      "pmid": "36006850",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "bcab7a79-3233-4756-af65-5e8399307d29",
+      "ingredient_id": "79330c2f-6ceb-4ce7-a8a6-b6a835ad3171",
+      "ingredient_name": "Alpha Lipoic Acid",
+      "biomarker": "8-OHdG",
+      "pmid": "19664690",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "1d01090d-33f8-450d-8e75-7aac8f261701",
+      "ingredient_id": "9e520cb0-274f-496b-b4d9-ad37034d2eab",
+      "ingredient_name": "Ginkgo biloba",
+      "biomarker": "BDNF",
+      "pmid": "19160216",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "406e63a2-12f5-410a-9d5b-8c95e866d687",
+      "ingredient_id": "83f031c3-e5d7-42d3-9521-41e2bea3c02e",
+      "ingredient_name": "MecobalActive Methylcobalamin",
+      "biomarker": "BDNF",
+      "pmid": "26828517",
+      "similarity": 0.7
+    },
+    {
+      "evidence_id": "752050f7-13ea-4f79-b76f-467fea3e7069",
+      "ingredient_id": "83f031c3-e5d7-42d3-9521-41e2bea3c02e",
+      "ingredient_name": "MecobalActive Methylcobalamin",
+      "biomarker": "Serum Vitamin B12",
+      "pmid": "16034940",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "1ac6150c-99d4-44d2-927a-f9aac8b19bc1",
+      "ingredient_id": "83f031c3-e5d7-42d3-9521-41e2bea3c02e",
+      "ingredient_name": "MecobalActive Methylcobalamin",
+      "biomarker": "Serum Vitamin B12",
+      "pmid": "15911731",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "0eb01cf7-352d-4616-8170-e8924a8374ef",
+      "ingredient_id": "83f031c3-e5d7-42d3-9521-41e2bea3c02e",
+      "ingredient_name": "MecobalActive Methylcobalamin",
+      "biomarker": "Homocysteine",
+      "pmid": "20838622",
+      "similarity": 0.7
+    },
+    {
+      "evidence_id": "b4b86fa5-6e83-4ce4-be09-91c390f52d96",
+      "ingredient_id": "8642356a-d0cf-40f2-a5e3-f5f2d097ce44",
+      "ingredient_name": "Folate/5-MTHF",
+      "biomarker": "BDNF",
+      "pmid": "15671130",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "c9cd1838-0fd4-40c8-a8bf-c3344c775697",
+      "ingredient_id": "a3925330-c2fd-48b2-bc66-ff5fe3221d85",
+      "ingredient_name": "Creatine Monohydrate",
+      "biomarker": "BDNF",
+      "pmid": "29704637",
+      "similarity": 0.8
+    },
+    {
+      "evidence_id": "9bcad7af-0f42-43ce-b91c-6153d9a51a9e",
+      "ingredient_id": "bafb2418-bfad-4b38-85c3-ca5951e2ed45",
+      "ingredient_name": "Collagen Peptides",
+      "biomarker": "CTX",
+      "pmid": "29337906",
+      "similarity": 0.6875
+    },
+    {
+      "evidence_id": "680c742a-ab5d-44ff-b059-32615f32837b",
+      "ingredient_id": "6371dda9-8cde-4e32-8c89-51a403de7c6d",
+      "ingredient_name": "MenaQ7 Menaquinone-7",
+      "biomarker": "Serum Calcium",
+      "pmid": "25694037",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "e6063a7e-7554-435d-8ba5-1d6706b15610",
+      "ingredient_id": "6371dda9-8cde-4e32-8c89-51a403de7c6d",
+      "ingredient_name": "MenaQ7 Menaquinone-7",
+      "biomarker": "Osteocalcin",
+      "pmid": "23525894",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "e1925097-ede9-4475-8d1d-6c901d341299",
+      "ingredient_id": "6371dda9-8cde-4e32-8c89-51a403de7c6d",
+      "ingredient_name": "MenaQ7 Menaquinone-7",
+      "biomarker": "Osteocalcin",
+      "pmid": "17287908",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "9fdd846a-9c47-47d0-8101-9b36c0640819",
+      "ingredient_id": "08655a42-bc1b-4600-b7f1-0630d6140ebc",
+      "ingredient_name": "KSM-66 organic Ashwagandha full spectrum root extract",
+      "biomarker": "TSH",
+      "pmid": "28829155",
+      "similarity": 0.5882352941176471
+    },
+    {
+      "evidence_id": "462d7a17-81fc-49ff-96f0-9c32a395392e",
+      "ingredient_id": "08655a42-bc1b-4600-b7f1-0630d6140ebc",
+      "ingredient_name": "KSM-66 organic Ashwagandha full spectrum root extract",
+      "biomarker": "Fasting Insulin",
+      "pmid": "27055824",
+      "similarity": 0.65
+    },
+    {
+      "evidence_id": "611f2a65-e84e-4b98-868a-5c2550ef97d3",
+      "ingredient_id": "08655a42-bc1b-4600-b7f1-0630d6140ebc",
+      "ingredient_name": "KSM-66 organic Ashwagandha full spectrum root extract",
+      "biomarker": "Cortisol (AM)",
+      "pmid": "23439798",
+      "similarity": 0.75
+    },
+    {
+      "evidence_id": "9163edc2-976b-462c-96f5-ba8c57f4911d",
+      "ingredient_id": "08655a42-bc1b-4600-b7f1-0630d6140ebc",
+      "ingredient_name": "KSM-66 organic Ashwagandha full spectrum root extract",
+      "biomarker": "Cortisol (AM)",
+      "pmid": "32021735",
+      "similarity": 0.5555555555555556
+    },
+    {
+      "evidence_id": "b07ad9c9-2e94-44ca-9d20-a4a2a6516590",
+      "ingredient_id": "08655a42-bc1b-4600-b7f1-0630d6140ebc",
+      "ingredient_name": "KSM-66 organic Ashwagandha full spectrum root extract",
+      "biomarker": "DHEA-S",
+      "pmid": "28471731",
+      "similarity": 0.5
+    },
+    {
+      "evidence_id": "8b38b6bc-cb87-47e6-acad-107daa16ad48",
+      "ingredient_id": "08655a42-bc1b-4600-b7f1-0630d6140ebc",
+      "ingredient_name": "KSM-66 organic Ashwagandha full spectrum root extract",
+      "biomarker": "Testosterone (Total)",
+      "pmid": "26609282",
+      "similarity": 0.6470588235294118
+    },
+    {
+      "evidence_id": "7fca4889-0a43-4021-9f36-9dffbcbf0dcb",
+      "ingredient_id": "c8f75dca-578d-4767-aebb-6c40ac3deb66",
+      "ingredient_name": "Melatonin",
+      "biomarker": "Melatonin (Salivary PM)",
+      "pmid": "23691095",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "de87b5c9-99f5-4bd9-822e-cfd5e2d60715",
+      "ingredient_id": "c8f75dca-578d-4767-aebb-6c40ac3deb66",
+      "ingredient_name": "Melatonin",
+      "biomarker": "Melatonin (Salivary PM)",
+      "pmid": "12076414",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "b05a81bc-3116-45f1-99e8-cc9ae716312a",
+      "ingredient_id": "8c17caa8-904b-40f8-9975-85d12c44b966",
+      "ingredient_name": "Curcumin Turmeric extract",
+      "biomarker": "HbA1c",
+      "pmid": "31398884",
+      "similarity": 0.5
+    },
+    {
+      "evidence_id": "0b9862ec-190a-419f-aa53-c7d57673f1bb",
+      "ingredient_id": "8c17caa8-904b-40f8-9975-85d12c44b966",
+      "ingredient_name": "Curcumin Turmeric extract",
+      "biomarker": "Fasting Glucose",
+      "pmid": "22773702",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "0581cb5d-4715-484e-9f29-747683a451ba",
+      "ingredient_id": "8c17caa8-904b-40f8-9975-85d12c44b966",
+      "ingredient_name": "Curcumin Turmeric extract",
+      "biomarker": "IL-6",
+      "pmid": "27392742",
+      "similarity": 0.75
+    },
+    {
+      "evidence_id": "9149c2d9-04d9-46fe-85a8-8945d6e257ae",
+      "ingredient_id": "8c17caa8-904b-40f8-9975-85d12c44b966",
+      "ingredient_name": "Curcumin Turmeric extract",
+      "biomarker": "IL-6",
+      "pmid": "25795285",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "a75e3ffc-ba63-4cf6-8b51-9469a972b4d5",
+      "ingredient_id": "33135559-e662-41f6-a2eb-90c3b8e2679b",
+      "ingredient_name": "Ginger root concentrate",
+      "biomarker": "Fasting Glucose",
+      "pmid": "29344037",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "9e9ed786-0bff-46f7-a7cc-4552879c0764",
+      "ingredient_id": "902f0fa1-91d8-4502-9c95-058c78a0cbe7",
+      "ingredient_name": "Thiamine",
+      "biomarker": "Fasting Glucose",
+      "pmid": "15726875",
+      "similarity": 0.5
+    },
+    {
+      "evidence_id": "0f0d85ab-a78f-4611-88c7-2bdac42c87be",
+      "ingredient_id": "c82cb1cf-a1ec-4114-bad9-d87f38bb976b",
+      "ingredient_name": "Magnesium Glycinate",
+      "biomarker": "HbA1c",
+      "pmid": "27530471",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "38ff768e-015b-499f-8427-0574182a2df6",
+      "ingredient_id": "c82cb1cf-a1ec-4114-bad9-d87f38bb976b",
+      "ingredient_name": "Magnesium Glycinate",
+      "biomarker": "Fasting Insulin",
+      "pmid": "28526383",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "1f3ef2a6-6f06-4251-bbb3-9dc0fe70d053",
+      "ingredient_id": "c82cb1cf-a1ec-4114-bad9-d87f38bb976b",
+      "ingredient_name": "Magnesium Glycinate",
+      "biomarker": "hs-CRP",
+      "pmid": "28545353",
+      "similarity": 0.631578947368421
+    },
+    {
+      "evidence_id": "3323f4ea-cf1d-4274-8078-c2a91f158bc8",
+      "ingredient_id": "c82cb1cf-a1ec-4114-bad9-d87f38bb976b",
+      "ingredient_name": "Magnesium Glycinate",
+      "biomarker": "Cortisol (AM)",
+      "pmid": "28445426",
+      "similarity": 0.8461538461538461
+    },
+    {
+      "evidence_id": "004442a9-7a6d-4816-bff3-3dfaf21e5159",
+      "ingredient_id": "e9610997-7cca-416d-a3b2-cbad0d84a44f",
+      "ingredient_name": "Cholecalciferol",
+      "biomarker": "Testosterone (Total)",
+      "pmid": "21154195",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "6b087897-ae75-401a-a80b-54f5dc7a3e93",
+      "ingredient_id": "e9610997-7cca-416d-a3b2-cbad0d84a44f",
+      "ingredient_name": "Cholecalciferol",
+      "biomarker": "Fasting Insulin",
+      "pmid": "29951596",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "a3dfe21c-031e-4b18-bfc3-c861f0c9b325",
+      "ingredient_id": "e9610997-7cca-416d-a3b2-cbad0d84a44f",
+      "ingredient_name": "Cholecalciferol",
+      "biomarker": "Serum 25-Hydroxyvitamin D",
+      "pmid": "30675873",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "3c1a62cf-b20e-4f40-8043-b4934dff1fe4",
+      "ingredient_id": "7b36318f-8ae6-435f-bd14-8b2b091df334",
+      "ingredient_name": "N-Acetyl L-Cysteine",
+      "biomarker": "Homocysteine",
+      "pmid": "26447155",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "63fdae2c-f0b9-42d3-9982-652d5187fe24",
+      "ingredient_id": "7b36318f-8ae6-435f-bd14-8b2b091df334",
+      "ingredient_name": "N-Acetyl L-Cysteine",
+      "biomarker": "Fasting Insulin",
+      "pmid": "39415242",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "b5658911-06e7-45b4-8072-5a500f188f65",
+      "ingredient_id": "7b36318f-8ae6-435f-bd14-8b2b091df334",
+      "ingredient_name": "N-Acetyl L-Cysteine",
+      "biomarker": "RBC Glutathione",
+      "pmid": "39632267",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "8a72bdec-2f76-48d3-8e60-739d20171bef",
+      "ingredient_id": "7b36318f-8ae6-435f-bd14-8b2b091df334",
+      "ingredient_name": "N-Acetyl L-Cysteine",
+      "biomarker": "RBC Glutathione",
+      "pmid": "35975308",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "c84b7a9f-a70d-498e-8ccf-c3137dc92613",
+      "ingredient_id": "7b36318f-8ae6-435f-bd14-8b2b091df334",
+      "ingredient_name": "N-Acetyl L-Cysteine",
+      "biomarker": "hs-CRP",
+      "pmid": "32726657",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "6d4fd4d8-bb56-470c-bb31-1f764fc4594e",
+      "ingredient_id": "c5523292-0173-437f-bf92-305639b3bed3",
+      "ingredient_name": "Conjugated Linoleic Acid",
+      "biomarker": "Fasting Insulin",
+      "pmid": "17490954",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "742c1909-d62b-431f-8e3d-46c94a13f8a5",
+      "ingredient_id": "fceaac5e-8935-49a5-84ca-ae9eff6d6e1c",
+      "ingredient_name": "Probiotic Blend",
+      "biomarker": "IL-6",
+      "pmid": "31060892",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "dab71744-3bed-4432-b16f-393e5a6c93b4",
+      "ingredient_id": "fceaac5e-8935-49a5-84ca-ae9eff6d6e1c",
+      "ingredient_name": "Probiotic Blend",
+      "biomarker": "Fecal Calprotectin",
+      "pmid": "25070051",
+      "similarity": 0.5555555555555556
+    },
+    {
+      "evidence_id": "339e0f2b-3a53-443c-bf72-397ac591819f",
+      "ingredient_id": "fceaac5e-8935-49a5-84ca-ae9eff6d6e1c",
+      "ingredient_name": "Probiotic Blend",
+      "biomarker": "Secretory IgA",
+      "pmid": "25927096",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "e210ce47-6a80-475a-8b34-3d23c92262c5",
+      "ingredient_id": "41041596-ac59-4c77-853b-e7cf791a34cc",
+      "ingredient_name": "Selenium (as L-Selenomethionine)",
+      "biomarker": "TSH",
+      "pmid": "27702392",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "13c124ae-eddd-4278-9c79-2a227d195297",
+      "ingredient_id": "41041596-ac59-4c77-853b-e7cf791a34cc",
+      "ingredient_name": "Selenium (as L-Selenomethionine)",
+      "biomarker": "Free T3",
+      "pmid": "28255299",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "cd8ae6bf-3766-49d7-a5a4-cd17818cdcd5",
+      "ingredient_id": "293ca8ea-0a9d-4c1b-b695-9d87c3084e27",
+      "ingredient_name": "Potassium Iodide",
+      "biomarker": "TSH",
+      "pmid": "25591468",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "1d61cd91-4cff-4f9e-b45a-7af1e8627211",
+      "ingredient_id": "8b4438e5-a9f8-4535-9f4e-d62583ea1848",
+      "ingredient_name": "Berberine",
+      "biomarker": "HbA1c",
+      "pmid": "15531889",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "a225f153-d8c3-4037-9959-ee3baa437f23",
+      "ingredient_id": "8b4438e5-a9f8-4535-9f4e-d62583ea1848",
+      "ingredient_name": "Berberine",
+      "biomarker": "Triglycerides",
+      "pmid": "23512497",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "85049bf2-6348-4ae8-a533-e5c18f2d2abc",
+      "ingredient_id": "56b34183-4cb0-42bf-bad3-f935d4dec437",
+      "ingredient_name": "Docosahexaenoic Acid",
+      "biomarker": "hs-CRP",
+      "pmid": "29425187",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "a7468499-e4b3-4ebf-a782-6a055d28339e",
+      "ingredient_id": "9951c849-a620-47f6-9420-81f49e529861",
+      "ingredient_name": "Zinc Picolinate",
+      "biomarker": "hs-CRP",
+      "pmid": "17344507",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "bd284969-a1f1-459a-aefd-60ef2efeb784",
+      "ingredient_id": "9951c849-a620-47f6-9420-81f49e529861",
+      "ingredient_name": "Zinc Picolinate",
+      "biomarker": "Testosterone (Total)",
+      "pmid": "8875519",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "aea75453-e644-4d2e-a9f5-776ca7f2eaf1",
+      "ingredient_id": "8ebd141f-51c7-4560-85f5-284b0d49ffa1",
+      "ingredient_name": "Copper Bisglycinate",
+      "biomarker": "Serum Ferritin",
+      "pmid": "9587138",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "e99e74ca-2e11-40e2-8e37-7a767052b1d9",
+      "ingredient_id": "9f06633a-e011-49e8-8331-cafa0f8f03c7",
+      "ingredient_name": "Psyllium husk Fiber",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "9925120",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "6a0b89f8-5282-4048-8af5-367ce265debb",
+      "ingredient_id": "9f06633a-e011-49e8-8331-cafa0f8f03c7",
+      "ingredient_name": "Psyllium husk Fiber",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "10837282",
+      "similarity": 0.7333333333333333
+    },
+    {
+      "evidence_id": "0c67760c-4d0e-4464-b880-dbd3e328f684",
+      "ingredient_id": "b1de7017-457e-41f9-9b60-405aa6b27dba",
+      "ingredient_name": "Niacin (Vitamin B3)",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "22085343",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "45ad1658-24de-45be-84aa-c363306e5950",
+      "ingredient_id": "59848de3-f4ce-4e51-8dc6-cf06296383f6",
+      "ingredient_name": "Aged Garlic extract",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "23590705",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "50144b46-10eb-416d-a655-90063672c7af",
+      "ingredient_id": "59848de3-f4ce-4e51-8dc6-cf06296383f6",
+      "ingredient_name": "Aged Garlic extract",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "23169470",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "2f9fb381-7d15-4620-b428-a132bcb8f86a",
+      "ingredient_id": "45265730-3bf7-4acd-9156-139461052306",
+      "ingredient_name": "Spirulina",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "26433766",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "f7dea865-d5ba-4286-9736-3e8dcd730db2",
+      "ingredient_id": "a68a06f1-1464-45a3-a5bd-d49195413acc",
+      "ingredient_name": "Green Tea Leaf Extract",
+      "biomarker": "LDL Cholesterol",
+      "pmid": "21715508",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "d01157c9-739d-4027-882d-3aefca3d695f",
+      "ingredient_id": "ed2329c2-898e-47a4-a40c-d6efa0f7ef30",
+      "ingredient_name": "Rhodiola (Rhodiola rosea) dried root liquid extract",
+      "biomarker": "Cortisol (AM)",
+      "pmid": "22643043",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "a51550b3-3eae-4c02-894f-97458ae40531",
+      "ingredient_id": "ed2329c2-898e-47a4-a40c-d6efa0f7ef30",
+      "ingredient_name": "Rhodiola (Rhodiola rosea) dried root liquid extract",
+      "biomarker": "Cortisol (AM)",
+      "pmid": "19016404",
+      "similarity": 0.7
+    },
+    {
+      "evidence_id": "e10b4327-f038-495a-a903-a611801cd855",
+      "ingredient_id": "a6052305-76f1-425d-96f8-45c1c8e9d939",
+      "ingredient_name": "Calcium Citrate",
+      "biomarker": "Osteocalcin",
+      "pmid": "9278463",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "64c71590-3d97-4c7b-9ee1-dd5d91950d19",
+      "ingredient_id": "44272b52-2a7a-43a5-8164-b001de70f563",
+      "ingredient_name": "Vitex agnus-castus",
+      "biomarker": "Prolactin",
+      "pmid": "38075075",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "9c41b50c-64ec-4124-97f8-f81dacd17197",
+      "ingredient_id": "46ace448-3dc1-499f-bd72-c8a6ec3afa0d",
+      "ingredient_name": "Zinc Bisglycinate",
+      "biomarker": "Prolactin",
+      "pmid": "2864486",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "aca3bf13-98fb-48a3-ba9c-12ea14fa78b6",
+      "ingredient_id": "f51384a9-e301-4fc8-929c-eade6e78d15d",
+      "ingredient_name": "Vitamin B6 (as Pyridoxine HCl)",
+      "biomarker": "Prolactin",
+      "pmid": "8065526",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "55857f3a-79d7-4c3b-9795-3c9819afedd9",
+      "ingredient_id": "171b39b8-1406-4536-a965-346e57c7c79b",
+      "ingredient_name": "Milk Thistle extract",
+      "biomarker": "RBC Glutathione",
+      "pmid": "32065376",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "c1a3e447-38e2-44ab-86f8-72d83ec14ee0",
+      "ingredient_id": "820b2ee0-030b-4ba1-9f3d-eb4f972d1f42",
+      "ingredient_name": "Chlorella regularis",
+      "biomarker": "RBC Glutathione",
+      "pmid": "23865357",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "189f9ef0-d808-4e3e-bb4c-745ca4a973ce",
+      "ingredient_id": "ff8b4384-0df2-4a80-a215-459eac2093ec",
+      "ingredient_name": "Echinacea",
+      "biomarker": "Secretory IgA",
+      "pmid": "24554461",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "717ffc76-f89f-43e6-93b1-8ea800ff5b82",
+      "ingredient_id": "dc9f12b5-3c73-445c-a05d-74282942ece5",
+      "ingredient_name": "Boron",
+      "biomarker": "Testosterone (Total)",
+      "pmid": "21129941",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "584cd4d9-1e95-4674-b0ce-c810fc2c2f79",
+      "ingredient_id": "dc9f12b5-3c73-445c-a05d-74282942ece5",
+      "ingredient_name": "Boron",
+      "biomarker": "Serum 25-Hydroxyvitamin D",
+      "pmid": "26770156",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "e3e40734-6ba0-478c-ba6b-0b26b6d0bd70",
+      "ingredient_id": "9e3c2f8e-1def-4628-9a58-43a80f1ae90c",
+      "ingredient_name": "Saw Palmetto",
+      "biomarker": "Testosterone (Total)",
+      "pmid": "23235581",
+      "similarity": 1.0
+    },
+    {
+      "evidence_id": "dedce44c-7688-4793-a394-7117bdfc04a6",
+      "ingredient_id": "c2c8a514-e3c7-4f6a-9550-9238d8f2e310",
+      "ingredient_name": "Eicosapentaenoic Acid",
+      "biomarker": "Triglycerides",
+      "pmid": "30415628",
+      "similarity": 0.8888888888888888
+    }
+  ]
+}
