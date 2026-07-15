@@ -1,0 +1,27 @@
+{
+  "description": "Brand enrichment progress tracker - city/state/founded_year",
+  "last_updated": "2026-07-08",
+  "total_brands": 4261,
+  "brands_enriched": [
+    {"id": "0094e085-5099-4cac-bdce-282479bd7972", "name": "Ancestral Supplements", "founded_year": 2019, "city": "Willis", "state": "TX"},
+    {"id": "73190fb0-1ae6-4d16-8b73-5c54f3791c42", "name": "Ancient Nutrition", "founded_year": 2016, "city": "Franklin", "state": "TN"},
+    {"id": "8336c038-81c5-4987-8824-a2e5efe76af8", "name": "Gorilla Mind", "founded_year": 2017, "city": "Boise", "state": "ID"},
+    {"id": "6ba7b063-e3e4-4351-b626-78c17a9b601d", "name": "Transparent Labs", "founded_year": 2015, "city": "Lindon", "state": "UT"},
+    {"id": "963b9111-44b4-49c9-8439-102eafac9c8e", "name": "Legion", "founded_year": 2014, "city": "Clearwater", "state": "FL"},
+    {"id": "2adde876-6baf-4778-bc25-195c31468054", "name": "Ritual", "founded_year": 2015, "city": "Los Angeles", "state": "CA"},
+    {"id": "e740e452-c0e9-46ee-8710-eca541bbe950", "name": "Athletic Greens", "founded_year": 2010, "city": "Carson City", "state": "NV"},
+    {"id": "ffe43d4e-aa6a-4580-8fed-a5acc4eec257", "name": "Momentous", "founded_year": 2017, "city": "Park City", "state": "UT"},
+    {"id": "b6e265cd-9024-4d56-a90d-1b508788f806", "name": "MegaFood", "founded_year": 1973, "city": "Londonderry", "state": "NH"},
+    {"id": "f9feba60-bb00-4e7c-97ff-7a16a3cc498d", "name": "Garden of Life", "founded_year": 2000, "city": "Palm Beach Gardens", "state": "FL"},
+    {"id": "f481c3a6-7754-436a-93f1-8e30de228ccb", "name": "Onnit", "founded_year": 2010, "city": "Austin", "state": "TX"},
+    {"id": "c979337f-3e25-40c2-8c62-c3c203baa29b", "name": "Four Sigmatic", "founded_year": 2012, "city": "Santa Monica", "state": "CA"},
+    {"id": "1c4da4cc-f2ac-4a34-8382-e84633f87d70", "name": "Nutrafol", "founded_year": 2014, "city": "New York", "state": "NY"},
+    {"id": "2434fed7-3955-4b4c-a3e6-1cdcc55d9cbf", "name": "Orgain", "founded_year": 2009, "city": "Irvine", "state": "CA"}
+  ],
+  "notes": [
+    "averageRating is auto-computed by the backend when brand reviews are created via create_brand_review",
+    "Only 3 brands currently have brand reviews in the system",
+    "To scale enrichment: use web search per brand to find founded_year, city, state, then call update_brand",
+    "Prioritize brands with highest search_interest_score or product_count for enrichment"
+  ]
+}

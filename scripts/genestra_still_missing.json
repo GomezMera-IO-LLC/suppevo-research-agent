@@ -1,0 +1,602 @@
+[
+  {
+    "id": "00f0ee2f-2608-429c-b376-98d5593111c4",
+    "name": "D.I.M.",
+    "upc": "883196137008"
+  },
+  {
+    "id": "01b0da31-6860-400c-b381-83f4ce4436fa",
+    "name": "Super EFA Forte Liquid Natural Orange Flavor",
+    "upc": "883196153121"
+  },
+  {
+    "id": "048d7522-a393-4e2e-a87f-79ef362a5dc0",
+    "name": "Ascorbate C Lemon Flavor",
+    "upc": "883196143900"
+  },
+  {
+    "id": "052f899d-0b96-4f89-99fb-2a69b4812988",
+    "name": "HMF Immune Powder Natural Mixed Berry Flavor",
+    "upc": "883196153350"
+  },
+  {
+    "id": "0803ceeb-327f-47fe-a2f7-358714f4e011",
+    "name": "Ascorbyl-C + Bioflavonoids",
+    "upc": "883196151400"
+  },
+  {
+    "id": "08677608-6941-4601-addc-f1d61ae5a85c",
+    "name": "HMF Child Delicious Natural Black Currant Flavor",
+    "upc": "883196113422"
+  },
+  {
+    "id": "09b9fb19-2824-43eb-8ec6-378189aa4c2d",
+    "name": "TIM",
+    "upc": "883196130504"
+  },
+  {
+    "id": "0c48f079-5600-4b02-a2b5-f6bf5990b1fb",
+    "name": "HMF Metabolic",
+    "upc": "883196153688"
+  },
+  {
+    "id": "0c620d03-7063-490b-8599-29cb8cda1055",
+    "name": "Pregna Vite",
+    "upc": "883196100606"
+  },
+  {
+    "id": "0cdba25a-fdeb-4e6f-b0a6-5a46462001d4",
+    "name": "Super EFA Liquid Plus Natural Orange flavor",
+    "upc": "883196115228"
+  },
+  {
+    "id": "0f06c746-4d81-44b3-a921-89dc9c09b73c",
+    "name": "SunButyrate Liquid Natural Blueberry-Vanilla Flavor",
+    "upc": "883196153497"
+  },
+  {
+    "id": "14a155cb-71ec-46b8-a830-14834b1b4708",
+    "name": "Super EFA Forte Capsules",
+    "upc": "883196153176"
+  },
+  {
+    "id": "15aa2d54-5db0-41f0-98e0-45081eadae84",
+    "name": "Collagen Liquid Enhanced Natural Pomegranate-Raspberry Flavor",
+    "upc": "883196153664"
+  },
+  {
+    "id": "1d313e35-e077-41ae-824c-e569504e2f73",
+    "name": "HMF Multi Strain",
+    "upc": "883196140107"
+  },
+  {
+    "id": "1e6434e5-3097-4357-9cf0-5bcb6482e436",
+    "name": "Super EFA Liquid Natural Orange Flavor",
+    "upc": "883196112135"
+  },
+  {
+    "id": "21f939f2-d76a-44b9-9bf5-165d6f2a9958",
+    "name": "HMF Multi Strain 100",
+    "upc": "883196150601"
+  },
+  {
+    "id": "239ca50d-aea1-4b6b-b779-a7c2c6966e64",
+    "name": "Active Multi Vite Gummies Natural Raspberry-Lemon Flavor",
+    "upc": "883196153640"
+  },
+  {
+    "id": "29cfc3ea-b2a3-46db-8592-0aa326aced17",
+    "name": "HMF Capsules",
+    "upc": "883196102334"
+  },
+  {
+    "id": "2b3564a9-e111-490a-884a-cf016c652e52",
+    "name": "THYM",
+    "upc": "883196124404"
+  },
+  {
+    "id": "2babd9da-20e9-4665-ac70-1607e37299cd",
+    "name": "Liquid Iodine",
+    "upc": "883196124206"
+  },
+  {
+    "id": "2cdc7d68-f666-4395-b007-700f21b97a98",
+    "name": "Chewable V-Enzymes Natural Peppermint Flavor",
+    "upc": "883196155927"
+  },
+  {
+    "id": "2f793b64-de01-4d9e-b73e-615fe04b928e",
+    "name": "D-Mulsion 1000 Natural Berry Flavor",
+    "upc": "883196153701"
+  },
+  {
+    "id": "2fd5d553-99ee-4be0-99dd-f0af4f668076",
+    "name": "Zinc Glycinate Liquid Natural Peach-Tangerine Flavor",
+    "upc": "883196152209"
+  },
+  {
+    "id": "3211e50c-b812-4807-a590-8d205cc6414d",
+    "name": "HMF Immune Natural Black Currant Flavor",
+    "upc": "883196156023"
+  },
+  {
+    "id": "37e95540-1b1c-4730-949f-cc95dab63647",
+    "name": "HMF Women's Daily Chewables Natural Cranberry-Apple-Raspberry Flavour",
+    "upc": "883196153428"
+  },
+  {
+    "id": "3b0a2c17-2d9a-4dec-9ba5-4dea1d13a38b",
+    "name": "Lithium Spray Lemonade Flavor",
+    "upc": "883196143405"
+  },
+  {
+    "id": "3d3bd565-603e-4dca-83e6-9d8f6d4a24d6",
+    "name": "D3 K2 Mulsion Natural Lemon Flavor",
+    "upc": "883196137305"
+  },
+  {
+    "id": "415976bd-66a5-46dd-9cbd-551530fac734",
+    "name": "Magnesium Complex Liquid Natural Tart Berry Flavor",
+    "upc": "883196144105"
+  },
+  {
+    "id": "43ad175c-f6ff-408f-8f44-40776836b388",
+    "name": "Formula OSG",
+    "upc": "883196123001"
+  },
+  {
+    "id": "440a773a-a961-4b33-8b4c-8260d874d160",
+    "name": "Black Walnut Capsules",
+    "upc": "883196139705"
+  },
+  {
+    "id": "445b9066-8f03-4975-8a30-db380bd9f793",
+    "name": "Super DHA Liquid Natural Orange Flavor",
+    "upc": "883196114818"
+  },
+  {
+    "id": "48c9ebd8-9228-414f-a131-38a8ef5e89ef",
+    "name": "Kelp Combination #1",
+    "upc": "883196135301"
+  },
+  {
+    "id": "4b12199b-923e-4340-9ea9-c210a1adbdeb",
+    "name": "Herbotox Tablets",
+    "upc": "883196124312"
+  },
+  {
+    "id": "4b65ad16-b4db-48bd-91a4-cdffc4bf5b15",
+    "name": "HMF Multi Strain 50",
+    "upc": "883196146604"
+  },
+  {
+    "id": "4b83b55d-07ee-47ed-8dd6-1edca4a2df43",
+    "name": "TLIP",
+    "upc": "883196124107"
+  },
+  {
+    "id": "523321d5-84b4-4760-b2ef-293278b442f6",
+    "name": "Phyto-Gen Car-gen",
+    "upc": "883196120215"
+  },
+  {
+    "id": "52dbf2ae-4859-423a-b9df-61ab037ae748",
+    "name": "Yellow Dock Combination #1",
+    "upc": "883196140206"
+  },
+  {
+    "id": "54897cc9-dc65-4711-9e1c-9fb73db9206d",
+    "name": "TPTP",
+    "upc": "883196124800"
+  },
+  {
+    "id": "54b900f0-5e46-42f6-bd42-06a40ebaf183",
+    "name": "Scorbatate",
+    "upc": "883196110605"
+  },
+  {
+    "id": "55c2f691-a6ed-496c-a3ca-2cb8e4dfd8ea",
+    "name": "Femagen TLI",
+    "upc": "883196109906"
+  },
+  {
+    "id": "55c682c5-fc3a-46c4-a1f7-28a7836a1362",
+    "name": "Corn Root Bark",
+    "upc": "883196127702"
+  },
+  {
+    "id": "5cb80075-6453-4d30-8b20-5828ca4eed9b",
+    "name": "Cal Mag Raspberry Liquid Natural Raspberry Flavor",
+    "upc": "883196126507"
+  },
+  {
+    "id": "5cf9a304-26ba-49d7-a041-dd4dc013f9a0",
+    "name": "D3 1000 Vegan",
+    "upc": "883196156221"
+  },
+  {
+    "id": "5f0744a3-315c-4f96-85b0-3e7e2a5b6a81",
+    "name": "Bromelain Papain +",
+    "upc": "883196104116"
+  },
+  {
+    "id": "62193e51-236d-4f60-9f7b-63a42ce692af",
+    "name": "Phyto-gen Met-gen",
+    "upc": null
+  },
+  {
+    "id": "64207ff0-69b6-4855-a321-2553f851d86d",
+    "name": "HMF Intensive",
+    "upc": "883196102938"
+  },
+  {
+    "id": "654578c2-7083-43eb-be5a-cb8149658a6d",
+    "name": "HMF Cystgen",
+    "upc": "883196105021"
+  },
+  {
+    "id": "6636e7f7-1fa3-423e-bbbe-ff20a5708a62",
+    "name": "TPIN",
+    "upc": "883196122103"
+  },
+  {
+    "id": "675d5cf8-d591-44c0-9c6c-b0a78dcf9942",
+    "name": "HMF Maternity",
+    "upc": "883196134700"
+  },
+  {
+    "id": "693a156d-6bab-44ed-8730-c94d003c675f",
+    "name": "KMG Plus",
+    "upc": "883196106615"
+  },
+  {
+    "id": "698dff55-3afe-4a2f-abc4-7229f8af03ac",
+    "name": "Super EFA Forte Liquid + D Natural Orange Flavor",
+    "upc": "883196153138"
+  },
+  {
+    "id": "6aa67832-d40a-4dae-8784-067679d578d1",
+    "name": "Femagen PMS Tablets",
+    "upc": "883196132003"
+  },
+  {
+    "id": "6d623345-6a47-4379-9020-92924626a3a8",
+    "name": "Pediatri Vite Natural Cherry Flavor",
+    "upc": "883196149902"
+  },
+  {
+    "id": "6da460a3-184b-4c58-805b-e8c12f4c9111",
+    "name": "Cat's Claw Tincture",
+    "upc": "883196140503"
+  },
+  {
+    "id": "6ebd4582-3fb1-4e44-974d-7b148de30521",
+    "name": "Curcumin Complex",
+    "upc": "883196143504"
+  },
+  {
+    "id": "732a9349-fce3-4f36-87eb-4b7245da9193",
+    "name": "HMF Powder",
+    "upc": "883196102235"
+  },
+  {
+    "id": "76923962-79c0-489d-bf1e-32b13fea6cd5",
+    "name": "European Hazel Bud",
+    "upc": "883196118410"
+  },
+  {
+    "id": "76de5f07-a6b3-4346-8f64-dd8890b8d072",
+    "name": "Metabolic Protein Chocolate",
+    "upc": "883196153282"
+  },
+  {
+    "id": "7f43f9bd-958d-4ccb-b8ad-838e8e4b4b95",
+    "name": "Active Chewable B12 Natural Cherry Flavor",
+    "upc": "883196131105"
+  },
+  {
+    "id": "8107c628-b38f-4a75-8dc5-7dc4f0a3ceee",
+    "name": "Cal Mag Vanilla Liquid + Natural Vanilla Flavor",
+    "upc": "883196126408"
+  },
+  {
+    "id": "813769ab-b0b9-410a-8d29-4e7ce9513e40",
+    "name": "Bio Folic Acid + B12 Liquid Natural Cherry Flavor",
+    "upc": "883196106011"
+  },
+  {
+    "id": "816e5276-63eb-4c5a-b044-1b084441f47e",
+    "name": "Spanish Chestnut Bud",
+    "upc": "883196128006"
+  },
+  {
+    "id": "81c5d4a3-364a-4587-bbae-ab2bc5973ceb",
+    "name": "Metabolic Protein Vanilla",
+    "upc": "883196153268"
+  },
+  {
+    "id": "82a2c497-f642-4b44-9a75-aa7415219118",
+    "name": "Berry EFA Plus",
+    "upc": "883196107704"
+  },
+  {
+    "id": "866776a4-688b-4227-b3b1-4460b67350f6",
+    "name": "Astragalus Combination #1",
+    "upc": "883196135004"
+  },
+  {
+    "id": "86840456-ccd8-4a98-bde0-7ed6caeb3152",
+    "name": "Phyto-Gen Giant Sequoia Young Shoot",
+    "upc": "883196118205"
+  },
+  {
+    "id": "868902dd-0da0-4516-bb08-4e1a745b09f8",
+    "name": "HMF Fit For School Powder",
+    "upc": "883196153442"
+  },
+  {
+    "id": "90389e93-1191-4651-a85f-18f07724ea6e",
+    "name": "Passiflora Combination",
+    "upc": "883196137800"
+  },
+  {
+    "id": "914aeed0-88bb-4e42-bd48-81024fd3ad8b",
+    "name": "Super EFA Forte Capsules + D",
+    "upc": "883196153190"
+  },
+  {
+    "id": "929c3b23-e94d-4b40-83a7-f75d20b68229",
+    "name": "TAD+",
+    "upc": "883196114221"
+  },
+  {
+    "id": "9567e1f5-6e0b-4579-afe7-cfe2c676bfe0",
+    "name": "Cod Liver Oil DHA-EPA Forte Capsules",
+    "upc": "883196107605"
+  },
+  {
+    "id": "96d6930c-03a4-4127-99db-db955c454ed8",
+    "name": "Liquid B Complex Natural Cherry Flavor",
+    "upc": "883196125500"
+  },
+  {
+    "id": "9b181048-cb7d-4c98-b0bb-8dac51a345d3",
+    "name": "Ginkgo Tincture",
+    "upc": "883196135806"
+  },
+  {
+    "id": "9c6a86b7-1e2e-42ee-8fa5-ec4cb80939a4",
+    "name": "Phyto-Gen Hpe-gen",
+    "upc": "883196120505"
+  },
+  {
+    "id": "9ef2f912-5009-4233-ae16-0a40dfcaf147",
+    "name": "FOS + L-Glutamine",
+    "upc": "883196104307"
+  },
+  {
+    "id": "a0a788e4-001f-40d1-ab51-599f19974b61",
+    "name": "TSPP",
+    "upc": "883196130009"
+  },
+  {
+    "id": "a1089dd1-da17-4fc8-a859-5927445007d4",
+    "name": "D-Mulsion 1000 Natural Spearmint Flavor",
+    "upc": "883196126606"
+  },
+  {
+    "id": "a2b53c5e-ac5e-4405-a028-84b3b57baabd",
+    "name": "Berry DHA",
+    "upc": "883196107827"
+  },
+  {
+    "id": "a381dfeb-6f5a-473f-88a5-e4fdcc01feca",
+    "name": "TBMP",
+    "upc": "883196114009"
+  },
+  {
+    "id": "a7631574-6d31-4bdd-9078-e09e61ef9851",
+    "name": "HMF Intensive 500",
+    "upc": "883196148608"
+  },
+  {
+    "id": "a785a9ab-75aa-4f3d-b4d4-324b5d819096",
+    "name": "D-Mulsion 400 Natural Lemon Flavor",
+    "upc": "883196100415"
+  },
+  {
+    "id": "a9fa823f-fd22-4d32-ac06-c55549892dec",
+    "name": "TLU",
+    "upc": "883196110209"
+  },
+  {
+    "id": "a9fbc896-8cb2-4941-afbc-0ccddd2b25df",
+    "name": "Potassium Glycinate Liquid Natural Blueberry-Lemon-Basil Flavor",
+    "upc": "883196152100"
+  },
+  {
+    "id": "aa9a94bf-19eb-4ee6-85cb-b5e967acf8da",
+    "name": "Liquid Iron Natural Raspberry Flavor",
+    "upc": "883196142903"
+  },
+  {
+    "id": "afdd28f6-cf91-4bf9-a53e-a95d61e49add",
+    "name": "Astragalus Tincture",
+    "upc": "883196129003"
+  },
+  {
+    "id": "b37fc175-3c81-4b7f-b291-f62c33afa610",
+    "name": "TOS Cal Hydroxy",
+    "upc": "883196123520"
+  },
+  {
+    "id": "b5fdee96-7fc2-4c54-8e6a-29f4af8da611",
+    "name": "Magnesium Glycinate Liquid Natural Apple-Pomegranate Flavor",
+    "upc": "883196144808"
+  },
+  {
+    "id": "b62a7530-59b9-43df-87a4-4b4c808e8972",
+    "name": "HMF intensive 50",
+    "upc": "883196151301"
+  },
+  {
+    "id": "b9e86e67-2674-4a2f-ab9f-ae6d02b44bc9",
+    "name": "Mag Cal Vanilla Liquid Natural Vanilla Flavor",
+    "upc": "883196130801"
+  },
+  {
+    "id": "bc9e5564-ab81-47ed-a494-b405b35606c1",
+    "name": "Dioscorea Capsules",
+    "upc": "883196125616"
+  },
+  {
+    "id": "bcde33a7-886a-4be4-b913-090e2410b052",
+    "name": "CDC Forte",
+    "upc": "883196100521"
+  },
+  {
+    "id": "bf057ba0-2706-4e2e-8111-6acfe30b9598",
+    "name": "HMF powder",
+    "upc": "883196156245"
+  },
+  {
+    "id": "c3cbc839-2919-41a1-bf94-ec1ed727cc85",
+    "name": "Amino Taurine",
+    "upc": "883196152001"
+  },
+  {
+    "id": "c617821c-806b-4ca3-b0a1-98136bba6569",
+    "name": "Manganese",
+    "upc": "883196136100"
+  },
+  {
+    "id": "ccf3cbc6-951f-45cc-93e3-17c5279bdfb7",
+    "name": "Active Chewable B12 with L-Methylfolate Natural Cherry Flavor",
+    "upc": "883196131006"
+  },
+  {
+    "id": "cd5a42a5-922e-49f8-b380-7292845fb8ab",
+    "name": "Digest Gluten Chewable Delicious Natural Cherry-Berry Flavor",
+    "upc": "883196153244"
+  },
+  {
+    "id": "ce3ede24-9f0e-46b6-a785-0b0deddb6d02",
+    "name": "Omega EFA Liquid Natural Lemon Flavor",
+    "upc": "883196133901"
+  },
+  {
+    "id": "d000b6fc-6d49-4183-8120-e1f7c9769c9c",
+    "name": "Femagen PMS Capsules",
+    "upc": "883196135516"
+  },
+  {
+    "id": "d14208a7-fdbe-42ab-899e-2b17d46fd59c",
+    "name": "A-Mulsion Citrus Flavor",
+    "upc": "883196126811"
+  },
+  {
+    "id": "d63a3395-7e84-4a55-9c05-ababa3682a94",
+    "name": "Phyto-Gen Fluid-gen",
+    "upc": "883196120413"
+  },
+  {
+    "id": "dc114460-3c01-4a85-98e3-8d389ce52cfc",
+    "name": "D3 5000",
+    "upc": "883196153619"
+  },
+  {
+    "id": "de703959-557b-497b-b7f8-2a3861f505f0",
+    "name": "Super EFA Liquid Natural Strawberry Flavor",
+    "upc": "883196134502"
+  },
+  {
+    "id": "dff4e6e8-41d7-4ed3-8c0c-d59143e3856b",
+    "name": "Super EFA Liquid Plus CoQ10 Natural Orange Flavor",
+    "upc": "883196134601"
+  },
+  {
+    "id": "e2b0face-89aa-42cc-aea8-366603aed4aa",
+    "name": "Bio B12 + Folic Acid Natural Cherry Flavor",
+    "upc": "883196112418"
+  },
+  {
+    "id": "e8c5c6c3-ffa4-4b53-a9c9-44efd707413b",
+    "name": "DHA Pediaburst Natural Orange Flavor",
+    "upc": "883196110711"
+  },
+  {
+    "id": "f023dcd3-e403-49f4-b9c3-e25ed8f92fa9",
+    "name": "HMF Replete",
+    "upc": "883196102631"
+  },
+  {
+    "id": "f040487b-40b6-4532-bc96-55555e5de98a",
+    "name": "CoQ10 Chewable Blackcurrant Flavor",
+    "upc": "883196131600"
+  },
+  {
+    "id": "f09f16bf-266e-42b8-85d9-f83bbed0f6d6",
+    "name": "Super EFA Liquid Plus D Natural Orange Flavor",
+    "upc": "883196134403"
+  },
+  {
+    "id": "f17df38d-e338-48ae-bc7b-2156e836830f",
+    "name": "Melatonin Spray Natural Spearmint Flavor",
+    "upc": "883196141708"
+  },
+  {
+    "id": "f4044b4b-961c-4e0c-8fc5-da1449316518",
+    "name": "TFE",
+    "upc": "883196137404"
+  },
+  {
+    "id": "f4661185-42b7-4ad5-b579-cbcd201e1232",
+    "name": "Super DHA Forte Liquid Natural Orange Flavor",
+    "upc": "883196153725"
+  },
+  {
+    "id": "f48da78c-2f2d-41fb-9b26-e48b8705ac17",
+    "name": "Phyto-Gen Antia-gen",
+    "upc": "883196109425"
+  },
+  {
+    "id": "f50155d3-0ab2-4f1f-ba02-2f1f29b5d6b8",
+    "name": "HMF Neuro Powder",
+    "upc": "883196100231"
+  },
+  {
+    "id": "f5553281-f89c-45f5-b1d3-eb421c84c50b",
+    "name": "CoQ10 + Taurine",
+    "upc": "883196137503"
+  },
+  {
+    "id": "f7031377-8df9-4d43-8843-253796c1389c",
+    "name": "Cod Liver Oil Forte Natural Citrus Flavor",
+    "upc": "883196107506"
+  },
+  {
+    "id": "f95f4bd3-5d87-439e-a3cc-1c228562d536",
+    "name": "D3 1000 Chewable Blackcurrant Flavor",
+    "upc": "883196106301"
+  },
+  {
+    "id": "f9a355e2-bd41-4739-916f-066dcacb3009",
+    "name": "Phyto-Gen Growth-gen",
+    "upc": "883196108817"
+  },
+  {
+    "id": "fb9c3e52-4aa9-4cc7-963d-12637b93c4c3",
+    "name": "Cal Mag Berry Liquid + Natural Blueberry Flavor",
+    "upc": "883196153602"
+  },
+  {
+    "id": "fcb31e1d-4cd0-4966-8358-332ff7579687",
+    "name": "Ginkgo Capsules",
+    "upc": "883196153084"
+  },
+  {
+    "id": "fe9915e5-2e25-487c-bdff-ca6b6d8f2d00",
+    "name": "HMB Complex Natural Citrus Flavor",
+    "upc": "883196141500"
+  }
+]

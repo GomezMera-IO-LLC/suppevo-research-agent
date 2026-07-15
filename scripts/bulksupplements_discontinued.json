@@ -1,0 +1,56 @@
+{
+  "found": [
+    {
+      "id": "067a5380-8f13-4c30-b725-83f8b70b5e44",
+      "name": "Cayenne Extract",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0114/8869/0276/files/Cayenne-Pepper-Powder-500g_b87aa71f-67ec-4467-a8bd-1955b57adc1a.jpg?v=1762198595"
+    },
+    {
+      "id": "4065721c-599d-4899-bc3e-e0d1152121b9",
+      "name": "Gamma Aminobutyric Acid 600 mg",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0114/8869/0276/files/GABA-Capsules-240ct-Main-Image-V002.jpg?v=1759467042"
+    }
+  ],
+  "discontinued": [
+    {
+      "id": "05d412e9-37f2-4732-ae28-3b1eb5c24605",
+      "name": "Acerola Extract (25% Vitamin C)"
+    },
+    {
+      "id": "a8e7618e-d29c-4ad8-b58f-b0aaf1af5cbb",
+      "name": "Cayenne Extract (500 mg)"
+    },
+    {
+      "id": "9b2e8113-9604-4f6e-bd5d-dae41c3c1049",
+      "name": "Creatinol o-Phosphate"
+    },
+    {
+      "id": "9334df5f-a7e5-4a0f-8d21-71b754c97581",
+      "name": "Gamma Aminobutyric Acid"
+    },
+    {
+      "id": "05a52b9a-538d-4189-9c8c-8f060884e950",
+      "name": "Galla Chinensis Extract"
+    },
+    {
+      "id": "1375ef47-b3e1-49a5-ac54-37fbd9275314",
+      "name": "Konjac Root Extract"
+    },
+    {
+      "id": "568bbf85-7c92-40c8-a8e5-fa7eaa93a960",
+      "name": "L-Ornithine Alpha-Ketoglutarate"
+    },
+    {
+      "id": "80b5c970-de84-444e-a85b-62402a0b580d",
+      "name": "Lemon Powder"
+    },
+    {
+      "id": "0c98cbaa-4d35-4799-93d4-46d0147dfc42",
+      "name": "Pomegranate Extract 40% Ellagic Acid"
+    },
+    {
+      "id": "269e1c09-d526-4b49-b674-1ecba426afe5",
+      "name": "Sulbutiamine"
+    }
+  ]
+}
