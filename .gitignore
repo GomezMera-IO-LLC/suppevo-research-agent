@@ -1,2 +1,26 @@
-# Kiro MCP Manager - Sensitive configuration files
+# Kiro sensitive settings
 .kiro/settings/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.env
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
