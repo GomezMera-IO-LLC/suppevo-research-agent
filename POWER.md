@@ -211,7 +211,7 @@ omega-3 AND cardiovascular[Title] AND 2020:2024[dp]
 - NCBI E-utilities docs: https://www.ncbi.nlm.nih.gov/books/NBK25500/
 
 ### suppevo
-- **Package:** `suppevo-data-mcp`
+- **Package:** `suppevo-mcp`
 - **Tools:** 100+ tools for products, ingredients, biomarkers, evidence links, and more
 
 #### Installation
@@ -222,8 +222,8 @@ Add to `.kiro/settings/mcp.json`:
 {
   "mcpServers": {
     "suppevo": {
-      "command": "uvx",
-      "args": ["suppevo-mcp"]
+      "command": "python",
+      "args": ["-m","suppevo_mcp.server"]
     }
   }
 }
