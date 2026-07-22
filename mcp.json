@@ -17,9 +17,42 @@
     },
     "suppevo": {
       "command": "uvx",
-      "args": ["suppevo-data-mcp@latest"],
+      "args": ["suppevo-mcp@latest"],
       "disabled": false,
       "autoApprove": []
+    },
+    "wigolo": {
+      "command": "npx",
+      "args": ["-y", "wigolo"],
+      "disabled": false,
+      "autoApprove": [
+        "search",
+        "fetch",
+        "crawl",
+        "extract",
+        "find_similar",
+        "cache",
+        "diff",
+        "watch",
+        "research",
+        "agent"
+      ]
+    },
+    "firecrawl-mcp": {
+      "command": "npx",
+      "args": ["-y", "firecrawl-mcp"],
+      "env": {
+        "FIRECRAWL_API_KEY": ""
+      },
+      "disabled": true,
+      "autoApprove": [
+        "firecrawl_scrape",
+        "firecrawl_map",
+        "firecrawl_crawl",
+        "firecrawl_extract",
+        "firecrawl_interact",
+        "firecrawl_interact_stop"
+      ]
     }
   }
 }
