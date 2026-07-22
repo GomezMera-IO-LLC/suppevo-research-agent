@@ -16,8 +16,8 @@
       ]
     },
     "suppevo": {
-      "command": "uvx",
-      "args": ["suppevo-mcp@latest"],
+      "command": "python",
+      "args": ["-m","suppevo_mcp.server"],
       "disabled": false,
       "autoApprove": []
     },
